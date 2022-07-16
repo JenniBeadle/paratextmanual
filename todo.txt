@@ -1,0 +1,9 @@
+﻿Docusaurus
+- Paratext - more en and fr
+- tweak config, make shareable
+- pictures
+- colours - green Paratext, red Bloom, blue FLEx, ?? apps??
+- copy to another computer
+
+- styles?
+mdx??
