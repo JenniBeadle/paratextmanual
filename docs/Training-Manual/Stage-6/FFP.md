@@ -3,12 +3,10 @@ title: Finalizing for Publication – New Testament
 ---
 
 
-**Introduction**
-
+**Introduction**  
 This module looks at the variety of tasks needed to finalize the text for publication.
 
-**What you will do**
-
+**What you will do**  
 -   Add **illustrations** and captions
 -   Identify names for the maps
 -   Draft Introduction to the NT/Bible
@@ -18,15 +16,13 @@ This module looks at the variety of tasks needed to finalize the text for public
 -   Numbers, money, weights and measures check
 -   Formatting checks.
 
-**23.1 Choose illustrations and write captions**
-
+**23.1 Choose illustrations and write captions**  
 -   Go to the dropbox (https://www.dropbox.com/sh/cs0qspb52iwa2rj/AACr9xi7s2LVoheonn0OnjPla?dl=0)
 -   Choose images (max 32 page), take note of the filenames.
 -   Write captions for the images
 -   Check the captions with the consultant
 
-**23.2 Add illustrations and captions**
-
+**23.2 Add illustrations and captions**  
 -   Go to the verse where you want the illustration.
 -   **Insert** \> **Figure**
 
@@ -62,12 +58,10 @@ Teacher's Note: The Combined NT Maps Biblical Terms list is not a standard list 
 -   Make sure there is an \\h line
 -   Type your introduction using the following markers:
 
-    \\mt1
-
-    \\is
-
+    \\mt1  
+    \\is  
     \\ip
-
+    
 -   Type in the overall introduction to the Bible/NT in the book **INT**
 
 **23.5 Check parallel passages**

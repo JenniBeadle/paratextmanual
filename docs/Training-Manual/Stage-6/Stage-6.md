@@ -11,6 +11,8 @@ It also involved checking the Parallel Passages.
 
 The following modules will help you in this stage:
 
--   [**PP: Parallel Passages**](Stage-6/PP)
--   [**FFP: Finalising for Publication**](Stage-6/FFP)
+-   [**PP: Parallel Passages**](PP.md)
+-   [**FFP: Finalising for Publication**](FFP.md)
+-   [**Create a study Bible**](StudyBibles.md)
+
 
