@@ -38,5 +38,9 @@
   "copyright": {
     "message": "Copyright © 2022 SIL International & Alliance biblique universelle. Tous droits réservés. Construit avec Docusaurus.",
     "description": "The footer copyright"
+  },
+  "link.item.label.Training": {
+    "message": "Formation",
+    "description": "The label of footer link with label=Training linking to /docs/intro"
   }
 }

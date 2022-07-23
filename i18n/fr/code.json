@@ -1,11 +1,4 @@
 {
-  "Easy to Use": {
-    "message": "Facile à utiliser",
-    "description": "The homepage message to ask the user to visit my blog"
-  },
-  "Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.": {
-    "message": "Docusaurus a été conçu dès le départ pour être facilement installé et utilisé afin de rendre votre site Web opérationnel rapidement."
-  },
   "theme.ErrorPageContent.title": {
     "message": "Cette page a planté.",
     "description": "The title of the fallback page when the page crashed"
@@ -245,5 +238,25 @@
   },
   "Learning to use Scripture Translation Software": {
     "message": "Apprendre à utiliser un logiciel de traduction des Écritures"
+  },
+  "theme.admonition.note": {
+    "message": "remarque",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "astuce",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "danger",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "info",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "attention",
+    "description": "The default label used for the Caution admonition (:::caution)"
   }
 }

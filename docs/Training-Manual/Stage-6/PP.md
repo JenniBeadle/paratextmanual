@@ -51,13 +51,15 @@ Normally you would make the comparisons after you have translated the passage be
 -   Click on a line of references in the top pane.  
     *The texts are displayed in the bottom pane.*
 
-    Text is shown in green when the text is exactly the same as in the other passage.
+:::tip
+Text is shown in green when the text is exactly the same as in the other passage.  
+Text is shown in yellow when it has the same meaning (thought) even though it is not exactly the same as in the other passage.
+:::
 
-    Text is shown in yellow when it has the same meaning (thought) even though it is not exactly the same as in the other passage.
-
-    If the text is green in Greek, then your text should also be the same.
-
-    Normally, if the text is different in the Greek than it should be different in your text, but not always.
+:::tip
+If the text is green in Greek, then your text should also be the same.  
+Normally, if the text is different in the Greek than it should be different in your text, but not always.
+:::
 
 ### 24.6 To correct the text
 
@@ -67,7 +69,9 @@ Normally you would make the comparisons after you have translated the passage be
 
 ### 24.7 Copying a text
 
+:::tip
 If two passage need to be the same, you should choose one (normally your later translation) and copy it over the other.
+:::
 
 -   Click the blue link « Edit »
 -   Select the text
@@ -78,13 +82,21 @@ If two passage need to be the same, you should choose one (normally your later t
 -   Paste (Ctrl+V)
 -   Click **OK**.
 
-    Be careful when there is more than one verse. You don’t want to paste the \\v.
+:::caution
+Be careful when there is more than one verse. You don’t want to paste the \\v.
+:::
 
 ### 24.8 Mark the passage as checked
 
 -   Click the check box beside the reference.
 
-    In Paratext 9 the check box marks the passages together. If you want to approve the passages individually (as in Paratext 8), you can use the **≡ Tab**, under **View** menu \> **Approve passages individually**.
+:::tip
+In Paratext 9 the check box marks the passages together. If you want to approve the passages individually (as in Paratext 8), you can use the **≡ Tab**, under **View** menu \> **Approve passages individually**.
+:::
+:::danger
+Needs updating for 9.3
+:::
+
 
 ### 24.9 Passages which have changed
 
@@ -92,10 +104,9 @@ Identify the passages which have been changed since they were marked as finished
 
 -   In the Parallel passage tool
 -   Change the passage filter to « Changed Text »
--   Click ab icon under the passage reference.
+-   Click **ab** icon under the passage reference.
 
-    ![wordml://122.png](media/ea1d66852c0192c8550330116493c717.png)
-
+    ![wordml://122.png](media/ea1d66852c0192c8550330116493c717.png)  
     *A comparison window is displayed in Paratext.*
 
 -   Change the text as necessary.

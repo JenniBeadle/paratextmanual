@@ -4,8 +4,8 @@ title: Overview
 ---
 
 
-## Summaries  by Specific Paratext Features
-In alphabetical order or [order by tasks](list-of-videos) grouped by stages 
+## Summaries of vidéos by Specific Paratext Features
+In alphabetical order or see [order by tasks](list-of-videos) grouped by stages 
 - Arranging Windows and Navigating (Navigation)
 - Back Translation
 - Biblical Terms

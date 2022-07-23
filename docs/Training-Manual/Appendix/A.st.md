@@ -1,5 +1,6 @@
-# A Special text
-
+---
+title: A Special text
+---
 The following passage often have special formatting (by adding other USFM codes).
 
 -   Matt 1.2-16: The genealogy, which is not normal prose. Often set in a special poetic form so the fathers line up and the form indicates this is a special list (with comments).

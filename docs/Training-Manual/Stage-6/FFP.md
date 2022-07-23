@@ -16,13 +16,13 @@ This module looks at the variety of tasks needed to finalize the text for public
 -   Numbers, money, weights and measures check
 -   Formatting checks.
 
-**23.1 Choose illustrations and write captions**  
+### 23.1 Choose illustrations and write captions
 -   Go to the dropbox (https://www.dropbox.com/sh/cs0qspb52iwa2rj/AACr9xi7s2LVoheonn0OnjPla?dl=0)
 -   Choose images (max 32 page), take note of the filenames.
 -   Write captions for the images
 -   Check the captions with the consultant
 
-**23.2 Add illustrations and captions**  
+### 23.2 Add illustrations and captions**
 -   Go to the verse where you want the illustration.
 -   **Insert** \> **Figure**
 
@@ -37,9 +37,11 @@ This module looks at the variety of tasks needed to finalize the text for public
 -   Click **Browse...** then find figure/illustration file. [6]
 -   Click **OK**.
 
-**23.3 Map names**
+### 23.3 Map names
 
+:::info
 Teacher's Note: The Combined NT Maps Biblical Terms list is not a standard list in Paratext 9. It is available here: 
+:::
 <https://raw.githubusercontent.com/erros84/PTManuals/master/Resources/CombinedNTMapBiblicalTerms.xml> and, once downloaded, the file should be copied into "My Paratext 9 Projects"  
 
 -   Click in your project.
@@ -52,7 +54,7 @@ Teacher's Note: The Combined NT Maps Biblical Terms list is not a standard list 
 -   Type a name for the file
 -   Click **Save**.
 
-**23.4 Draft Introduction to the NT/Bible**
+### 23.4 Draft Introduction to the NT/Bible
 
 -   Change to the book INT
 -   Make sure there is an \\h line
@@ -64,11 +66,11 @@ Teacher's Note: The Combined NT Maps Biblical Terms list is not a standard list 
     
 -   Type in the overall introduction to the Bible/NT in the book **INT**
 
-**23.5 Check parallel passages**
+### 23.5 Check parallel passages
 
--   See module PP: Parallel passages
+-   See module [PP Compare Parallel passages](PP.md)
 
-**23.6 Verify all checks are complete**
+### 23.6 Verify all checks are complete
 
 **Current book**
 
@@ -92,14 +94,14 @@ From the word list, do the following checks:
 -   **≡ Tab**, under **Tools** \> **Find Similar Words**
 -   **≡ Tab**, under **Tools** \> **Find Incorrectly Joined or Split Words**
 
-**23.7 Proper Names final check**
+### 23.7 Proper Names final check
 
 -   **≡ Tab**, under **Tools** \> **Biblical Terms**
 -   **≡ Tab**, under **Biblical terms** \> **Select Biblical Terms list** and choose the **Major Biblical Terms** list
 -   Filter on names with missing renderings
 -   Check that all names have an rendering (add if necessary).
 
-**23.8 Numbers, money, weights and measures**
+### 23.8 Numbers, money, weights and measures
 
 -   Click in your project.
 -   **≡ Tab**, under **Tools** \> **Biblical Terms**
@@ -107,7 +109,7 @@ From the word list, do the following checks:
 -   Choose the appropriate list.
 -   Add renderings as usual.
 
-**23.9 Formatting checks**
+### 23.9 Formatting checks
 
 -   Redo the module FC: Formatting checks.
 -   **≡ Tab**, under **Tools** \> **Checklists** \> **Long/short verses**

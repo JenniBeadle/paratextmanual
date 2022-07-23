@@ -2,7 +2,7 @@
 title:  Création d'une Bible d'étude 
 ---
 **Introduction**  
-Avec Paratext 9.2 (et plus), vous pouvez créer une Bible d'étude basée sur votre traduction en ajoutant des paragraphes d'introduction, des encadrés, des notes de bas de page détaillées et des renvois supplémentaires pour aider votre utilisateur à avoir une compréhension plus approfondie du texte biblique.
+Avec Paratext 9.2 (et plus), vous pouvez créer une Bible d'étude basée sur votre traduction en ajoutant des paragraphes d'introduction, des encadrés, des notes de bas de page détaillées et des renvois supplémentaires pour aider votre utilisateur à avoir une compréhension plus approfondie du texte biblique. 
 
 **Où en êtes-vous dans le processus ?**  
 Avant de pouvoir créer une Bible d'étude, vous devrez traduire et vérifier votre Nouveau Testament (ou ses parties). Ensuite, votre administrateur peut créer un nouveau projet (voir ci-dessous).
@@ -103,7 +103,9 @@ Le projet de publication fusionné est en lecture seule et ne peut pas être mod
 
 *Toute correction apportée au matériel d'étude biblique doit être effectuée dans le projet Additions pour études bibliques.
 
-Pour mettre à jour les modifications, créez à nouveau le projet de publication fusionné.
+:::tip
+Pour mettre à jour les modifications, créez à nouveau le projet de publication :::
+fusionné.
 
 ## Imprimer la Bible d'étude avec PTXPrint
 
@@ -111,5 +113,4 @@ La version 2.1.x (et supérieure) de PTXPrint peut imprimer le projet de publica
 
 Pour des instructions détaillées, voir <https://software.sil.org/ptxprint/how-to-study-bible-layout/>
 
-*** Traduit avec www.DeepL.com/Translator (version gratuite) ***
 

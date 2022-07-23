@@ -3,18 +3,6 @@
     "message": "BETA",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
-    "message": "Tutoriel - Notions de base",
-    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
-    "message": "5 minutes pour apprendre les concepts les plus importants du Docusaurus.",
-    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
-    "message": "Tutoriels supplémentaires",
-    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Parallel Passages": {
     "message": "Passages parallèles",
     "description": "The label for category Parallel Passages in sidebar tutorialSidebar"
@@ -26,10 +14,6 @@
   "sidebar.tutorialSidebar.category.Project notes": {
     "message": "Remarques du projet",
     "description": "The label for category Project notes in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Project notes.link.generated-index.description": {
-    "message": "Remarques de project.",
-    "description": "The generated-index page description for category Project notes in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Back-translation": {
     "message": "Retraduction",
@@ -76,7 +60,7 @@
     "description": "The label for category Stage-1 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Paratext training Manual": {
-    "message": "Paratext Manuel de formations",
+    "message": "Paratext Manuel de formation",
     "description": "The label for category Paratext training Manual in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Paratext training Manual.link.generated-index.description": {
@@ -166,5 +150,17 @@
   "sidebar.tutorialSidebar.category.Illustrations": {
     "message": "Illustrations",
     "description": "The label for category Illustrations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual.link.generated-index.description": {
+    "message": "Manuel de formation - Paratext ",
+    "description": "The generated-index page description for category Paratext Training Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Appendix.link.generated-index.description": {
+    "message": "Annexe",
+    "description": "The generated-index page description for category Appendix in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Video Summaries": {
+    "message": "Paratext Video Summaries",
+    "description": "The label for category Paratext Video Summaries in sidebar tutorialSidebar"
   }
 }

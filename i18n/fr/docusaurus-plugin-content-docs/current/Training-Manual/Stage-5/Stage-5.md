@@ -9,6 +9,6 @@ La cinquième étape d’un projet de traduction est la révision par la communa
 
 Les modules suivants vous aideront avec cette étape :
 
--   [**Rapport du progrès**](#sPPR)
+-   [**Rapport du progrès**](21.PPR.md)
 
--   [**Rapport des termes bibliques**](#sBTR)
+-   [**Rapport des termes bibliques**](22.BTR.md)

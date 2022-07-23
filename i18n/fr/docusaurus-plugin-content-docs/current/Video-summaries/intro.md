@@ -4,7 +4,8 @@ titre : Vue d'ensemble
 ---
 
 
-# Résumés par caractéristiques spécifiques du Paratext
+# Résumés des vidéos par caractéristiques spécifiques du Paratext
+Par ordre alphabétique ou voir [par ordre de tâches](list-of-videos) regroupées par étapes. 
 - Organisation des fenêtres et navigation
 - Retraduction
 - Termes bibliques
