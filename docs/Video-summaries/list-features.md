@@ -5,7 +5,9 @@ title: Overview
 
 
 ## Summaries of videos by Specific Paratext Features
-Alphabetical order of specific feature (in sidebar) or see list in [**order by tasks**](list-of-videos) grouped by stages 
+Alphabetical order of specific feature (in sidebar)   
+or see list in [**order by tasks**](list-of-videos) grouped by stages 
+
 - Arranging Windows and Navigating (see **Navigation**)
 - Back Translation
 - Biblical Terms
