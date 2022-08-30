@@ -52,12 +52,12 @@ Normally you would make the comparisons after you have translated the passage be
     *The texts are displayed in the bottom pane.*
 
 :::tip
-Text is shown in green when the text is exactly the same as in the other passage.  
+Text is shown in **grey** (or green) when the text is exactly the same as in the other passage.  
 Text is shown in yellow when it has the same meaning (thought) even though it is not exactly the same as in the other passage.
 :::
 
 :::tip
-If the text is green in Greek, then your text should also be the same.  
+If the text is green in Greek, then your text should also be the same (grey).  
 Normally, if the text is different in the Greek than it should be different in your text, but not always.
 :::
 
@@ -88,14 +88,28 @@ Be careful when there is more than one verse. You don’t want to paste the \\v.
 
 ### 24.8 Mark the passage as checked
 
--   Click the check box beside the reference.
+-   Click the check box beside the reference.  
+     *The set of references are approved*.
+     
+### Three modes for approving
+In this version of Paratext there are three modes for approving.
+-   Open the **menu** for the window.
+-   Under **View** you can choose between
+-   **Approve Sets of Parallels** - which is the default -
+-   **Approve Passages individually** individual check boxes
+-   **Approve by Set or Individually**, which allows you to switch back and forth between modes.
 
-:::tip
-In Paratext 9 the check box marks the passages together. If you want to approve the passages individually (as in Paratext 8), you can use the **≡ Tab**, under **View** menu \> **Approve passages individually**.
-:::
-:::danger
-Needs updating for 9.3
-:::
+### To change from set to individually
+
+-   Open the menu for the window.
+-   Under View, choose Approve by Set or Individually.  
+    *Initially, a checkbox for the entire set is shown in the Status column*.
+
+-   Hover the mouse over the lower checkbox for the set  
+  *A pencil icon is shown*.
+
+-   Click the **pencil**
+     *The checkboxes move to the other mode but only for this set of passages.*
 
 
 ### 24.9 Passages which have changed

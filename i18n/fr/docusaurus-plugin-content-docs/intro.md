@@ -5,7 +5,7 @@ title : Vue d'ensemble
 
 
 # Résumés par caract;eristiques spécifiques du Paratext
-- Organisation des fen�tres et navigation
+- Organisation des fenêtres et navigation
 - Retraduction
 - Termes bibliques
 - Outils de vérification

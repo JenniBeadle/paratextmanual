@@ -26,3 +26,20 @@
   --ifm-color-primary-lighter: #c2d952;
   --ifm-color-primary-lightest: #cde072;
 }
+
+
+/* from https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-printing */
+
+@media print {
+    .pagebreak { page-break-before: always; } /* page-break-after works, as well */
+}
+
+h2 {   
+    -webkit-break-after: avoid;
+    break-after: avoid;
+}
+
+h3 {   
+    -webkit-break-after: avoid;
+    break-after: avoid;
+}

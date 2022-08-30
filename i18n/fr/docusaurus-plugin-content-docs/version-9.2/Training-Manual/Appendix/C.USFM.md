@@ -1,11 +1,12 @@
 ---
 title: D - USFM Marqueurs fréquents
 ---
-Remarque : Tous les styles de type "Paragraphe" nécessitent l'utilisation de la touche "Entrée" lors du choix du marqueur en vue "Standard".
+:::tip Remarque
+Tous les styles de type "**Paragraphe**" nécessitent l'utilisation de la touche "**Entrée**" lors du choix du marqueur en vue "**Standard**".
 
-Remarque : Tous les types de style "Note" et "Caractère" nécessitent l'utilisation de la touche " antislash " lors du choix du marqueur en vue " Standard ".
-
-| USFM  | Description                                              | Type       |
+Tous les types de style "**Note**" et "**Caractère**" nécessitent l'utilisation de la touche "**antislash**" lors du choix du marqueur en vue "**Standard**".
+:::
+| USFM  | Déscription                                              | Type       |
 |-------|----------------------------------------------------------|------------|
 | \\id  | Fichier - Identification                                 | Paragraphe |
 | \\h   | Fichier - En-tête                                        | Paragraphe |
@@ -22,17 +23,19 @@ Remarque : Tous les types de style "Note" et "Caractère" nécessitent l'utilisa
 | \\mt2 | Titre principal niveau 2                                 | Paragraph  |
 | \\mt3 | Titre principal niveau 3                                 | Paragraph  |
 
-**Marqueurs moins fréquents**
 
-| USFM | Description                                              | Type       |
+**Marqueurs moins fréquents** 
+
+| USFM | Déscription                                              | Type       |
 |------|----------------------------------------------------------|------------|
 | \\pc | Paragraphe - Centré (pour Inscription)                   | Paragraphe |
 | \\nb | Paragraphe - Pas de rupture avec le Paragraphe précédent | Paragraphe |
 | \\li | Entrée de liste - Niveau 1                               | Paragraphe |
 
-**Introduction marqueurs**
 
-| USFM   | Description                                                     | Type       |
+**Marqueurs d'introduction **  
+
+| USFM   | Déscription                                                     | Type       |
 |--------|-----------------------------------------------------------------|------------|
 | \\imt1 | Introduction - Titre principal Niveau 1                         | Paragraphe |
 | \\iot  | Introduction - Titre du plan d'ensemble                         | Paragraphe |
@@ -42,25 +45,28 @@ Remarque : Tous les types de style "Note" et "Caractère" nécessitent l'utilisa
 | \\im   | Introduction - Paragraphe - pas d'indentation de première ligne | Paragraphe |
 | \\ipq  | Introduction - Paragraphe - Citation tirée du texte             | Paragraphe |
 
-**Marquers Renvoi**
 
-| USFM  | Description              | Type      |
+**Marquers Renvoi**  
+
+| USFM  | Déscription              | Type      |
 |-------|--------------------------|-----------|
 | \\x   | Renvoi                   | Note      |
 | \\xo  | Renvoi référence origin  | Caractère |
 | \\xt  | Renvoi références cibles | Caractère |
 | \\x\* | Renvoi                   | Note      |
 
-**Marquers Figure**
 
-| USFM    | Description                                 | Type |
+**Marquers Figure/Image**  
+
+| USFM    | Déscription                                 | Type |
 |---------|---------------------------------------------|------|
 | \\fig   | Auxiliaire – Image/Illustration/Carte       | Note |
 | \\fig\* | Auxiliaire – Fin d'Image/Illustration/Carte | Note |
 
-**Footnote Markers**
 
-| USFM  | Description                                                   | Type      |
+**Marquers Note de bas de page**  
+
+| USFM  | Déscription                                                   | Type      |
 |-------|---------------------------------------------------------------|-----------|
 | \\f   | Note de bas de page                                           | Note      |
 | \\fr  | Note de bas de page - Reference                               | Caractère |
@@ -70,9 +76,9 @@ Remarque : Tous les types de style "Note" et "Caractère" nécessitent l'utilisa
 | \\fqa | Note de bas de page - Équivalent de la traduction alternative | Caractère |
 | \\f\* | Fin de la note de bas de page                                 | Note      |
 
-**Glossary**
+**Glossaire**  
 
-| USFM          | Description                                                  | Type       |
+| USFM          | Déscription                                                  | Type       |
 |---------------|--------------------------------------------------------------|------------|
 | \\k ... k\*   | Mot clé (citation dans le glossaire)                         | Caractère  |
 | \\w ... \\w\* | Marquer un mot dans le glossaire (dans le texte)             | Caractère  |

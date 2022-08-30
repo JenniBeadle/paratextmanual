@@ -14,6 +14,6 @@ SIL suit six étapes, UBS en a quatre.
 -  [Étape 5](Stage-5) (Stage 3 ABU)
 -  [Étape 6](Stage-6) (Stage 4 ABU)
 - Annexe
-   - [A. Textes spéciaux](Appendix/A.st)
-   - [B. Abréviations de trois lettres](Appendix/B.3l)
+   - [A. Textes spéciaux](Appendix/A.st.md)
+   - [B. Abréviations de trois lettres](Appendix/B.3l.md)
    - [C. Marqueurs USFM courants](Appendix/C.USFM.md)

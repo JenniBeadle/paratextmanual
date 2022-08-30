@@ -1,44 +1,39 @@
 ---
 title: PP – Comparer les textes parallèles
 ---
-**Introduction**
-
+**Introduction**  
 Il y a des milles des passages dans un NT où le même événement est décrié ou qui citent un autre verset. On doit comparer ces textes pour vérifier qu’il est cohérent.
 
-**Où en sommes-nous ?**
-
+**Où en sommes-nous dans le processus ?**  
 Normalement, vous aurez déjà traduit et vérifié les textes avec un conseiller avant de comparer les textes.Bien qu'il y ait des temps que vous voudrez comparer les autres versets avant que vous traduisez le deuxième passage.
 
-**​Pourquoi cette aptitude est-elle importante ?**
-
+**​Pourquoi cette aptitude est-elle importante ?**  
 Les passages parallèles doivent être cohérents, mais ils ne doivent pas toujours être exactement le même. Paratext peut vous surligner quand la forme du texte est la même, mais c’est le sens (et pas nécessairement la forme) qui est important. Souvent ces comparaisons sont faites après avoir traduit les passages parce qu’on ne veut pas être influencé par ce que peut être une mauvaise traduction. Mais il y a des fois qu’on veut voir un autre passage d’un différent livre en même temps.
 
-**​Qu’est-ce qu’on va faire ?**
-
+**​Qu’est-ce qu’on va faire ?**  
 -   vous utilisez l’outil Textes parallèle pour comparer les textes.
 -   grâce aux nouvelles cases on peut savoir quels passages sont déjà finis et aussi s’il un passage était changé après vous l’avez vérifié.
 -   filtrer pour voir les versets qui étaient changé
 -   ouvrez une fenêtre de référence rapide dans Paratext pour voir un autre passage pendant que vous traduisez.
 -   vous apprendrez comment ouvrir un troisième passage en même temps que votre passage principal et en plus de la fenêtre de référence rapide.
 
-**24.1 Ouvrir la fenêtre de Textes parallèles**
+### 24.1 Ouvrir la fenêtre de Textes parallèles
 
 -   Naviguez au livre/chapitre/verset voulu.
 -   **≡ Onglet**, sous **Outils** \> **Textes parallèles**
 
     *Une fenêtre s'affiche avec une liste de références et des passages.*
 
-**24.2 Afficher les textes sources**
+### 24.2 Afficher les textes sources
 
 -   Cliquez sur la liste déroulante (options de hébreu/grec)
 
     ![](media/504f2c586a5f600b2d49456ab9edd114.png)
 
--   Choisissez comme désiré
-
+-   Choisissez comme désiré  
     *Les changements d'affichage.*
 
-**24.3 Sélectionner des Textes comparatifs**
+### 24.3 Sélectionner des Textes comparatifs
 
 -   Cliquez sur le bouton **Textes comparatifs**
 -   Cliquez sur une ressource (à gauche)
@@ -46,33 +41,35 @@ Les passages parallèles doivent être cohérents, mais ils ne doivent pas toujo
 -   Répétez si nécessaire
 -   Cliquez sur **OK**
 
-**24.4 Filtres**
+### 24.4 Filtres
 
 -   Choisissez les filtres comme désiré: [Tous les parallèles, NT/NT, NT/AT, AT/AT, Evangiles synoptiques]
 
     ![](media/ca8547e13eaa5c826b46c1f9e1d8e52e.png)
 
-**24.5 Comparer des passages**
+### 24.5 Comparer des passages
 
--   Cliquez dans une ligne dans la partie en haut.
-
+-   Cliquez dans une ligne dans la partie en haut.  
     *Les textes s’affichent en bas.*
 
-    Le texte en vert montre les mots qui sont identiques dans les passages parallèles dans la langue originale (p.ex. grec pour le NT).
+:::tip
+Le texte en vert montre les mots qui sont identiques dans les passages parallèles dans la langue originale (p.ex. grec pour le NT).
+Le texte en jaune montre les mots qui ne sont pas exactement les mêmes dans les passages parallèles, mais qui se ressemblent beaucoup (peut-être qu'il s'agit d'une autre forme du même verbe, ou d'un synonyme).
+:::
 
-    Le texte en jaune montre les mots qui ne sont pas exactement les mêmes dans les passages parallèles, mais qui se ressemblent beaucoup (peut-être qu'il s'agit d'une autre forme du même verbe, ou d'un synonyme).
 
-    Si le texte est en vert en grec votre texte doit être la même.
+:::tip
+Si le texte est en vert en grec votre texte doit être la même.
+Normalement, si le texte est diffèrent en grec, votre texte doit être diffèrent, mais pas toujours.
+:::
 
-    Normalement, si le texte est diffèrent en grec, votre texte doit être diffèrent, mais pas toujours.
-
-**24.6 Pour faire des corrections**
+### 24.6 Pour faire des corrections
 
 -   Cliquez sur le lien bleu « Édition »
 -   Faites les corrections.
 -   Cliquez sur **OK**.
 
-**24.7 Copier un texte**
+### 24.7 Copier un texte
 
 Si les deux passages doivent d'être le même, vous devriez choisir un (normalement votre traduction dernière) et le copier sur l'autre.
 
@@ -87,13 +84,19 @@ Si les deux passages doivent d'être le même, vous devriez choisir un (normalem
 
     Faites attention s’il y a plus un verset. On ne veut pas coller le \\v.
 
-**24.8 Marquer un texte comme vérifié**
+### 24.8 Marquer un texte comme vérifié
 
 -   Cliquez sur la case pour le cocher.
 
-    Dans Paratext 9, la case à cocher approvera les passages ensemble. Si vous voulez approuver les passages individuellement (comme dans Paratext 8), vous pouvez utiliser **≡ Onglet**, sous **Affichage** \> **Approuver les passages individuellement**.
+:::tip
+Dans Paratext 9, la case à cocher approvera les passages ensemble. Si vous voulez approuver les passages individuellement (comme dans Paratext 8), vous pouvez utiliser **≡ Onglet**, sous **Affichage** \> **Approuver les passages individuellement**.
+:::
 
-**24.9 Les passages qui ont été modifié**
+:::danger
+Needs updating for 9.3
+:::
+
+### 24.9 Les passages qui ont été modifié
 
 Identifier les passages qui ont été modifiés après avoir marqué comme finis.
 
@@ -109,7 +112,7 @@ Identifier les passages qui ont été modifiés après avoir marqué comme finis
 -   Retourner à l’outil textes parallèles (avec la barre des tâches)
 -   Cliquez sur la case pour le cocher est marqué comme fini.
 
-**24.10 Comparer les textes pendant la traduction**
+### 24.10 Comparer les textes pendant la traduction
 
 -   Cliquez dans votre projet.
 -   **≡ Onglet**, sous **Outils** \> **Aperçu Rapide**
@@ -118,7 +121,7 @@ Identifier les passages qui ont été modifiés après avoir marqué comme finis
 
 -   Changez la référence à un autre passage.
 
-**24.11 Voir un troisième passage**
+### 24.11 Voir un troisième passage
 
 -   Ouvrez votre projet un deuxième fois [**≡ Paratext**, sous **Paratext** \> **Ouvrir** et double-cliquez sur votre projet/ressource]
 -   Puis changer la groupe de défilement de **[A]** au « **Aucun** »/None.
