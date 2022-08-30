@@ -34,22 +34,14 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+           routeBasePath: '/',
+           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/JenniBeadle/paratextmanual/',
+            'https://github.com/JenniBeadle/paratextmanual/tree/main',
         },
-        //blog: {
-          //showReadingTime: true,
-          //// Please change this to your repo.
-          //// Remove this to remove the "edit this page" links.
-          //editUrl:
-            //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        //},
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
+        blog: false,
       }),
     ],
   ],
@@ -69,7 +61,6 @@ const config = {
     ],
   ],
    
-  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -80,13 +71,6 @@ const config = {
           src: 'img/logo9.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Docs',
-          },
-          //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/JenniBeadle/paratextmanual/',
             label: 'GitHub',
@@ -106,45 +90,9 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Training',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              //{
-                //label: 'Blog',
-                //to: '/blog',
-              //},
-              {
-                label: 'GitHub',
-                href: 'https://github.com/JenniBeadle/paratextmanual',
-              },
-            ],
-          },
+             },
         ],
+      
         copyright: `Copyright © ${new Date().getFullYear()} SIL International & United Bible Societies. All Rights Reserved. Built with Docusaurus.`,
       },
       prism: {

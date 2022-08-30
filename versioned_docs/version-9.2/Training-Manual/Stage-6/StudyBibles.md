@@ -104,13 +104,6 @@ The merged publication project is read-only and cannot be changed.
 
 To update the changes, create the merged publication project again.
 
-### Bible Study Additions project - Compare versions 
-In Paratext 9.3 and above, you can now use Compare versions
-- Open a Study Bible Additions project
-- From the **Project** menu, 
-- Under **Project**, choose **Compare Versions**  
-  *The changes in the additions are displayed*.
-
 ### Printing the Study Bible with PTXPrint
 
 Version 2.1.x (and above) of PTXPrint can print the merged publication project.

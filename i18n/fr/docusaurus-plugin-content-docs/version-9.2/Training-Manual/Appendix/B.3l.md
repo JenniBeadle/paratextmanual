@@ -1,10 +1,9 @@
 ---
-title: B - Les codes de livres bibliques (trois lettres)
+title: Les codes de livres bibliques (trois lettres)
 ---
 
-
+|   |  | |
 | Genèse - GEN                 | Exode - EXO        | Lévitique - LEV   |
-|------------------------------|--------------------|-------------------|
 | Nombres - NUM                | Deutéronome - DEU  | Josué - JOS       |
 | Juges - JDG                  | Ruth - RUT         | 1 Samuel - 1SA    |
 | 2 Samuel - 2SA               | 1 Rois - 1KI       | 2 Rois - 2KI      |
@@ -20,8 +19,8 @@ title: B - Les codes de livres bibliques (trois lettres)
 
 Table B.1 Ancien Testament
 
+|   |  | |
 | Matthieu - MAT          | Marc - MRK              | Luc - LUK        |
-|-------------------------|-------------------------|------------------|
 | Jean - JHN              | Actes - ACT             | Romains - ROM    |
 | 1 Corinthiens - 1CO     | 1 Corinthiens - 2CO     | Galates - GAL    |
 | Éphésiens - EPH         | Philippiens - PHP       | Colossiens - COL |

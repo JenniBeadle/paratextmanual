@@ -1,7 +1,8 @@
 # B Three letter abbreviations
 
-| Genesis - GEN       | Exodus - EXO       | Leviticus - LEV    |
+|  |  |  |  
 |---------------------|--------------------|--------------------|
+| Genesis - GEN       | Exodus - EXO       | Leviticus - LEV    |
 | Numbers - NUM       | Deuteronomy - DEU  | Joshua - JOS       |
 | Judges - JDG        | Ruth - RUT         | 1 Samuel - 1SA     |
 | 2 Samuel - 2SA      | 1 Kings - 1KI      | 2 Kings - 2KI      |
@@ -17,8 +18,9 @@
 
 Table B.1 Old Testament
 
-| Matthew - MAT         | Mark - MRK            | Luke - LUK       |
+|  |  |  |  
 |-----------------------|-----------------------|------------------|
+| Matthew - MAT         | Mark - MRK            | Luke - LUK       |
 | John - JHN            | Acts - ACT            | Romans - ROM     |
 | 1 Corinthians - 1CO   | 2 Corinthians - 2CO   | Galatians - GAL  |
 | Ephesians - EPH       | Philippians - PHP     | Colossians - COL |
