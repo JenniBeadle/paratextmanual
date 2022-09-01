@@ -1,5 +1,6 @@
 ---
-title: What's new in the Beta version of Paratext 9.3.
+title: What's new - Paratext 9.3
+sidebar_position: 3
 ---
 :::caution
 Please be aware that this is a Beta and some things may/will change before Paratext 9.3 is released.
