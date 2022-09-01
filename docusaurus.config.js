@@ -66,10 +66,6 @@ const config = {
     ({
       navbar: {
         title: 'Paratext Training',
-        logo: {
-          alt: 'ParatextLogo',
-          src: 'img/logo9.png',
-        },
         items: [
           {
             href: 'https://github.com/JenniBeadle/paratextmanual/',
@@ -89,8 +85,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-             },
         ],
       
         copyright: `Copyright © ${new Date().getFullYear()} SIL International & United Bible Societies. All Rights Reserved. Built with Docusaurus.`,
