@@ -29,7 +29,7 @@ Ce projet séparé contient une copie en lecture seule de votre projet et de vot
 - Vous devrez enregistrer le nouveau projet.  
     *Une copie grise en lecture seule de votre projet est affichée, avec une barre d'outils en haut.
 
-    ![](media/8671bb469453dc88a90bc9ea7889d114.png)
+    ![](../media/8671bb469453dc88a90bc9ea7889d114.png)
 
 ## Ajouter le matériel supplémentaire
 
@@ -80,7 +80,7 @@ Pour publier la Bible d'étude, vous devez créer un projet de publication.
 - Cliquez sur le menu Projet
 - Choisissez "Créer un projet de publication fusionné".
 
-    ![](media/c2532d37aae74e992a95d26c8725c242.png)
+    ![](../media/c2532d37aae74e992a95d26c8725c242.png)
 
 - Cliquez sur la liste déroulante "Merged publication project".
 - Créez un nouveau projet ou choisissez un projet précédent

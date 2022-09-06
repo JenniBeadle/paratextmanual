@@ -28,7 +28,7 @@ Les passages parallèles doivent être cohérents, mais ils ne doivent pas toujo
 
 -   Cliquez sur la liste déroulante (options de hébreu/grec)
 
-    ![](media/504f2c586a5f600b2d49456ab9edd114.png)
+    ![](../media/504f2c586a5f600b2d49456ab9edd114.png)
 
 -   Choisissez comme désiré  
     *Les changements d'affichage.*
@@ -45,7 +45,7 @@ Les passages parallèles doivent être cohérents, mais ils ne doivent pas toujo
 
 -   Choisissez les filtres comme désiré: [Tous les parallèles, NT/NT, NT/AT, AT/AT, Evangiles synoptiques]
 
-    ![](media/ca8547e13eaa5c826b46c1f9e1d8e52e.png)
+    ![](../media/ca8547e13eaa5c826b46c1f9e1d8e52e.png)
 
 ### 24.5 Comparer des passages
 
@@ -104,7 +104,7 @@ Identifier les passages qui ont été modifiés après avoir marqué comme finis
 -   Changez le filtre de passage au « Changed Text »
 -   Cliquez sur l'icône « ab ».
 
-    ![](media/7b561a763ccc098910a7941d503a86aa.png)
+    ![](../media/7b561a763ccc098910a7941d503a86aa.png)
 
     *Une fenêtre de comparaison s’affiche en Paratext.*
 
@@ -126,7 +126,7 @@ Identifier les passages qui ont été modifiés après avoir marqué comme finis
 -   Ouvrez votre projet un deuxième fois [**≡ Paratext**, sous **Paratext** \> **Ouvrir** et double-cliquez sur votre projet/ressource]
 -   Puis changer la groupe de défilement de **[A]** au « **Aucun** »/None.
 
-    ![](media/da972f21711957b32071c8a2a50ebe9a.png)
+    ![](../media/da972f21711957b32071c8a2a50ebe9a.png)
 
 -   Changez le référence au autre passage.
 
