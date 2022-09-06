@@ -27,7 +27,7 @@ Ce module traite la variété de tâches qu'on doit faire pour finaliser le text
 -   Dans votre projet, accédez au verset désiré.
 -   Du menu **Insérer**, choisissez **Image**
 
-    ![](media/fb70e0ddcbc63dd2bb034656c3e4e296.png)
+    ![](../media/fb70e0ddcbc63dd2bb034656c3e4e296.png)
 
 -   Saisissez une **légende** pour être imprimé avec l’image (en votre langue).[1]
 -   Saisissez une **description** en français de l’image   

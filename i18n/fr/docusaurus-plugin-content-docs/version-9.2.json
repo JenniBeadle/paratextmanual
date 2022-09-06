@@ -170,5 +170,29 @@
   "sidebar.tutorialSidebar.category.Spell checking and wordlist": {
     "message": "Spell checking and wordlist",
     "description": "The label for category Spell checking and wordlist in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Training-Manual": {
+    "message": "Training-Manual",
+    "description": "The label for category Training-Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-2": {
+    "message": "Stage-2",
+    "description": "The label for category Stage-2 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-3": {
+    "message": "Stage-3",
+    "description": "The label for category Stage-3 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-4": {
+    "message": "Stage-4",
+    "description": "The label for category Stage-4 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-6": {
+    "message": "Stage-6",
+    "description": "The label for category Stage-6 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Video-summaries": {
+    "message": "Video-summaries",
+    "description": "The label for category Video-summaries in sidebar tutorialSidebar"
   }
 }
