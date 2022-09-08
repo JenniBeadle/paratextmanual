@@ -13,3 +13,5 @@ This site contains:
 ## **Summaries** of 90+ Paratext training videos
    - grouped by specific [**Paratext features**](Video-summaries/00-list-of-features.md) 
    - grouped by [**task**](Video-summaries/00-list-of-videos.md) grouped by stage. 
+
+## What's new - [Paratext 9.3](Video-summaries/Whats-new.md)

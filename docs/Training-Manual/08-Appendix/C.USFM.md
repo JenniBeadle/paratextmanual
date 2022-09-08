@@ -20,14 +20,14 @@ Note: All Style Type "Note" and "Character" require using the "Backslash" key wh
 | \\mt2 | Title - Major Title Level 2               | Paragraph |
 | \\mt3 | Title - Major Title Level 3               | Paragraph |
 
-**Less-common Markers**
+## Less-common Markers
 
 | \\pc | Paragraph - Centered (for Inscription)       | Paragraph |
 |------|----------------------------------------------|-----------|
 | \\nb | Paragraph - No Break with Previous Paragraph | Paragraph |
 | \\li | List Entry - Level 1 - Single Level Only     | Paragraph |
 
-**Introduction Markers**
+## Introduction Markers
 
 | \\imt1 | Introduction - Major Title Level 1              | Paragraph |
 |--------|-------------------------------------------------|-----------|
@@ -38,7 +38,7 @@ Note: All Style Type "Note" and "Character" require using the "Backslash" key wh
 | \\im   | Introduction - Paragraph - no first line indent | Paragraph |
 | \\ipq  | Introduction - Paragraph - quote from text      | Paragraph |
 
-**Cross Reference Markers**
+## Cross Reference Markers
 
 | \\x   | Cross Reference                     | Note      |
 |-------|-------------------------------------|-----------|
@@ -46,13 +46,13 @@ Note: All Style Type "Note" and "Character" require using the "Backslash" key wh
 | \\xt  | Cross Reference - Target References | Character |
 | \\x\* | Cross Reference End                 | Note      |
 
-**Figure Markers**
+## Figure/Illustration Markers
 
 | \\fig   | Auxiliary - Figure/Illustration/Map     | Note |
 |---------|-----------------------------------------|------|
 | \\fig\* | Auxiliary - Figure/Illustration/Map End | Note |
 
-**Footnote Markers**
+## Footnote Markers
 
 | \\f   | Footnote                                    | Note      |
 |-------|---------------------------------------------|-----------|
@@ -63,7 +63,7 @@ Note: All Style Type "Note" and "Character" require using the "Backslash" key wh
 | \\fqa | Footnote - Alternate Translation Rendering  | Character |
 | \\f\* | Footnote End                                | Note      |
 
-**Glossary**
+## Glossary
 
 | \\k ... k\*   | Keyword (in the glossary)                      | Character |
 |---------------|------------------------------------------------|-----------|
