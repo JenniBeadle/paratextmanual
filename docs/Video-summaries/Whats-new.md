@@ -61,10 +61,11 @@ There is a new menu item on the **main menu**
 ### Arranging windows
 - Arrange windows by **rows** as well as by **columns**.
    ![](../media/arrange-in-rows.png)
-- Remember to save your layout!
-
+:::tip
+Remember to save your layout!
+:::
 ### Floating Windows
-- Dropdown to change the active project
+- Dropdown to change the active project  
    ![](../media/change-project-or-resource.png)
 
 ### Other new/changed

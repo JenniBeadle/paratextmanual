@@ -5,9 +5,9 @@ CLS
 ECHO.
 ECHO   Using Docusaurus
 ECHO.
-ECHO   ..................................................
-ECHO   PRESS 1-8 to select your task, or 9 to EXIT.
-ECHO   ..................................................
+ECHO   ---------------------------------------------
+ECHO    PRESS 1-8 to select your task, or 9 to EXIT
+ECHO   ---------------------------------------------
 ECHO   .
 ECHO   1 - View English site
 ECHO   2 - View French site
@@ -20,7 +20,7 @@ ECHO   8 - Upgrade Docusaurus to latest
 ECHO   9 - EXIT
 ECHO.
 
-SET /P M=  Type 1, 2, 3, 4, 5, 6 or 7 then press ENTER:
+SET /P M=  Type 1-8 or 9 then press ENTER:
 IF %M%==1 GOTO ENGLISH
 IF %M%==2 GOTO FRENCH
 IF %M%==3 GOTO TRANSLATE
