@@ -34,6 +34,7 @@ Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la 
 - Copier le texte d'une référence (depuis un autre fichier)
 - Cliquez sur le **nom du livre** dans la barre de navigation.
 - Collez en utilisant **Ctrl+V**.
+   ![](../Video-summaries/media/paste-reference-2.fr.png)
 
 La référence doit être dans un format qui correspond à la langue de l'interface.
 
@@ -50,6 +51,8 @@ Actuellement, il n'est pas possible de copier à partir du Paratext, mais cette 
 ### Outil de recherche de passages parallèles
 - Les couleurs ont changé de **vert** à **gris**.
 - Vous pouvez réduire ou étendre le grec / hébreu en cliquant sur la petite flèche.
+   ![](../Video-summaries/media/parallel-passage-greek-collapse.png)
+
 
 ### Ouvrir une collection de textes
 Il y a un nouvel élément de menu dans le **menu principal**. 
@@ -61,23 +64,17 @@ Il y a un nouvel élément de menu dans le **menu principal**.
 
 ### Arrangement des fenêtres
 - Organisez les fenêtres par **lignes** ainsi que par **colonnes**.
-- N'oubliez pas de sauvegarder votre disposition !
-
+   ![](../Video-summaries/media/arrange-in-rows.png)
+:::tip
+N'oubliez pas d'Enregistrer votre disposition des fenêtres !
+:::
 ### Fenêtres flottantes
 - Liste déroulante pour changer le projet actif
+   ![](../Video-summaries/media/change-project-or-resource.fr.png)
 
 ### Autres nouveautés/changements
 - **RegEx Pal** - à partir du menu principal \> Avancé ou du menu Projet \> Avancé.
 - La **synchronisation** avec Logos et d'autres programmes compatibles est maintenant activée **par défaut**.
 - Des modifications ont été apportées pour faciliter la localisation des fichiers d'aide et de l'interface utilisateur
 - Les **modules bibliques** peuvent maintenant gérer les **marqueurs de chapitre** dans les livres supplémentaires.
-
-:::tip
-Paratext 9.3 Beta ne remplacera pas une installation Paratext existante afin que vous puissiez tester à côté d'un autre Paratext.
-:::
-
-### Téléchargement
-Allez sur paratext.org/download/pre-release/
-
-*** Traduit avec www.DeepL.com/Translator (version gratuite) ***
 
