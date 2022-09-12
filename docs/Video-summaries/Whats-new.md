@@ -32,7 +32,7 @@ In Paratext 9.3 you can copy and paste a scripture reference into the navigation
 - Copy the text of a reference (from another file)
 - Click in the **book name** in the navigation bar
 - Paste using **Ctrl+V**  
-   ![](../media/paste-reference-2.png)
+   ![](./media/paste-reference-2.png)
 
 The reference should be in a format that matches the interface language.
 
@@ -48,10 +48,10 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 ### Parallel Passages Tool
 - The colours have changed from **green** to **grey**
 - You can reduce or expand the Greek / Hebrew by clicking the little arrow.  
-   ![](../media/parallel-passage-greek-collapse.png)
+   ![](./media/parallel-passage-greek-collapse.png)
 ### Open text collection
 There is a new menu item on the **main menu** 
-  ![](../media/open-text-collection-menu-item-2.png)
+  ![](./media/open-text-collection-menu-item-2.png)
 - From the **Paratext menu**
 - Choose **Open text collection**  
   *This window looks like what was used in earlier versions of Paratext*.
@@ -60,13 +60,13 @@ There is a new menu item on the **main menu**
 
 ### Arranging windows
 - Arrange windows by **rows** as well as by **columns**.
-   ![](../media/arrange-in-rows.png)
+   ![](./media/arrange-in-rows.png)
 :::tip
 Remember to save your layout!
 :::
 ### Floating Windows
 - Dropdown to change the active project  
-   ![](../media/change-project-or-resource.png)
+   ![](./media/change-project-or-resource.png)
 
 ### Other new/changed
 - **RegEx Pal** - from Main menu \> Advanced or Project menu \> Advanced.
