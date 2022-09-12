@@ -7,11 +7,12 @@ slug: /
 ![](../static/img/cropped-PT9-web-banner.png)  
 
 This site contains: 
-## [Paratext training manual](Training-Manual/00-Overview.md)
-   -  22 Chapters
+## [Paratext Training Manual](Training-Manual/00-Overview.md)
+ (24 Chapters)
    
 ## **Summaries** of 90+ Paratext training videos
-   - grouped by specific [**Paratext features**](Video-summaries/00-list-of-features.md) 
-   - grouped by [**task**](Video-summaries/00-list-of-videos.md) grouped by stage. 
+#### Video summaries (90+) grouped by specific [**Paratext features**](Video-summaries/00-list-of-features.md) 
+#### Video summaries (90+)  grouped by [**task**](Video-summaries/00-list-of-videos.md) grouped by stage. 
+
 
 ## What's new - [Paratext 9.3](Video-summaries/Whats-new.md)

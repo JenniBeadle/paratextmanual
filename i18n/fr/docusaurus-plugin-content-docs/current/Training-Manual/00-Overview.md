@@ -1,10 +1,10 @@
 ﻿---
-title: Aperçu du manuel de formation
+title: Vue d'ensemble du manuel de formation
 sidebar_position: 1
 ---
 
 Le manuel de formation est conçu pour suivre les tâches du plan compact SIL.   
-SIL suit six étapes, UBS en a quatre.
+SIL suit six étapes, UBS en a quatre (1, 2, 5, et 6).
 
 -  [Introduction](1.Intro.md)
 -  [Étape 1](02-Stage-1/00-Stage-1.md)

@@ -31,11 +31,11 @@
 
 /* from https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-printing */
 
-@media print {
+/* @media print {
     .pagebreak { page-break-before: always; 
 }
-
-@media print {body{font-size: 150%}
+*/
+@media print {body{font-size: 135%}
 
 h2 {   
     -webkit-break-after: avoid;
@@ -50,3 +50,8 @@ h4 {
     -webkit-break-after: avoid;
     break-after: avoid;
 }
+
+@media print {h2 {font-size: 135; -webkit-break-after: avoid; break-after: avoid;}
+@media print {h3 {font-size: 135; -webkit-break-after: avoid; break-after: avoid;}
+@media print {h4 {font-size: 135; -webkit-break-after: avoid; break-after: avoid;}
+
