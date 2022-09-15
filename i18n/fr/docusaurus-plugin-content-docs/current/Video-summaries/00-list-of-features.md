@@ -1,9 +1,8 @@
 ﻿---
-sidebar_position : 1
-titre : Vue d'ensemble
+title : Liste par caractéristique
 ---
 
-# Résumés des vidéos par caractéristiques spécifiques du Paratext
+## Résumés des vidéos par caractéristiques spécifiques du Paratext
 Par ordre alphabétique (voir la barre latérale)
 ou voir [**par ordre de tâches**](list-of-videos) regroupées par étapes. 
 - Organisation des fenêtres et navigation

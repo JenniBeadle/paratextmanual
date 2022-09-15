@@ -25,10 +25,8 @@ Ce module traite la variété de tâches qu'on doit faire pour finaliser le text
 ### 23.2 Ajouter des illustrations et légendes
 
 -   Dans votre projet, accédez au verset désiré.
--   Du menu **Insérer**, choisissez **Image**
-
-    ![](media/fb70e0ddcbc63dd2bb034656c3e4e296.png)
-
+-   Du menu **Insérer**, choisissez **Image**  
+    ![](../media/fb70e0ddcbc63dd2bb034656c3e4e296.png)  
 -   Saisissez une **légende** pour être imprimé avec l’image (en votre langue).[1]
 -   Saisissez une **description** en français de l’image   
     (ne pas être imprimé) [2].
@@ -42,7 +40,7 @@ Ce module traite la variété de tâches qu'on doit faire pour finaliser le text
 ### 23.3 Trouver les noms des villes pour les cartes
 
 :::info
-Note à l'enseignant: La liste des noms des villes n'est pas encore disponible dans Paratext 9. Le fichier est disponible ici: <https://raw.githubusercontent.com/erros84/PTManuals/master/Resources/CombinedNTMapBiblicalTerms.xml> et, une fois telechargé, le fichier doit être copier vers "My Paratext 9 Projects".
+La liste des noms des villes (CombinedNTMapBiblicalTerms.xml) n'est pas encore disponible dans Paratext 9. Le fichier peut être [**télécharger ici**](../../../assets/CombinedNTMapBiblicalTerms.xml) et, une fois telechargé, le fichier doit être copier vers "My Paratext 9 Projects".
 :::
 
 -   Cliquez dans votre projet.

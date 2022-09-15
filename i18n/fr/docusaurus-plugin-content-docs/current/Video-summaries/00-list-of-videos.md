@@ -1,5 +1,5 @@
 ---
-title: Liste de vidéos 
+title: Liste de vidéos par tâche
 ---
 
 Cliquer sur la code pour voir le résumé
@@ -138,12 +138,12 @@ Cliquer sur la code pour voir le résumé
 
 |**Count** | **Code**           | **Titre du vidéo**                                                                                    |
 |-----------|----------------------|----------------------------------------------------------------------------------------------------|
-|           | **Étape 4**          |      **Vérification par le conseiller**                                                                                              |
+|           | **Étape 4**          |      -  **Vérification par le conseiller**                                                                                              |
 | 90        | [4.1](Project-sharing/4.1)                 | Outils de collaboration : Paratext Live (4.1)                                                |
 | 91        | [4.2](Project-sharing/4.2)                 | Outils de collaboration : Chorus Hub (4.2)                                                   |
 |           | **Étape 5**          |   **Test avec la comunitaué des changements**                                                    |
 | 92        | [5.1](Drafting-editing/5.1)                 |     Noms de livres (5.1)                                                                                               |
 | 93        | [5.2](Drafting-editing/5.2)                 |     Recherche et remplacer (5.2) à faire                                                                                               |
-|           | **Étape 6**          |      **Mettre la touche finale avant la publication**                                                                                   |
+|           | **Étape 6**          |      -  **Mettre la touche finale avant la publication**                                                                                   |
 | 94        | [6.1a](Parallel-passages/6.1a)                | Passages Parallèles (6.1a)                                                                    |
 | 95        | [6.1b](Parallel-passages/6.1b)                | Filtres de passages parallèles et texte modifié (6.1b)    à faire                                                                                                |

@@ -1,6 +1,5 @@
 ---	
 title: Video Summaries by Task	
-sidebar_position: 1
 ---	
 #### To display the summary, either click on the code below, or choose from the left sidebar.	
 ### Introduction	
@@ -142,8 +141,8 @@ sidebar_position: 1
 | 90        | [4.1](Project-sharing/4.1)                 | 	Collaboration Tools: Paratext Live (4.1)   |
 | 91        | [4.2](Project-sharing/4.2)                 | 	Collaboration Tools: Chorus Hub (4.2)   |
 |           | **Stage 5**          |   **Community check of changes**                                                    |	
-| 92        | [5.1](Drafting-editing/Stage-5/5.1)                 | 	Book Name USFMs (5.1)   |
-| 93        | [5.2](Drafting-editing/Stage-5/5.2)                 | 	Find and replace (5.2)   |
+| 92        | [5.1](Drafting-editing/5.1)                 | 	Book Name USFMs (5.1)   |
+| 93        | [5.2](Drafting-editing/5.2)                 | 	Find and replace (5.2)   |
 |           | **Stage 6**          |      **Finalising for publication**                                                                                   |	
 | 94        | [6.1a](Parallel-passages/6.1a)                | 	Parallel Passages Tool (6.1a)   |
 | 95        | [6.1b](Parallel-passages/6.1b)                | 	Parallel Passages Tool: Filters and Changed Text (6.1b)   |

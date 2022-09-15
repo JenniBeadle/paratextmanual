@@ -1,6 +1,5 @@
 ---
 title: Overview of Training Manual
-sidebar_position: 1
 ---
 
 The training manual is designed to follow the tasks in the SIL Compact Plan. SIL follows six stages, UBS has four stages.

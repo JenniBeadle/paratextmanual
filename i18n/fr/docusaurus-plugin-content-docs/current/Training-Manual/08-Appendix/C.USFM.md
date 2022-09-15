@@ -1,5 +1,6 @@
 ---
 title: C - USFM Marqueurs fréquents
+pagination_next: null 
 ---
 :::tip Remarque
 Tous les styles de type "**Paragraphe**" nécessitent l'utilisation de la touche "**Entrée**" lors du choix du marqueur en vue "**Standard**".
