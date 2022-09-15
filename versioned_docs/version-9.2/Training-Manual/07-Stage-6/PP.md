@@ -29,7 +29,7 @@ Normally you would make the comparisons after you have translated the passage be
 
 -   Click the dropdown arrow beside the source text options
 
-    ![wordml://121.png](media/5de8786f01eb7aacbd277215949e2806.png)
+    ![wordml://121.png](../media/5de8786f01eb7aacbd277215949e2806.png)
 
 -   Choose as appropriate  
     *The display changes.*
@@ -104,7 +104,7 @@ Identify the passages which have been changed since they were marked as finished
 -   Change the passage filter to « Changed Text »
 -   Click **ab** icon under the passage reference.
 
-    ![wordml://122.png](media/ea1d66852c0192c8550330116493c717.png)  
+    ![wordml://122.png](../media/ea1d66852c0192c8550330116493c717.png)  
     *A comparison window is displayed in Paratext.*
 
 -   Change the text as necessary.
@@ -123,6 +123,6 @@ Identify the passages which have been changed since they were marked as finished
 -   Open you project a second time [**≡ Paratext** \> **Paratext** \> **Open** et double-click your project]
 -   Change the scroll group from **[A]** to **None**.
 
-    ![wordml://123.png](media/d55737ffa1c94445ea7563fcf86f87e2.png)
+    ![wordml://123.png](../media/d55737ffa1c94445ea7563fcf86f87e2.png)
 
 -   Change the reference to the other passage.

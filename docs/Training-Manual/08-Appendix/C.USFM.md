@@ -1,3 +1,7 @@
+---
+title: C Common USFM Markers
+pagination_next: null
+---
 # C Common USFM Markers
 
 Note: All Styles of type "Paragraph" require using the "Enter" key when choosing the marker in "Standard" view

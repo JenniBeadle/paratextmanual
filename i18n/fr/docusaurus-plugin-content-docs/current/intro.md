@@ -14,4 +14,4 @@ slug: /
 #### Résumés des vidéos (90+) regroupées par [fonctionnalités spécifiques](Video-summaries/00-list-of-features.md) de Paratext    
 #### Résumés des vidéos (90+) en ordre de [tâches](Video-summaries/00-list-of-videos.md) regroupées par étapes.
 
-## Quoi de neuf - [Paratext 9.3](Video-summaries/Whats-new.md)
+## Quoi de neuf - [Paratext 9.3](Video-summaries/00-Whats-new.md)

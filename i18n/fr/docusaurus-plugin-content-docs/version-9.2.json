@@ -3,196 +3,96 @@
     "message": "9.2",
     "description": "The label for version 9.2"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
-    "message": "Tutorial - Basics",
-    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Paratext Training Manual": {
+    "message": "Paratext Manuel de formation",
+    "description": "The label for category Paratext Training Manual in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
-    "message": "5 minutes to learn the most important Docusaurus concepts.",
-    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Stage-1": {
+    "message": "Étage-1",
+    "description": "The label for category Stage-1 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
-    "message": "Tutorial - Extras",
-    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Stage-2": {
+    "message": "Étage-2",
+    "description": "The label for category Stage-2 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Parallel-Passages": {
-    "message": "Parallel-Passages",
-    "description": "The label for category Parallel-Passages in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Stage-3": {
+    "message": "Étage-3",
+    "description": "The label for category Stage-3 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Back-translation": {
-    "message": "Back-translation",
-    "description": "The label for category Back-translation in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Stage-4": {
+    "message": "Étage-4",
+    "description": "The label for category Stage-4 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Biblical-terms": {
-    "message": "Biblical-terms",
-    "description": "The label for category Biblical-terms in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Stage-5": {
+    "message": "Étage-5",
+    "description": "The label for category Stage-5 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Checking-tools": {
-    "message": "Checking-tools",
-    "description": "The label for category Checking-tools in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Stage-6": {
+    "message": "Étage-6",
+    "description": "The label for category Stage-6 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Custom-interlinears": {
-    "message": "Custom-interlinears",
-    "description": "The label for category Custom-interlinears in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Appendix": {
+    "message": "Annexe",
+    "description": "The label for category Appendix in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Video Summaries": {
+    "message": "Résumés des vidéos",
+    "description": "The label for category Paratext Video Summaries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Video Summaries.link.generated-index.description": {
+    "message": "Voici les différentes catégories de vidéos.",
+    "description": "The generated-index page description for category Paratext Video Summaries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Back Translation": {
+    "message": "Retraduction",
+    "description": "The label for category Back Translation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Biblical terms": {
+    "message": "Termes bibliques",
+    "description": "The label for category Biblical terms in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Checking tools": {
+    "message": "Outils de vérification",
+    "description": "The label for category Checking tools in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Custom interlinears": {
+    "message": "Utiliser le générateur d'interlinéaire",
+    "description": "The label for category Custom interlinears in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Drafting and editing": {
-    "message": "Drafting and editing",
+    "message": "Rédaction et révision",
     "description": "The label for category Drafting and editing in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Enhanced-resources": {
-    "message": "Enhanced-resources",
-    "description": "The label for category Enhanced-resources in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Enhanced resources": {
+    "message": "Ressources enrichies",
+    "description": "The label for category Enhanced resources in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Glossary": {
-    "message": "Glossary",
+    "message": "Glossaire",
     "description": "The label for category Glossary in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Illustrations": {
+    "message": "Illustrations",
+    "description": "The label for category Illustrations in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Navigation": {
     "message": "Navigation",
     "description": "The label for category Navigation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Parallel Passages": {
-    "message": "Parallel Passages",
+    "message": "Passages parallèles",
     "description": "The label for category Parallel Passages in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Project notes": {
-    "message": "Project notes",
+    "message": "Remarques de projet",
     "description": "The label for category Project notes in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Project notes.link.generated-index.description": {
-    "message": "5 minutes to learn the most important Docusaurus concepts.",
-    "description": "The generated-index page description for category Project notes in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Project-sharing": {
-    "message": "Project-sharing",
-    "description": "The label for category Project-sharing in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Spell-check-wordlist": {
-    "message": "Spell-check-wordlist",
-    "description": "The label for category Spell-check-wordlist in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Paratext Course Introduction": {
-    "message": "Paratext Course Introduction",
-    "description": "The label for category Paratext Course Introduction in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Stage-1": {
-    "message": "Stage-1",
-    "description": "The label for category Stage-1 in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Paratext Training Manual": {
-    "message": "Paratext Training Manual",
-    "description": "The label for category Paratext Training Manual in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Paratext Training Manual.link.generated-index.description": {
-    "message": " ",
-    "description": "The generated-index page description for category Paratext Training Manual in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Appendix": {
-    "message": "Appendix",
-    "description": "The label for category Appendix in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Appendix.link.generated-index.description": {
-    "message": " ",
-    "description": "The generated-index page description for category Appendix in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Intro": {
-    "message": "Intro",
-    "description": "The label for category Intro in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Étape 1 – Première ébauche": {
-    "message": "Étape 1 – Première ébauche",
-    "description": "The label for category Étape 1 – Première ébauche in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Étape 2- Vérification par l’équipe": {
-    "message": "Étape 2- Vérification par l’équipe",
-    "description": "The label for category Étape 2- Vérification par l’équipe in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Étape 3 - Préparation pour le conseiller": {
-    "message": "Étape 3 - Préparation pour le conseiller",
-    "description": "The label for category Étape 3 - Préparation pour le conseiller in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Étape 4 - Vérification par un conseiller": {
-    "message": "Étape 4 - Vérification par un conseiller",
-    "description": "The label for category Étape 4 - Vérification par un conseiller in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Étape 5 / Étape 3 ABU - Tester/réviser avec la communauté": {
-    "message": "Étape 5 / Étape 3 ABU - Tester/réviser avec la communauté",
-    "description": "The label for category Étape 5 / Étape 3 ABU - Tester/réviser avec la communauté in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Étape 6 / 4 UBS - Finalisation pour la publication": {
-    "message": "Étape 6 / 4 UBS - Finalisation pour la publication",
-    "description": "The label for category Étape 6 / 4 UBS - Finalisation pour la publication in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Paratext Video Summaries": {
-    "message": "Paratext Video Summaries",
-    "description": "The label for category Paratext Video Summaries in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Paratext Video Summaries.link.generated-index.description": {
-    "message": "Here are the various categories of videos.",
-    "description": "The generated-index page description for category Paratext Video Summaries in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Back Translation": {
-    "message": "Back Translation",
-    "description": "The label for category Back Translation in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Biblical terms": {
-    "message": "Biblical terms",
-    "description": "The label for category Biblical terms in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Checking tools": {
-    "message": "Checking tools",
-    "description": "The label for category Checking tools in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Custom interlinears": {
-    "message": "Custom interlinears",
-    "description": "The label for category Custom interlinears in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Stage-5": {
-    "message": "Stage-5",
-    "description": "The label for category Stage-5 in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Enhanced resources": {
-    "message": "Enhanced resources",
-    "description": "The label for category Enhanced resources in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Illustrations": {
-    "message": "Illustrations",
-    "description": "The label for category Illustrations in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Project collaboration": {
-    "message": "Project collaboration",
+    "message": "Outils de collaboration",
     "description": "The label for category Project collaboration in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Project collaboration.link.generated-index.description": {
-    "message": "5 minutes to learn the most important Docusaurus concepts.",
-    "description": "The generated-index page description for category Project collaboration in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Spell checking and wordlist": {
-    "message": "Spell checking and wordlist",
+    "message": "Vérification orthographique et liste de mots",
     "description": "The label for category Spell checking and wordlist in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Training-Manual": {
-    "message": "Training-Manual",
-    "description": "The label for category Training-Manual in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Stage-2": {
-    "message": "Stage-2",
-    "description": "The label for category Stage-2 in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Stage-3": {
-    "message": "Stage-3",
-    "description": "The label for category Stage-3 in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Stage-4": {
-    "message": "Stage-4",
-    "description": "The label for category Stage-4 in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Stage-6": {
-    "message": "Stage-6",
-    "description": "The label for category Stage-6 in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Video-summaries": {
-    "message": "Video-summaries",
-    "description": "The label for category Video-summaries in sidebar tutorialSidebar"
   }
 }

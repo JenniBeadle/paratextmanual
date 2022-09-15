@@ -15,4 +15,4 @@ This site contains:
 #### Video summaries (90+)  grouped by [**task**](Video-summaries/00-list-of-videos.md) grouped by stage. 
 
 
-## What's new - [Paratext 9.3](Video-summaries/Whats-new.md)
+## What's new - [Paratext 9.3](Video-summaries/00-Whats-new.md)

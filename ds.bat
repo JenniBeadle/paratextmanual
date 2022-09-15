@@ -6,7 +6,7 @@ ECHO.
 ECHO   Using Docusaurus
 ECHO.
 ECHO   ---------------------------------------------
-ECHO    PRESS 1-8 to select your task, or 9 to EXIT
+ECHO    PRESS 1-9 to select your task, or 0 to EXIT
 ECHO   ---------------------------------------------
 ECHO   .
 ECHO   1 - View English site
@@ -17,7 +17,8 @@ ECHO   5 - Build site
 ECHO   6 - Serve site to check build
 ECHO   7 - Deploy to github
 ECHO   8 - Upgrade Docusaurus to latest 
-ECHO   9 - EXIT
+ECHO   9 - Clear the cache, build etc 
+ECHO   0 - EXIT
 ECHO.
 
 SET /P M=  Type 1-8 or 9 then press ENTER:
@@ -29,23 +30,23 @@ IF %M%==5 GOTO BUILD
 IF %M%==6 GOTO SERVE
 IF %M%==7 GOTO DEPLOY
 IF %M%==8 GOTO UPGRADE
-IF %M%==9 GOTO EOF
+IF %M%==9 GOTO CLEARC
+IF %M%==0 GOTO EOF
 
 :ENGLISH
-ECHO Start English
+ECHO Start English (npm run start)
 npm run start
 GOTO MENU
 
 :FRENCH
-ECHO Start French
+ECHO Start French (npm run start -- --locale fr)
 npm run start -- --locale fr
 GOTO MENU
 
 :TRANSLATE
-ECHO Translate
+ECHO Translate (npm run write-translations -- --locale fr)
 npm run write-translations -- --locale fr
 GOTO MENU
-
 
 :DEPLOY
 cmd /C "set GIT_USER=JenniBeadle&& yarn deploy"
@@ -67,8 +68,13 @@ npm run build
 GOTO MENU
 
 :SERVE
-ECHO Serve
+ECHO Serve (npm run serve)
 npm run serve
+GOTO MENU
+
+:CLEARC
+ECHO Docusarus clear (cache, build...) npm run docusaurus clear
+npm run docusaurus clear
 GOTO MENU
 
 :EOF

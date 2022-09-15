@@ -26,7 +26,7 @@ This module looks at the variety of tasks needed to finalize the text for public
 -   Go to the verse where you want the illustration.
 -   **Insert** \> **Figure**
 
-    ![wordml://120.png](media/fb70e0ddcbc63dd2bb034656c3e4e296.png)
+    ![wordml://120.png](../media/fb70e0ddcbc63dd2bb034656c3e4e296.png)
 
 -   Type in the **caption** for the image (in your language). [1]
 -   Type in a description of the image (in the language of the typesetter) [2]

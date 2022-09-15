@@ -28,7 +28,7 @@ This separate project contains a read-only copy of your project and your additio
 -   You will need to register the new project.  
     *A grey-out read-only copy of your project is displayed, with a toolbar at the top.*
 
-    ![](media/8671bb469453dc88a90bc9ea7889d114.png)
+    ![](../media/8671bb469453dc88a90bc9ea7889d114.png)
 
 ## Add the additional material
 
@@ -79,7 +79,7 @@ To publish the study Bible, you need to create a publication project.
 -   Click the Project menu
 -   Choose “Create merged publication project”
 
-    ![](media/c2532d37aae74e992a95d26c8725c242.png)
+    ![](../media/c2532d37aae74e992a95d26c8725c242.png)
 
 -   Click the dropdown list “Merged publication project”.
 -   Create a new project or choose a previous project
