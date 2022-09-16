@@ -34,7 +34,7 @@ Tous les types de style "**Note**" et "**Caractère**" nécessitent l'utilisatio
 | \\li | Entrée de liste - Niveau 1                               | Paragraphe |
 
 
-## Marqueurs d'introduction   
+### Marqueurs d'introduction   
 
 | USFM   | Déscription                                                     | Type       |
 |--------|-----------------------------------------------------------------|------------|
@@ -47,7 +47,7 @@ Tous les types de style "**Note**" et "**Caractère**" nécessitent l'utilisatio
 | \\ipq  | Introduction - Paragraphe - Citation tirée du texte             | Paragraphe |
 
 
-## Marquers Renvoi
+### Marquers Renvoi
 
 | USFM  | Déscription              | Type      |
 |-------|--------------------------|-----------|
@@ -57,14 +57,14 @@ Tous les types de style "**Note**" et "**Caractère**" nécessitent l'utilisatio
 | \\x\* | Renvoi                   | Note      |
 
 
-## Marquers Figure/Image
+### Marquers Figure/Image
 | USFM    | Déscription                                 | Type |
 |---------|---------------------------------------------|------|
 | \\fig   | Auxiliaire – Image/Illustration/Carte       | Note |
 | \\fig\* | Auxiliaire – Fin d'Image/Illustration/Carte | Note |
 
 
-## Marquers Note de bas de page
+### Marquers Note de bas de page
 
 | USFM  | Déscription                                                   | Type      |
 |-------|---------------------------------------------------------------|-----------|
@@ -76,7 +76,7 @@ Tous les types de style "**Note**" et "**Caractère**" nécessitent l'utilisatio
 | \\fqa | Note de bas de page - Équivalent de la traduction alternative | Caractère |
 | \\f\* | Fin de la note de bas de page                                 | Note      |
 
-## Glossaire  
+### Glossaire  
 
 | USFM          | Déscription                                                  | Type       |
 |---------------|--------------------------------------------------------------|------------|

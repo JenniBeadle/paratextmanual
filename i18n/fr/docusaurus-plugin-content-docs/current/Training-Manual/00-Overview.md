@@ -1,5 +1,5 @@
 ﻿---
-title: 00 Vue d'ensemble du manuel de formation
+title: Vue d'ensemble du manuel de formation
 ---
 
 Le manuel de formation est conçu pour suivre les tâches du plan compact SIL.   
