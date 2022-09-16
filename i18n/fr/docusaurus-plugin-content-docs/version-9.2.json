@@ -8,27 +8,27 @@
     "description": "The label for category Paratext Training Manual in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage-1": {
-    "message": "Étage-1",
+    "message": "Étape-1",
     "description": "The label for category Stage-1 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage-2": {
-    "message": "Étage-2",
+    "message": "Étape-2",
     "description": "The label for category Stage-2 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage-3": {
-    "message": "Étage-3",
+    "message": "Étape-3",
     "description": "The label for category Stage-3 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage-4": {
-    "message": "Étage-4",
+    "message": "Étape-4",
     "description": "The label for category Stage-4 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage-5": {
-    "message": "Étage-5",
+    "message": "Étape-5",
     "description": "The label for category Stage-5 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage-6": {
-    "message": "Étage-6",
+    "message": "Étape-6",
     "description": "The label for category Stage-6 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Appendix": {
@@ -94,5 +94,13 @@
   "sidebar.tutorialSidebar.category.Spell checking and wordlist": {
     "message": "Vérification orthographique et liste de mots",
     "description": "The label for category Spell checking and wordlist in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual.link.generated-index.description": {
+    "message": "Paratext Manuel de formation",
+    "description": "The generated-index page description for category Paratext Training Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Appendix.link.generated-index.description": {
+    "message": "Annexe ",
+    "description": "The generated-index page description for category Appendix in sidebar tutorialSidebar"
   }
 }

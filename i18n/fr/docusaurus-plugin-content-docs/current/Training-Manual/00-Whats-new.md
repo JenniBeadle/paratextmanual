@@ -36,9 +36,7 @@ Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la 
 - Collez en utilisant **Ctrl+V**.
    ![](./media/paste-reference-2.fr.png)
 
-La référence doit être dans un format qui correspond à la langue de l'interface.
-
-Par exemple 
+La référence doit être dans un format qui correspond à la langue de l'interface. Par exemple 
 - en anglais : MAT 12.3, Mrk 5:4, Galates 1:12
 - en espagnol : Romanos 8:28
 
