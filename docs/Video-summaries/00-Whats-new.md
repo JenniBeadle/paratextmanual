@@ -9,7 +9,7 @@ Please be aware that this is a Beta and some things may/will change before Parat
 Paratext Live uses a couple of servers.
 
 - Paratext 8, 9.0 and 9.1 use a server called Internet (secondary) WCF and Paratext 9.2 uses Internet (primary) AMQP.  
-   *This is why you can't use Paratext Live with 9.2 and 9.1 at the same time*
+   -  *This is why you can't use Paratext Live with 9.2 and 9.1 at the same time*
 
 - In Paratext 9.3 when you start Paratext live you choose what server you want to use.
   - **Internet (primary)**, which is 9.2 and 9.3.
@@ -33,12 +33,12 @@ In Paratext 9.3 you can copy and paste a scripture reference into the navigation
 - Click in the **book name** in the navigation bar
 - Paste using **Ctrl+V**  
    ![](./media/paste-reference-2.png)
-
+   
 The reference should be in a format that matches the interface language.
 
 For example, 
-- in English: MAT 12.3, Mrk 5:4, Galatians 1:12
-- in Spanish: Romanos 8:28
+  - in English: MAT 12.3, Mrk 5:4, Galatians 1:12
+  - in Spanish: Romanos 8:28
 
 :::note
 The names must matches the names as they are seen in the titles.  
