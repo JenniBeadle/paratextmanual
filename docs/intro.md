@@ -11,8 +11,8 @@ This site contains:
  (24 Chapters)
    
 ### **Summaries** of 90+ Paratext training videos
-#### Video summaries (90+) grouped by specific [**Paratext features**](Video-summaries/00-list-of-features.md) 
-#### Video summaries (90+)  grouped by [**task**](Video-summaries/00-list-of-videos.md) grouped by stage. 
+**Video summaries (90+) grouped by specific [**Paratext features**](Video-summaries/00-list-of-features.md) **
+**Video summaries (90+)  grouped by [**task**](Video-summaries/00-list-of-videos.md) grouped by stage. **
 
 
 ### What's new - [Paratext 9.3](Video-summaries/00-Whats-new.md)

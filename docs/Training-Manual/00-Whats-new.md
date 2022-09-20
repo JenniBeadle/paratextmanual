@@ -60,6 +60,9 @@ There is a new menu item on the **main menu**
 :::tip
 Remember to save your layout!
 :::
+ 
+-----
+
 ### Floating Windows
 - Dropdown to change the active project  
    ![](./media/change-project-or-resource.png)
