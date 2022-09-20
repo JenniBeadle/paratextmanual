@@ -1,0 +1,5 @@
+npx docu-pdf http://localhost:3000/next/Training-Manual/Stage-1/pp2 --pdfMargin="68,68,100,175" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-man-noVS-pp2.en.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --excludeURLs="@excludespp2.txt"
+
+npx docu-pdf http://localhost:3000/next/Training-Manual/Stage-2/PN --pdfMargin="68,68,100,175" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-man-noVS-PN.en.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --excludeURLs="@excludespn.txt"
+
+npx docu-pdf http://localhost:3000/next/Training-Manual/Stage-2/SP --pdfMargin="68,68,100,175" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-man-noVS-SP.en.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --excludeURLs="@excludessp.txt"

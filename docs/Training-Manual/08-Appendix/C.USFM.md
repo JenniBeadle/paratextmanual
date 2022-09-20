@@ -1,13 +1,12 @@
 ---
-title: C Common USFM Markers
+title: C. Common USFM Markers
 pagination_next: null
 ---
-# C Common USFM Markers
-
-Note: All Styles of type "Paragraph" require using the "Enter" key when choosing the marker in "Standard" view
-
-Note: All Style Type "Note" and "Character" require using the "Backslash" key when choosing the marker in "Standard" view
-
+# C. Common USFM Markers
+:::note
+- All Styles of type "Paragraph" require using the "Enter" key when choosing the marker in "Standard" view
+-  All Style Type "Note" and "Character" require using the "Backslash" key when choosing the marker in "Standard" view
+:::
 | \\id  | File - Identification                     | Paragraph |
 |-------|-------------------------------------------|-----------|
 | \\h   | File - Header                             | Paragraph |
@@ -30,6 +29,9 @@ Note: All Style Type "Note" and "Character" require using the "Backslash" key wh
 |------|----------------------------------------------|-----------|
 | \\nb | Paragraph - No Break with Previous Paragraph | Paragraph |
 | \\li | List Entry - Level 1 - Single Level Only     | Paragraph |
+ 
+-----
+
 
 ## Introduction Markers
 
@@ -66,6 +68,15 @@ Note: All Style Type "Note" and "Character" require using the "Backslash" key wh
 | \\fq  | Footnote - Quotation or Alternate Rendering | Character |
 | \\fqa | Footnote - Alternate Translation Rendering  | Character |
 | \\f\* | Footnote End                                | Note      |
+ 
+-----
+
+ 
+-----
+
+ 
+-----
+
 
 ## Glossary
 
