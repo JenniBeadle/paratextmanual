@@ -6,7 +6,7 @@ Cliquer sur la code pour voir le résumé
 ### Introduction
 |**Count** | **Code**           | **Titre du vidéo**                                                                                    |
 |-----------|----------------------|----------------------------------------------------------------------------------------------------|
-| 5         | [0.1](0.1)                 | Qu'est-ce que Paratext ? (0.1)                                                                |
+| 5         | [0.1](0.1)                 | Qu'est-ce que Paratext ? (0.1)                                                                |
 |  |  |  |
 | 6         | [0.2.1a](navigation/0.2.1a)               | Changer la langue d'interface (0.2.1a)                                                        |
 | 7         | [0.2.1b](navigation/0.2.1b)               | Arranger les fenêtres (0.2.1d)                                                                |
@@ -48,7 +48,7 @@ Cliquer sur la code pour voir le résumé
 | 31        | [1.2.2a](Drafting-editing/1.2.2a)              | Comment l’affichage standard vous aide à ajouter des marqueurs (1.2.2a)                       |
 | 32        | [1.2.2b](Drafting-editing/1.2.2b)              | Comment travailler avec les USFM en affichage formaté (1.2.2b)                                |
 | 33        | [1.2.2c](Drafting-editing/1.2.2c)              | Comment l'affichage standard vous aide à ajouter des marqueurs (1.2.2a)                       |
-| 34        | [1.2.2d](Drafting-editing/1.2.2d)              | A quoi sert l’affichage non formaté ? (1.2.2d)                                                 |
+| 34        | [1.2.2d](Drafting-editing/1.2.2d)              | A quoi sert l’affichage non formaté ? (1.2.2d)                                                 |
 | 35        | [1.2.2e](Drafting-editing/1.2.2e)              | Affichage aperçu (1.2.2e)                                                                      |
 |  |  |  |
 | 36        | [1.2.3](Drafting-editing/1.2.3)              | Comment taper une barre oblique inversée (\\) lorsqu'il n'y en a pas sur votre clavier (1.2.3) |
@@ -109,6 +109,13 @@ Cliquer sur la code pour voir le résumé
 | 70        | [2.5e](Project-notes/2.5e)                | Remarques : Trier et filtrer les remarques (2.5e)                                             |
 | 71        | [2.5f](Project-notes/2.5f)                | Remarques : Comment rechercher et utiliser des mots-dièse (2.5f)                              |
 | 72        | [2.5g](Project-notes/2.5g)                | Remarques : Comment rattacher une remarque (2.5g)                                     |
+
+ 
+-----
+
+ 
+-----
+
 
 ### Étape 3  Préparation pour la conseiller
 |**Count** | **Count**           | **Titre du vidéo**                                                                                    |
