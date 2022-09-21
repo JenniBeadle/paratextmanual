@@ -49,7 +49,9 @@ Currently can't copy from Paratext, but that feature is being added to a later u
 - The colours have changed from **green** to **grey**
 - You can reduce or expand the Greek / Hebrew by clicking the little arrow.  
    ![](./media/parallel-passage-greek-collapse.png)
-### Open text collection
+
+
+- ### Open a text collection
 There is a new menu item on the **main menu** 
   ![](./media/open-text-collection-menu-item-2.png)
 - From the **Paratext menu**

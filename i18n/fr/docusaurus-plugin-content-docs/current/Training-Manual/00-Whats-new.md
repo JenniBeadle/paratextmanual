@@ -1,5 +1,5 @@
 ﻿---
-title : Quoi de neuf - Paratext 9.3
+title: Quoi de neuf - Paratext 9.3
 ---
 :::caution
 Veuillez noter qu'il s'agit d'une version bêta et que certaines choses peuvent/seront modifiées avant la sortie de Paratext 9.3.
@@ -33,7 +33,7 @@ Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la 
 - Copier le texte d'une référence (depuis un autre fichier)
 - Cliquez sur le **nom du livre** dans la barre de navigation.
 - Collez en utilisant **Ctrl+V**.
-   ![](./media/paste-reference-2.fr.png)
+   ![](./media/paste-reference-2.fr.png)
 
 La référence doit être dans un format qui correspond à la langue de l'interface. Par exemple  
 - en anglais : MAT 12.3, Mrk 5:4, Galates 1:12
@@ -47,7 +47,7 @@ Actuellement, il n'est pas possible de copier à partir du Paratext, mais cette 
 ### Outil de recherche de passages parallèles
 - Les couleurs ont changé de **vert** à **gris**.
 - Vous pouvez réduire ou étendre le grec / hébreu en cliquant sur la petite flèche.
-   ![](./media/parallel-passage-greek-collapse.png)
+   ![](./media/parallel-passage-greek-collapse.png)
 ### Ouvrir une collection de textes
 Il y a un nouvel élément de menu dans le **menu principal**.  
 - A partir du menu **Paratext**
@@ -58,13 +58,21 @@ Il y a un nouvel élément de menu dans le **menu principal**.
 
 ### Arrangement des fenêtres
 - Organisez les fenêtres par **lignes** ainsi que par **colonnes**.
-   ![](./media/arrange-in-rows.png)
+   ![](./media/arrange-in-rows.png)
 :::tip
-N'oubliez pas d'Enregistrer votre disposition des fenêtres !
+N'oubliez pas d'Enregistrer votre disposition des fenêtres !
 :::
+
+ 
+-----
+
+ 
+-----
+
+
 ### Fenêtres flottantes
 - Liste déroulante pour changer le projet actif
-   ![](./media/change-project-or-resource.fr.png)
+   ![](./media/change-project-or-resource.fr.png)
 
 ### Autres nouveautés/changements
 - **RegEx Pal** - à partir du menu principal \> Avancé ou du menu Projet \> Avancé.

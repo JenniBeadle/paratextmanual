@@ -62,6 +62,8 @@ Remember to save your layout!
 :::
  
 -----
+ 
+-----
 
 ### Floating Windows
 - Dropdown to change the active project  
@@ -76,6 +78,3 @@ Remember to save your layout!
 :::tip
 Paratext 9.3 Beta will not replace an existing Paratext installation so you can test alongside of another Paratext.
 :::
-
-### Download
-Go to paratext.org/download/pre-release/
