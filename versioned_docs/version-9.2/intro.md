@@ -4,9 +4,9 @@ sidebar_position: 1
 slug: /
 ---
 
-![](img/cropped-PT9-web-banner.png)  
+![](pathname:///img/cropped-PT9-web-banner.png)  
 
-This site contains:
+
 ## [**Paratext training manual**](Training-Manual/Overview)
    -  22 Chapters
    

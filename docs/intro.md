@@ -6,15 +6,15 @@ slug: /
 
 ![](img/cropped-PT9-web-banner.png)  
 
-This site contains: 
+
 ## [Paratext Training Manual](Training-Manual/00-Overview.md)
-- :book: [Dowload the PDF version here] ./assets/Ptx-man-en.pdf  
+- :book: [Download the PDF version here] ./assets/Ptx-man-en.pdf  
   - It has 25 chapters in  200+ A4 pages but is designed to print as A5 booklet.
  
    
 
 ----
-###**Summaries** of 90+ Paratext training videos
+## Video Summaries** of 90+ Paratext training videos
 -  :film_projector:Video summaries (90+) grouped by specific [**Paratext features**](Video-summaries/00-list-of-features.md)
 
 -  Video summaries (90+)  grouped by [**task**](Video-summaries/00-list-of-videos.md) following the SIL plan.

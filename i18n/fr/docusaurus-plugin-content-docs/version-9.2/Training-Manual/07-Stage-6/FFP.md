@@ -40,7 +40,7 @@ Ce module traite la variété de tâches qu'on doit faire pour finaliser le text
 ### 23.3 Trouver les noms des villes pour les cartes
 
 :::info
-La liste des noms des villes (CombinedNTMapBiblicalTerms.xml) n'est pas encore disponible dans Paratext 9. Le fichier peut être [**télécharger ici**](../../../assets/CombinedNTMapBiblicalTerms.xml) et, une fois telechargé, le fichier doit être copier vers "My Paratext 9 Projects".
+La liste des noms des villes (CombinedNTMapBiblicalTerms.xml) n'est pas encore disponible dans Paratext 9. Le fichier peut être [**télécharger ici**](pathname://img/CombinedNTMapBiblicalTerms.xml) et, une fois telechargé, le fichier doit être copier vers "My Paratext 9 Projects".
 :::
 
 -   Cliquez dans votre projet.

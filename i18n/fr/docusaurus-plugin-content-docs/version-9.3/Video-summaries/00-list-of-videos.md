@@ -68,6 +68,14 @@ Cliquer sur la **code** pour voir le résumé
 | 54        | [1A.7a](4a.Checking-tools/1A.7a.md)               | Inventaire des caractères (1A.7a)                                                             |
 | 55        | [1A.7b](4a.Checking-tools/1A.7b.md)               | Inventaire ponctuation (1A.7b)                                                                |
 
+ 
+----
+
+ 
+----
+
+
+
 ### Étape 2 Vérification en équipe de la compréhension  
 |**Count** | **Code**           | **Titre du vidéo**                                                                                    |
 |-----------|----------------------|----------------------------------------------------------------------------------------------------|
@@ -92,9 +100,6 @@ Cliquer sur la **code** pour voir le résumé
 | 70        | [2.5e](3.Project-notes/2.5e.md)                | Remarques : Trier et filtrer les remarques (2.5e)                                             |
 | 71        | [2.5f](3.Project-notes/2.5f.md)                | Remarques : Comment rechercher et utiliser des mots-dièse (2.5f)                              |
 | 72        | [2.5g](3.Project-notes/2.5g.md)                | Remarques : Comment rattacher une remarque (2.5g)                                     |
-
- 
------
 
  
 -----
