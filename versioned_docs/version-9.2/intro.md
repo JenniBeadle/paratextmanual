@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /
 ---
 
-![](../../static/img/cropped-PT9-web-banner.png)  
+![](img/cropped-PT9-web-banner.png)  
 
 This site contains:
 ## [**Paratext training manual**](Training-Manual/Overview)

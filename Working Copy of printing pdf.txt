@@ -1,0 +1,19 @@
+﻿printing the PDFs
+
+French Manual 22 = 238 pages
+npx docu-pdf https://manual.paratext.org/fr/ --coverPath="cover-man-fr.html"  --contentSelector="article" --pdfMargin="100,100,100,225" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-man-noVS-DRAFT-225.fr.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --excludeURLs="https://manual.paratext.org/fr/category/paratext-training-manual"
+
+225 pages
+npx docu-pdf https://manual.paratext.org/fr/ --coverPath="cover-man-fr.html"  --contentSelector="article" --pdfMargin="75,75,100,200" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-man-noVS-DRAFT-200.fr.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --excludeURLs="https://manual.paratext.org/fr/category/paratext-training-manual"
+
+226
+npx docu-pdf https://manual.paratext.org/fr/ --coverPath="cover-man-fr.html"  --contentSelector="article" --pdfMargin="75,75,100,200" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-man-noVS-DRAFT-200.fr.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --excludeURLs="https://manual.paratext.org/fr/category/paratext-training-manual"
+
+npx docu-pdf https://manual.paratext.org/fr/next --coverPath="cover-man-fr.html"  --contentSelector="article" --pdfMargin="85,85,100,200" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-man-noVS-DRAFT-200-85.fr.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --excludeURLs="https://manual.paratext.org/fr/category/paratext-training-manual"
+
+npx docu-pdf https://manual.paratext.org/fr/next --coverPath="cover-man-fr.html"  --contentSelector="article" --pdfMargin="85,85,100,200" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-man-noVS-DRAFT-200-85.fr.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --excludeURLs="https://manual.paratext.org/fr/category/paratext-training-manual"
+
+local host
+npx docu-pdf http://localhost:3000/fr/Training-Manual/Overview --coverPath="cover-man-fr.html"  --contentSelector="article" --pdfMargin="85,85,100,200" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-man-noVS-DRAFT-200-85-intro.fr.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --excludeURLs="https://manual.paratext.org/fr/category/paratext-training-manual"
+
+npx docu-pdf https://manual.paratext.org/fr/Training-Manual/Overview --coverPath="cover-man-fr.html"  --contentSelector="article" --pdfMargin="100,85,100,220" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-man-noVS-DRAFT-200-85-intro.fr.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --excludeURLs="https://manual.paratext.org/fr/Training-manual/category/paratext-training-manual"

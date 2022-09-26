@@ -102,5 +102,13 @@
   "sidebar.tutorialSidebar.category.Appendix.link.generated-index.description": {
     "message": "Annexe ",
     "description": "The generated-index page description for category Appendix in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project notes.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Project notes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project collaboration.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Project collaboration in sidebar tutorialSidebar"
   }
 }

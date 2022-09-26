@@ -230,15 +230,6 @@
     "message": "Déplier le menu latéral",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
-  "The video series here are created in English first and are then remade into other languages as soon as possible. Each series is in a logical order and may be watched in order, or you can search for the specific topic/feature you are interested in. All the videos include subtitles that may be turned on while viewing.": {
-    "message": "Les séries vidéo présentées ici sont d'abord créées en anglais et sont ensuite adaptées dans d'autres langues dès que possible. Chaque série est présentée dans un ordre logique et peut être regardée dans l'ordre, ou vous pouvez rechercher le sujet/la caractéristique spécifique qui vous intéresse. Toutes les vidéos comprennent des sous-titres qui peuvent être activés pendant le visionnage.."
-  },
-  "Paratext Documentation": {
-    "message": "Documentation du Paratext"
-  },
-  "Learning to use Scripture Translation Software": {
-    "message": "Apprendre à utiliser un logiciel de traduction des Écritures"
-  },
   "theme.admonition.note": {
     "message": "remarque",
     "description": "The default label used for the Note admonition (:::note)"
@@ -260,29 +251,29 @@
     "description": "The default label used for the Caution admonition (:::caution)"
   },
   "theme.SearchBar.noResultsText": {
-    "message": "No results"
+    "message": "Aucun résultat"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all results"
+    "message": "Voir tous les résultats"
   },
   "theme.SearchBar.label": {
-    "message": "Search",
+    "message": "Recherche",
     "description": "The ARIA label and placeholder for search button"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\"",
+    "message": "Résultats de la recherche pouur \"{query}\"",
     "description": "The search page title for non-empty query"
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation",
+    "message": "Rechercher dans la documentation",
     "description": "The search page title for empty query"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "1 document found|{count} documents found",
+    "message": "1 document trouvé|{count} documents trouvés",
     "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "No documents were found",
+    "message": "Aucun résultat trouvé",
     "description": "The paragraph for empty search result"
   },
   "theme.tags.tagsPageTitle": {

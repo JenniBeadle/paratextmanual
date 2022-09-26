@@ -35,7 +35,7 @@
     .pagebreak { page-break-before: always; 
 }
 */
-@media print {body{font-size: 135%}
+@media print {body{font-size: 125%}
 
 h2 {   
     -webkit-break-after: avoid;
@@ -51,17 +51,7 @@ h4 {
     break-after: avoid;
 }
 
-@media print {h2 {font-size: 135; -webkit-break-after: avoid; break-after: avoid;}
-@media print {h3 {font-size: 135; -webkit-break-after: avoid; break-after: avoid;}
-@media print {h4 {font-size: 135; -webkit-break-after: avoid; break-after: avoid;}
+@media print {h2 {font-size: 125%; -webkit-break-after: avoid; break-after: avoid;}
+@media print {h3 {font-size: 125%; -webkit-break-after: avoid; break-after: avoid;}
+@media print {h4 {font-size: 125%; -webkit-break-after: avoid; break-after: avoid;}
 
-
-@media print 
-{	
-	.myDiv {break-inside: avoid;}
-}
-
-div
-{
-	page-break-after: always;
-}
