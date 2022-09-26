@@ -14,7 +14,7 @@ Paratext Live utilise plus qu'un serveur.
 
 - Dans Paratext 9.3, lorsque vous démarrez Paratext Live, vous choisissez le serveur que vous souhaitez utiliser.
   - **Internet**, qui est 9.2 et 9.3.
-  - **Internet secondaire**, qui est 9.0, 9.1 ou Paratext 8.  
+  - **Internet secondaire**, qui est 9.0, 9.1 ou Paratext 8.  
 
  
 ----

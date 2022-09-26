@@ -2,19 +2,14 @@
 title: Liste par caractéristique
 sidebar_position: 2
 ---
-Traduire l'Écriture du début à la fin  
-**Étudier - Rédiger - Réviser - Vérifier - Publier**
 
 ### Résumés des vidéos par caractéristiques spécifiques du Paratext
-
 Voir aussi [**par ordre de tâches**](00-list-of-videos.md). 
-
 
 |  |  |
 |:-------:|-----------|
 | | FN **Fenêtres et nagivation** |  
 ||  [0. Organisation des fenêtres et navigation](../Video-summaries/0.Navigation/0.0.3.md)
-| | 
 | ![study](../Video-summaries/media/study.png)  | ÉTU    **Etudier** |
  |  | [ÉTU-Ressources enrichies](1a.Enhanced-resources/0.3a.md) 
  |  | ÉTU-Outil de langue source (à venir)
