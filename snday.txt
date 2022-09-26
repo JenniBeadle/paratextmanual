@@ -1,0 +1,45 @@
+﻿goal 9.3 with pdfs on manual.paratext.org
+
+pdfs with 9.3 and minimal bad page breaks.
+finish tweaks, version to 9.3 
+deploy
+redo pdfs
+add pdfs to assets
+redeploy
+change link from lingtrans.net to manual.paratext.org
+
+4 pdfs
+- vid sum en and fr = smaller fonts, large margins to reduce pictures
+- man en and fr = 135% large margins to write in and reduce pictures
+
+checks
+spell check, grammar
+picture in correct language
+actions doable on 9.3
+
+
+copy file from 9.3 to 9.2 (except version changes
+
+
+
+
+
+
+
+pdfs - en+fr
+
+freeze 9.3
+redo pdfs
+add to assets
+
+writeup
+- instructions
+- procedure for finetuning
+- I have a dream - using what is done for the next site
+
+create file for Chad
+- pdfs
+- mp4 with subtitles
+- check for newer videos, and any updates
+- add French subtitles for changes to English
+
