@@ -2,6 +2,8 @@
 title: B - Les codes de livres bibliques (trois lettres)
 ---
 
+### Ancien Testament
+
 |   |  | |  
 |---------------------|--------------------|--------------------|
 | Genèse - GEN                 | Exode - EXO        | Lévitique - LEV   |
@@ -19,7 +21,7 @@ title: B - Les codes de livres bibliques (trois lettres)
 | Aggée - HAG                  | Zacharie - ZEC     | Malachie - MAL    |
 |  |  |  |
 
-Table B.1 Ancien Testament
+### Nouveau Testament
 
 |   |  | |
 |---------------------|--------------------|--------------------|
@@ -34,4 +36,3 @@ Table B.1 Ancien Testament
 | 3 Jean - 3JN            | Jude - JUD              | Apocalypse - REV |
 ||
 
-Table B.2 Nouveau Testament
