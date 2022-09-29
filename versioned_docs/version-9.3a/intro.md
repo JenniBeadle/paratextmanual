@@ -8,7 +8,7 @@ slug: /
 
 
 ## [Paratext Training Manual](Training-Manual/00-Overview.md)
-- :book: [Download the PDF version here](pathname:///img/Ptx-man.en.pdf)  
+- :book: [Download the PDF version here](pathname:///img/Ptx-man-en.pdf)  
   - It has 25 chapters in  200+ A4 pages but is designed to print as A5 booklet.
  
    
@@ -18,7 +18,7 @@ slug: /
 -  :film_projector:Video summaries (90+) grouped by specific [**Paratext features**](Video-summaries/00-Lists of videos/00-list-of-features.md)
 
 -  Video summaries (90+)  grouped by [**task**](Video-summaries/Overview.md) following the SIL plan.
-- :book: [Download the PDF version here](pathname:///img/Ptx-vidsum.en.pdf)  
+- :book: [Download the PDF version here](pathname:///img/Ptx-vidsum-en.pdf)  
 
 ----
 
