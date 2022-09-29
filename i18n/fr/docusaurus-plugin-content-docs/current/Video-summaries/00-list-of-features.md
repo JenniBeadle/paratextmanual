@@ -1,6 +1,5 @@
 ﻿---
 title: Liste par caractéristique
-sidebar_position: 2
 ---
 
 ### Résumés des vidéos par caractéristiques spécifiques du Paratext

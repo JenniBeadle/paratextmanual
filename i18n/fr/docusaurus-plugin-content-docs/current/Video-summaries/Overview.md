@@ -1,6 +1,5 @@
 ---
 title: Vue d'ensemble des résumés vidéo
-sidebar_position: 1
 ---
 **Cliquer sur la **code** pour voir le résumé**  
 
