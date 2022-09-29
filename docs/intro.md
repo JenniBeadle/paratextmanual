@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /
 ---
 
-![](img/cropped-PT9-web-banner.png)  
+![](pathname:///img/cropped-PT9-web-banner.png)  
 
 
 ## [Paratext Training Manual](Training-Manual/00-Overview.md)
@@ -15,9 +15,9 @@ slug: /
 
 ----
 ## Video Summaries** of 90+ Paratext training videos
--  :film_projector:Video summaries (90+) grouped by specific [**Paratext features**](Video-summaries/00-list-of-features.md)
+-  :film_projector:Video summaries (90+) grouped by specific [**Paratext features**](Video-summaries/00-Lists of videos/00-list-of-features.md)
 
--  Video summaries (90+)  grouped by [**task**](Video-summaries/00-list-of-videos.md) following the SIL plan.
+-  Video summaries (90+)  grouped by [**task**](Video-summaries/Overview.md) following the SIL plan.
 
 ----
 
