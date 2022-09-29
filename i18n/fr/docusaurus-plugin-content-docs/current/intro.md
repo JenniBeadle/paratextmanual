@@ -5,7 +5,7 @@ slug: /
 ---
 
 
-![](../../../../static/img/cropped-PT9-web-banner.png)  
+![](pathname:///img/cropped-PT9-web-banner.png)  
 
 
 
@@ -13,15 +13,21 @@ slug: /
 ### Paratext [**Manuel de participant**](Training-Manual/Overview) 
 (en 24 chapitres)
 
--  [Télécharger Manuel PDF ici] ../static/Ptx-man-fr.pdf  
-   - C'est 200+ pages A4 pour imprimer A5 livret.
+-  :book: [Télécharger Manuel PDF ici](pathname:///img/Ptx-man-fr.pdf)  
+   - Il a 200+ pages A4 pour imprimer en format A5 livret.
+
+----
+
 ### Résumés des vidéos de formation Paratext
--  **Résumés des vidéos (90+) regroupées par [fonctionnalités spécifiques](Video-summaries/00-list-of-features.md) de Paratext**
+-  :film_projector: **Résumés des vidéos (90+) regroupées par [fonctionnalités spécifiques]
+(Video-summaries/00-Lists-of-videos/00-list-of-features.md) de Paratext**
 
--  **Résumés des vidéos (90+) en ordre de [tâches](Video-summaries/00-list-of-videos.md).** (Plan de SIL)
+-  **Résumés des vidéos (90+) en ordre de [tâches](Video-summaries/Overview.md).** (Plan de SIL)
 
--  [Télécharger Résumés PDF ici](pathname:///img/Ptx-VS-fr.pdf)  
-   - (C'est 200+ pages A4 pour imprimer A5 livret.)
+-  [Télécharger Résumés PDF ici](pathname:///img/Ptx-vidsum-fr.pdf)  
+   - (Il a 200+ pages A4 pour imprimer en format A5 livret.)
+
+----
 
 ### Quoi de neuf - [Paratext 9.3](Video-summaries/00-Whats-new.md)
 

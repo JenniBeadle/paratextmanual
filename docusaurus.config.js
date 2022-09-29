@@ -42,6 +42,12 @@ const config = {
             'https://github.com/JenniBeadle/paratextmanual/tree/main',
         },
         blog: false,
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
       }),
     ],
   ],

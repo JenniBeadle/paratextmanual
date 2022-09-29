@@ -3,34 +3,21 @@ title: Video Summaries by Features
 sidebar_position: 2
 ---
 
-Translate Scripture from Start to Finish  
-**Study - Draft - Revise - Check - Publish**  
 
 ## Summaries of videos by Specific Paratext Features
-See also the detailed list in [**order by tasks**](list-of-videos) 
+See also the detailed list in -  [**order by tasks**](Overview.md)   
 
-
-|  |  |
-|:-------:|-----------|
-| | WN **Windows and Navigation** |  
-||  [0. Navigation](../Video-summaries/0.Navigation/0.0.3.md) 
-| | 
-| ![study](../Video-summaries/media/study.png) | STU **Study** |
- |  | [STU Enhanced Resources](1a.Enhanced-resources/0.3a.md) 
- |  | STU-Source Language Tools (not yet available)
-| ![draft](../Video-summaries/media/draft.png)  | DRF **Draft**   |
-| |   [DRF-Drafting and editing](../Video-summaries/2a.Drafting-editing/1.1.md)
-| |  [DRF-Project sharing (send/receive)](2b.Project-sharing/0.4a.md)
-|![revise](../Video-summaries/media/revise.png)  | REV **Revise**   |
-| |  [REV-Translation notes (Project Notes)](3.Project-notes/2.5a.md)
-|![check](../Video-summaries/media/check.png) | CHK **Check**  |
-| | [CHK-Checking tools](4a.Checking-tools/1A.7a.md)
-| | [CHK-Spell check and wordlist](4b.Spell-check-wordlist/2.1a.md)
-| | [CHK-Biblical Terms](4c.Biblical-terms/2.2a.md)
-| | [CHK-Back translation](4d.Back-translation/3.2a.md)
-| | [CHK-Custom interlinear](4e.Custom-interlinears/3.3.md)
-| | [CHK-Parallel Passages](4f.Parallel-passages/6.1a.md)
-| ![publish](../Video-summaries/media/publish.png) | PUB **Publish** |  
- | | [CHK-Glossary](5a.Glossary/1A.4a.md)   |
- | | [CHK-Illustrations](5b.Illustrations/1A.5a.md)  |
+-  [Navigation](01-Introduction/0.2.Navigation/0.0.3.md)     
+  -  [Enhanced Resources](01-Introduction/0.5.Enhanced-resources/0.3a.md)     
+  -  [Drafting and editing](02-Stage-1/1.Drafting-editing/1.1.md)    
+ -  [Project sharing (send/receive)](01-Introduction/0.4.Project-sharing/0.4a.md)  
+ -  [Translation notes (Project Notes)](03-Stage-2/2.5.Project-notes/2.5a.md)  
+-  [Checking tools - Stage 1](02-Stage-1/4.Basic-checks/1A.7a.md)   and   [Checks - Stage 3](04-Stage-3/3.4.Checks/3.4a.md)  
+-  [Spell check and wordlist](03-Stage-2/2.1.Spell-check-wordlist/2.1a.md)  
+-  [Biblical Terms - Stage 2](03-Stage-2/2.2.Biblical-terms/2.2a.md)   and  [Biblical terms - Stage 3](04-Stage-3/3.1.Biblical-terms/3.1a.md)  
+-  [Back translation](04-Stage-3/3.2.Back-translation/3.2a.md)  
+-  [Custom interlinear](04-Stage-3/3.3.Custom-interlinears/3.3.md)  
+-  [Parallel Passages](07-Stage-6/6.1a.md)  
+-  [Glossary](02-Stage-1/5.Additional/1A.4a.md)  
+-  [Illustrations](02-Stage-1/5.Additional/1A.5a.md)  
 
