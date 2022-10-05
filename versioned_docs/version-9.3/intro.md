@@ -16,7 +16,7 @@ slug: /
 ----
 ## Video Summaries of 90+ Paratext training videos
 -  :film_projector: Video summaries (90+) grouped by specific [**Paratext features**](Video-summaries/00-list-of-features.md)
--  :book 📖 : [Download the PDF version here](pathname:///img/Ptx-vidsum-en.pdf)
+-  :book 📖 : [Download the PDF version here](pathname:///img/Ptx-vidsum.en.pdf)
 
 -  Video summaries (90+)  grouped by [**task**](Video-summaries/00-list-of-videos.md) following the SIL plan.
 
