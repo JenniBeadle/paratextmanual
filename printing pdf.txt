@@ -1,10 +1,10 @@
 ﻿printing the PDFs
 
 English manual
-npx docu-pdf https://manual.paratext.org/Training-Manual/Overview --coverPath="cover-man-en.html"  --contentSelector="article" --pdfMargin="100,85,100,220" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-man.en.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --excludeURLs="https://manual.paratext.org/Training-manual/category/paratext-training-manual"
+npx docu-pdf https://manual.paratext.org/Training-Manual/Overview --coverPath="cover-man-en.html"  --contentSelector="article" --pdfMargin="100,85,100,220" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-man.en.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --disableTOC --excludeURLs="https://manual.paratext.org/Training-manual/category/paratext-training-manual"
 
 English video summaries
-npx docu-pdf https://manual.paratext.org/Video-summaries/list-of-features --coverPath="cover-man-en.html"  --contentSelector="article" --pdfMargin="100,85,100,220" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-vidsum.en.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --excludeURLs="@excludesENvid.txt"
+npx docu-pdf https://manual.paratext.org/Video-summaries/Overview --coverPath="cover-vidsum-en.html"  --contentSelector="article" --pdfMargin="100,85,100,220" --cssStyle="body{font-size: 135%;}" --outputPath="Ptx-vidsum.en.pdf" --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>" --disableTOC --excludeURLs="@excludesENvid.txt"
 
 
 French manual
