@@ -1,4 +1,8 @@
-# B Three letter abbreviations
+---
+title: B Three letter abbreviations
+---
+
+### Old Testament
 
 |  |  |  |  
 |---------------------|--------------------|--------------------|
@@ -16,7 +20,8 @@
 | Nahum - NAM         | Habakkuk - HAB     | Zephaniah - ZEP    |
 | Haggai - HAG        | Zechariah - ZEC    | Malachi - MAL      |
 
-Table B.1 Old Testament
+
+### New Testament
 
 |  |  |  |  
 |-----------------------|-----------------------|------------------|
@@ -29,5 +34,3 @@ Table B.1 Old Testament
 | Hebrews - HEB         | James - JAS           | 1 Peter - 1PE    |
 | 2 Peter - 2PE         | 1 John - 1JN          | 2 John - 2JN     |
 | 3 John - 3JN          | Jude - JUD            | Revelation - REV |
-
-Table B.2 New Testament

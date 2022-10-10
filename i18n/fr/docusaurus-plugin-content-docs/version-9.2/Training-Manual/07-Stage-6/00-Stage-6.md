@@ -5,7 +5,7 @@ La sixième étape d’un projet de traduction (ou quatrième étape du UBS) est
 
 Les modules suivants vous aideront avec ces étapes :
 
--   [Finalisation pour la publication – Nouveau Testament](FFP.md)
--   [Vérifier les textes parallèles](PP.md)
--   [Création d'une Bible d'étude](StudyBibles.md)
+-  [Vérifier les textes parallèles](23.PP.md)
+-  [Finalisation pour la publication – Nouveau Testament](24.FFP.md)
+-  [Création d'une Bible d'étude](25.StudyBibles.md)
  

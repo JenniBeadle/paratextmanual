@@ -1,10 +1,9 @@
 ---
 title: Stage 4 - Consultant Visit
 ---
-:::caution Note
-This stage is not included in the UBS plan.*
-:::
-**Introduction**
+Note: This stage is not included in the UBS plan.
+
+**Introduction**  
 The fourth stage of a translation project is the consultant visit. You will meet with the consultant and evaluate your text, make notes and revise your texts and back translations as needed. You will want to ensure that you have updated the status of your translation in the project plan.
 
 Most of the tasks in this stage have been covered in previous modules.
