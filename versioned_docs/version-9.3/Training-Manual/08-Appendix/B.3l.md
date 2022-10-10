@@ -1,4 +1,6 @@
-# B Three letter abbreviations
+---
+title: B Three letter abbreviations
+---
 
 ### Old Testament
 

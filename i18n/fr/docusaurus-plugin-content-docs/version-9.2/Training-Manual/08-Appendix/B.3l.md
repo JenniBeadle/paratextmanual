@@ -1,8 +1,10 @@
 ---
-title: Les codes de livres bibliques (trois lettres)
+title: B - Les codes de livres bibliques (trois lettres)
 ---
 
-|   |  | |
+### Ancien Testament
+
+|   |  | |  
 |---------------------|--------------------|--------------------|
 | Genèse - GEN                 | Exode - EXO        | Lévitique - LEV   |
 | Nombres - NUM                | Deutéronome - DEU  | Josué - JOS       |
@@ -17,9 +19,9 @@ title: Les codes de livres bibliques (trois lettres)
 | Abdias - OBA                 | Jonas - JON        | Michée - MIC      |
 | Nahoum - NAM                 | Habacuc - HAB      | Sophonie - ZEP    |
 | Aggée - HAG                  | Zacharie - ZEC     | Malachie - MAL    |
-| | 
+|  |  |  |
 
-Table B.1 Ancien Testament
+### Nouveau Testament
 
 |   |  | |
 |---------------------|--------------------|--------------------|
@@ -32,6 +34,5 @@ Table B.1 Ancien Testament
 | Hébreux - HEB           | Jacques - JAS           | 1 Pierre - 1PE   |
 | 2 Pierre - 2PE          | 1 Jean - 1JN            | 2 Jean - 2JN     |
 | 3 Jean - 3JN            | Jude - JUD              | Apocalypse - REV |
-|
+||
 
-Table B.2 Nouveau Testament
