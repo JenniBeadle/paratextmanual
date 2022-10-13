@@ -8,7 +8,7 @@ Les modules suivants vont vous aider dans cette étape :
 -  [**NP – Noms propres**](7.PN.md)
 -  [**VO – Vérification de l’orthographe**](8.SP.md)
 -  [**GL – Glossare**](9.GL.md)
--  [**TB – Un processus de 4 étapes pour les termes bibliques cohérents**](10.BT.md)
+-  [**TB – Termes bibliques cohérents**](10.BT.md)
 -  [**MP – Comparer un mot ou une phrase**](11.MP.md)
 -  [**VB2 – Les vérifications de base**](12.BC2.md)
 -  [**VM – Vérification de mise en page**](13.FC.md)

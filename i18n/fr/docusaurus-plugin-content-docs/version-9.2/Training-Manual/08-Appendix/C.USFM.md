@@ -3,9 +3,9 @@ title: D - USFM Marqueurs fréquents
 pagination_next: null
 ---
 :::tip Remarque
-Tous les styles de type "**Paragraphe**" nécessitent l'utilisation de la touche "**Entrée**" lors du choix du marqueur en vue "**Standard**".
-
-Tous les types de style "**Note**" et "**Caractère**" nécessitent l'utilisation de la touche "**antislash**" lors du choix du marqueur en vue "**Standard**".
+Lors du choix du marqueur en vue **Standard**
+- Utiliser **Entrée** pour les styles **Paragraphe**.
+- Utiliser **antislash** pour les types de style **Note** et **Caractère**.
 :::
 | USFM  | Déscription                                              | Type       |
 |-------|----------------------------------------------------------|------------|

@@ -8,7 +8,7 @@ In this third stage of a translation project you will do comprehension testing a
 
 The following modules will help you in this stage:
 
--   [**BT1 – Draft a Back Translation**](16.BT1.md)
--   [**BT2 – Interlinearize a project**](17.BT2.md)
--   [**CT – Compare Text**](18.CT.md)
--   [**BC3 – Basic checks 3**](19.BC3.md)
+-  [**BT1 – Draft a Back Translation**](16.BT1.md)
+-  [**BT2 – Interlinearize a project**](17.BT2.md)
+-  [**CT – Compare Text**](18.CT.md)
+-  [**BC3 – Basic checks 3**](19.BC3.md)

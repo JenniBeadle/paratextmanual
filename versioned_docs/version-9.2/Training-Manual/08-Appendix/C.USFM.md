@@ -4,12 +4,14 @@ pagination_next: null
 ---
 # C Common USFM Markers
 
-Note: All Styles of type "Paragraph" require using the "Enter" key when choosing the marker in "Standard" view
-
-Note: All Style Type "Note" and "Character" require using the "Backslash" key when choosing the marker in "Standard" view
-
-| \\id  | File - Identification                     | Paragraph |
+:::note
+When choosing the markers in "Standard" view
+-  Use the "Enter" key for "Paragraph" styles 
+-  Use the "Backslash" key for "Note" and "Character" styles 
+:::
+|  |  |  |
 |-------|-------------------------------------------|-----------|
+| \\id  | File - Identification                     | Paragraph |
 | \\h   | File - Header                             | Paragraph |
 | \\c   | Chapter Number                            | Paragraph |
 | \\v   | Verse Number                              | Character |
@@ -26,15 +28,17 @@ Note: All Style Type "Note" and "Character" require using the "Backslash" key wh
 
 **Less-common Markers**
 
+|  |  |  |
+|-------|-------------------------------------------|-----------|
 | \\pc | Paragraph - Centered (for Inscription)       | Paragraph |
-|------|----------------------------------------------|-----------|
 | \\nb | Paragraph - No Break with Previous Paragraph | Paragraph |
 | \\li | List Entry - Level 1 - Single Level Only     | Paragraph |
 
 **Introduction Markers**
 
+|  |  |  |
+|-------|-------------------------------------------|-----------|
 | \\imt1 | Introduction - Major Title Level 1              | Paragraph |
-|--------|-------------------------------------------------|-----------|
 | \\iot  | Introduction - Outline Title                    | Paragraph |
 | \\io1  | Introduction - Outline Level 1                  | Paragraph |
 | \\io2  | Introduction - Outline Level 2                  | Paragraph |
@@ -44,22 +48,31 @@ Note: All Style Type "Note" and "Character" require using the "Backslash" key wh
 
 **Cross Reference Markers**
 
+|  |  |  |
+|-------|-------------------------------------------|-----------|
 | \\x   | Cross Reference                     | Note      |
-|-------|-------------------------------------|-----------|
 | \\xo  | Cross Reference – Origin Reference  | Character |
 | \\xt  | Cross Reference - Target References | Character |
 | \\x\* | Cross Reference End                 | Note      |
+ 
+-----
+
+ 
+----
+
 
 **Figure Markers**
 
+|  |  |  |
+|-------|-------------------------------------------|-----------|
 | \\fig   | Auxiliary - Figure/Illustration/Map     | Note |
-|---------|-----------------------------------------|------|
 | \\fig\* | Auxiliary - Figure/Illustration/Map End | Note |
 
 **Footnote Markers**
 
+|  |  |  |
+|-------|-------------------------------------------|-----------|
 | \\f   | Footnote                                    | Note      |
-|-------|---------------------------------------------|-----------|
 | \\fr  | Footnote - Reference                        | Character |
 | \\ft  | Footnote - Text                             | Character |
 | \\fk  | Footnote - Keyword                          | Character |
@@ -67,10 +80,17 @@ Note: All Style Type "Note" and "Character" require using the "Backslash" key wh
 | \\fqa | Footnote - Alternate Translation Rendering  | Character |
 | \\f\* | Footnote End                                | Note      |
 
+ 
+----
+
+ 
+----
+
 **Glossary**
 
+|  |  |  |
+|-------|-------------------------------------------|-----------|
 | \\k ... k\*   | Keyword (in the glossary)                      | Character |
-|---------------|------------------------------------------------|-----------|
 | \\w ... \\w\* | Indicates a word in the glossary (in the text) | Character |
 | \\p           | Paragraph                                      | Paragraph |
 | \\li1         | Glossary list paragraph (1st level indent)     | Paragraph |

@@ -1,0 +1,13 @@
+﻿https://manual.paratext.org/fr/9.2/category/wn-windows-and-navigation
+https://manual.paratext.org/fr/9.2/category/stu-enhanced-resources
+https://manual.paratext.org/fr/9.2/category/drf-drafting-and-editing
+https://manual.paratext.org/fr/9.2/category/drf-project-collaboration
+https://manual.paratext.org/fr/9.2/category/rev-project-notes
+https://manual.paratext.org/fr/9.2/category/chk-checking-tools
+https://manual.paratext.org/fr/9.2/category/chk-spell-checking-and-wordlist
+https://manual.paratext.org/fr/9.2/category/chk-biblical-terms
+https://manual.paratext.org/fr/9.2/category/chk-back-translation
+https://manual.paratext.org/fr/9.2/category/chk-custom-interlinears
+https://manual.paratext.org/fr/9.2/category/chk-parallel-passages
+https://manual.paratext.org/fr/9.2/category/pub-glossary
+https://manual.paratext.org/fr/9.2/category/pub-illustrations
