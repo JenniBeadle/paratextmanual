@@ -19,9 +19,10 @@ slug: /
 ----
 
 ### Résumés des vidéos de formation Paratext
--  :film_projector: **Résumés des vidéos (90+) regroupées par [fonctionnalités spécifiques](Video-summaries/00-list-of-features.md) de Paratext**
+-  :film_projector: **Résumés des vidéos (90+) regroupées par [fonctionnalités spécifiques]
+(Video-summaries/00-Lists-of-videos/00-list-of-features.md) de Paratext**
 
--  **Résumés des vidéos (90+) en ordre de [tâches](Video-summaries/00-list-of-videos.md).** (Plan de SIL)
+-  **Résumés des vidéos (90+) en ordre de [tâches](Video-summaries/Overview.md).** (Plan de SIL)
 
 -  [Télécharger Résumés PDF ici](pathname:///img/Ptx-vidsum-fr.pdf)  
    - (Il a 200+ pages A4 pour imprimer en format A5 livret.)
