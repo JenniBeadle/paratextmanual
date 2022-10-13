@@ -2,6 +2,9 @@
 title: B Three letter abbreviations
 ---
 
+
+----
+
 ### Old Testament
 
 |  |  |  |  
@@ -19,6 +22,9 @@ title: B Three letter abbreviations
 | Obadiah - OBA       | Jonah - JON        | Micah - MIC        |
 | Nahum - NAM         | Habakkuk - HAB     | Zephaniah - ZEP    |
 | Haggai - HAG        | Zechariah - ZEC    | Malachi - MAL      |
+
+
+----
 
 ### New Testament
 

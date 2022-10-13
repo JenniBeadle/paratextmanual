@@ -1,0 +1,13 @@
+﻿https://manual.paratext.org/fr/9.2/category/paratext-video-summaries
+https://manual.paratext.org/fr/9.2/category/back-translation
+https://manual.paratext.org/fr/9.2/category/biblical-terms
+https://manual.paratext.org/fr/9.2/category/checking-tools
+https://manual.paratext.org/fr/9.2/category/custom-interlinears
+https://manual.paratext.org/fr/9.2/category/drafting-and-editing
+https://manual.paratext.org/fr/9.2/category/enhanced-resources
+https://manual.paratext.org/fr/9.2/category/glossary
+https://manual.paratext.org/fr/9.2/category/navigation
+https://manual.paratext.org/fr/9.2/category/parallel-passages
+https://manual.paratext.org/fr/9.2/category/project-notes
+https://manual.paratext.org/fr/9.2/category/project-collaboration
+https://manual.paratext.org/fr/9.2/category/spell-checking-and-wordlist

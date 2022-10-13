@@ -8,19 +8,20 @@ slug: /
 
 
 ## [Paratext Training Manual](Training-Manual/00-Overview.md)
-- :book: [Download the PDF version here](pathname:///img/Ptx-man.en.pdf)  
-  - It has 25 chapters in  200+ A4 pages but is designed to print as an **A5 booklet**.
+- :book: [Download the PDF version here](pathname:///img/Ptx-man-en.pdf)  
+  - It has 25 chapters in  200+ A4 pages but is designed to print as A5 booklet.
  
    
 
 ----
 ## Video Summaries of 90+ Paratext training videos
 -  :film_projector: Video summaries (90+) grouped by specific [**Paratext features**](Video-summaries/00-list-of-features.md)
--  :book 📖 : [Download the PDF version here](pathname:///img/Ptx-vidsum.en.pdf)
 
--  Video summaries (90+)  grouped by [**task**](Video-summaries/00-list-of-videos.md) following the SIL plan.
+-  Video summaries (90+)  [**grouped by task**](Video-summaries/Overview.md) following the SIL plan.
+- :book: [Download the PDF version here](pathname:///img/Ptx-vidsum-en.pdf)  
 
 ----
+
 
 ### What's new - [Paratext 9.3](Video-summaries/00-Whats-new.md)
 

@@ -35,23 +35,30 @@
     .pagebreak { page-break-before: always; 
 }
 */
-@media print {body{font-size: 125%}
+@media print {
+  
+body {
+  font-size: 125%; 
+  line-height: 1.5;}
 
 h2 {   
     -webkit-break-after: avoid;
     break-after: avoid;
-}
+    font-size: 125%;}
 
 h3 {   
     -webkit-break-after: avoid;
     break-after: avoid;
-}
+    font-size: 125%;}
+
 h4 {   
     -webkit-break-after: avoid;
     break-after: avoid;
-}
+    font-size: 150%;}
 
-@media print {h2 {font-size: 125%; -webkit-break-after: avoid; break-after: avoid;}
-@media print {h3 {font-size: 125%; -webkit-break-after: avoid; break-after: avoid;}
-@media print {h4 {font-size: 125%; -webkit-break-after: avoid; break-after: avoid;}
-
+img {
+    max-width: 480px;    }
+    
+ table {width: 100%} 
+  
+  }

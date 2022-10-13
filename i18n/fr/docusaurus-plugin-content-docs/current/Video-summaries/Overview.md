@@ -89,6 +89,7 @@ Comment voir les tâches qui me sont attribuées ([1.1](02-Stage-1/1.Drafting-ed
 -  Termes bibliques Introduction ([2.2a](03-Stage-2/2.2.Biblical-terms/2.2a.md))  
 -  Termes bibliques - Identifier les équivalents ([2.2b](03-Stage-2/2.2.Biblical-terms/2.2b.md))  
 -  Termes bibliques - Modifier ou supprimer un équivalent ([2.2c](03-Stage-2/2.2.Biblical-terms/2.2c.md))  
+  
 -  Imprimer une Ébauche ([2.4a](03-Stage-2/2.4a.md))  
   
 **Remarques de projet**    
@@ -125,17 +126,15 @@ Comment voir les tâches qui me sont attribuées ([1.1](02-Stage-1/1.Drafting-ed
 -   Mots répétés ([3.4g](04-Stage-3/3.4.Checks/3.4g.md))  
 -   Comment gérer les exceptions ([3.4h](04-Stage-3/3.4.Checks/3.4h.md))  
   
-### Stage 4-6 Check and finalisation for publication  
-  
-**Stage 4**  -   **Consultant check**    
+### Stage 4  - Consultant check    
 -  Outils de collaboration : Paratext Live ([4.1](05-Stage-4/4.1.md))  
 -  Outils de collaboration : Chorus Hub ([4.2](05-Stage-4/4.2.md))  
 
-**Étape 5**  **Test avec la comunitaué des changements**     
+### Étape 5  Test avec la comunitaué des changements     
 -  Noms de livres USFMs ([5.1](06-Stage-5/5.1.md))  
 -  Recherche et remplacer ([5.2](06-Stage-5/5.2.md))  
 
-**Étape 6** - **Mettre la touche finale avant la publication**    
+### Étape 6 - Mettre la touche finale avant la publication    
 -  Passages Parallèles ([6.1a](07-Stage-6/6.1a.md))  
 -  Filtres de passages parallèles et texte modifié ([6.1b](07-Stage-6/6.1b.md))  
   

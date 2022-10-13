@@ -9,5 +9,5 @@ The fifth stage of a translation project is the review by the community. In the 
 
 The following modules will help you in this stage:
 
--   [**PPR: Progress report**](21.PPR.md)
--   [**BTR: Biblical key terms report**](22.BTR.md)
+-  [**PPR: Progress report**](21.PPR.md)
+-  [**BTR: Biblical key terms report**](22.BTR.md)

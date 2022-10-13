@@ -1,6 +1,6 @@
 ---
 title: What's new - Paratext 9.3
-sidebar_position: 1
+sidebar_position: 3
 ---
 :::caution
 Please be aware that this is a Beta and some things may/will change before Paratext 9.3 is released.
@@ -79,6 +79,3 @@ Remember to save your layout!
 :::tip
 Paratext 9.3 Beta will not replace an existing Paratext installation so you can test alongside of another Paratext.
 :::
-
-### Download
-Go to paratext.org/download/pre-release/
