@@ -1,8 +1,11 @@
 ---
 title: Étape 3 - Préparation pour le conseiller
 ---
+:::info
+Dans le plan ABU, cette étape fait partie de l'étape 2.
+:::
 
-Dans cette troisième étape d’un projet de traduction [SIL], vous effectuerez des tests de compréhension et des retraductions. Vous continuerez également avec les contrôles de base.
+Dans cette troisième étape d’un projet de traduction, vous effectuerez des tests de compréhension et des retraductions. Vous continuerez également avec les contrôles de base.
 
 Les modules suivants vous aideront avec ces étapes :
 
