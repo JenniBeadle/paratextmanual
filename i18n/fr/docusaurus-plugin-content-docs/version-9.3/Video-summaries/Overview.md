@@ -6,12 +6,12 @@ sidebar_position: 1
 
 ### Introduction  
  
--   Qu'est-ce que Paratext ? ([0.1](01-Introduction/0.1.md))  
+-  Qu'est-ce que Paratext ? ([0.1](01-Introduction/0.1.md))  
  
 **Disposition des fenêtres et navigation**  
--   Changer la langue d'interface ([0.2.1a](01-Introduction/0.2.Navigation/0.2.1a.md))  
+-  Changer la langue d'interface ([0.2.1a](01-Introduction/0.2.Navigation/0.2.1a.md))  
 -  Les bases des projets et des ressources ([0.2.1b](01-Introduction/0.2.Navigation/0.2.1b.md))  
--   Trouver des éléments de menu ([0.2.1c](01-Introduction/0.2.Navigation/0.2.1c.md))  
+-  Trouver des éléments de menu ([0.2.1c](01-Introduction/0.2.Navigation/0.2.1c.md))  
 -  Arranger les fenêtres ([0.2.1d](01-Introduction/0.2.Navigation/0.2.1d.md))  
 -  Comment ouvrir et modifier  une collection de textes ([0.2.2a](01-Introduction/0.2.Navigation/0.2.2a.md))  
 -  Comment contrôler quelles fenêtres défilent ensemble ([0.2.3a](01-Introduction/0.2.Navigation/0.2.3a.md))  
@@ -34,7 +34,7 @@ sidebar_position: 1
 -  Installation des ressources standards et enrichies  ([0.3a](01-Introduction/0.5.Enhanced-resources/0.3a.md))  
 -  Les ressources enrichies - Introduction ([0.5](01-Introduction/0.5.Enhanced-resources/0.5.md))  
 
-### Étape 1 Rédaction de l’ébauche
+### Étape 1 - Rédaction de l’ébauche
 
 Comment voir les tâches qui me sont attribuées ([1.1](02-Stage-1/1.Drafting-editing/1.1.md))  
  
@@ -76,7 +76,7 @@ Comment voir les tâches qui me sont attribuées ([1.1](02-Stage-1/1.Drafting-ed
 -  Inventaire des caractères ([1A.7a](02-Stage-1/4.Basic-checks/1A.7a.md))  
 -  Inventaire ponctuation ([1A.7b](02-Stage-1/4.Basic-checks/1A.7b.md))  
   
-### Étape 2 Vérification en équipe de la compréhension   
+### Étape 2 - Vérification en équipe de la compréhension   
       
 **Spell check and wordlist**    
 -  Approuver l'orthographe des mots fréquents ([2.1a](03-Stage-2/2.1.Spell-check-wordlist/2.1a.md))  
@@ -93,49 +93,49 @@ Comment voir les tâches qui me sont attribuées ([1.1](02-Stage-1/1.Drafting-ed
 -  Imprimer une Ébauche ([2.4a](03-Stage-2/2.4a.md))  
   
 **Remarques de projet**    
--   Comment insérer des remarques ([2.5a](03-Stage-2/2.5.Project-notes/2.5a.md))  
--   Remarques : commenter, confier, modifier, supprimer, changer l'étiquette ([2.5b](03-Stage-2/2.5.Project-notes/2.5b.md))  
--   Remarques : Comment afficher les modfications du verset et Résoudre une remarque ([2.5c](03-Stage-2/2.5.Project-notes/2.5c.md))  
--   Remarques : Ouvrir la liste des remarques ([2.5d](03-Stage-2/2.5.Project-notes/2.5d.md))  
--   Remarques : Trier et filtrer les remarques ([2.5e](03-Stage-2/2.5.Project-notes/2.5e.md))  
--   Remarques : Comment rechercher et utiliser des mots-dièse ([2.5f](03-Stage-2/2.5.Project-notes/2.5f.md))  
--   Remarques : Comment rattacher une remarque ([2.5g](03-Stage-2/2.5.Project-notes/2.5g.md))  
+-  Comment insérer des remarques ([2.5a](03-Stage-2/2.5.Project-notes/2.5a.md))  
+-  Remarques : commenter, confier, modifier, supprimer, changer l'étiquette ([2.5b](03-Stage-2/2.5.Project-notes/2.5b.md))  
+-  Remarques : Comment afficher les modfications du verset et Résoudre une remarque ([2.5c](03-Stage-2/2.5.Project-notes/2.5c.md))  
+-  Remarques : Ouvrir la liste des remarques ([2.5d](03-Stage-2/2.5.Project-notes/2.5d.md))  
+-  Remarques : Trier et filtrer les remarques ([2.5e](03-Stage-2/2.5.Project-notes/2.5e.md))  
+-  Remarques : Comment rechercher et utiliser des mots-dièse ([2.5f](03-Stage-2/2.5.Project-notes/2.5f.md))  
+-  Remarques : Comment rattacher une remarque ([2.5g](03-Stage-2/2.5.Project-notes/2.5g.md))  
 
 〰️
 ----
 
-### Étape 3  Préparation pour la conseiller  
+### Étape 3 - Préparation pour la conseiller  
   
 **Termes bibliques**    
--   Termes bibliques - Textes comparatifs ([3.1a](04-Stage-3/3.1.Biblical-terms/3.1a.md))  
--   Termes bibliques - assurer la cohérence ([3.1b](04-Stage-3/3.1.Biblical-terms/3.1b.md))  
--   Termes bibliques - créer un filtre et obtenir des propositions ([3.1c](04-Stage-3/3.1.Biblical-terms/3.1c.md))  
+-  Termes bibliques - Textes comparatifs ([3.1a](04-Stage-3/3.1.Biblical-terms/3.1a.md))  
+-  Termes bibliques - assurer la cohérence ([3.1b](04-Stage-3/3.1.Biblical-terms/3.1b.md))  
+-  Termes bibliques - créer un filtre et obtenir des propositions ([3.1c](04-Stage-3/3.1.Biblical-terms/3.1c.md))  
   
 **Retraduction**    
--   Retraduction : Introduction ([3.2a](04-Stage-3/3.2.Back-translation/3.2a.md))  
--   Préparer et créer le projet de retraduction ([3.2b](04-Stage-3/3.2.Back-translation/3.2b.md))  
--   Retraduction : Comment rédiger et marqué comme achevé ([3.2c](04-Stage-3/3.2.Back-translation/3.2c.md))  
--   Retraduction - utilité des cases de statut ([3.2d](04-Stage-3/3.2.Back-translation/3.2d.md))  
--   Re:traduction - Prêt pour le conseiller et ses remarques ([3.2e](04-Stage-3/3.2.Back-translation/3.2e.md))  
--   Utiliser le générateur d'interlinéaire ([3.3](04-Stage-3/3.3.Custom-interlinears/3.3.md))  
+-  Retraduction : Introduction ([3.2a](04-Stage-3/3.2.Back-translation/3.2a.md))  
+-  Préparer et créer le projet de retraduction ([3.2b](04-Stage-3/3.2.Back-translation/3.2b.md))  
+-  Retraduction : Comment rédiger et marqué comme achevé ([3.2c](04-Stage-3/3.2.Back-translation/3.2c.md))  
+-  Retraduction - utilité des cases de statut ([3.2d](04-Stage-3/3.2.Back-translation/3.2d.md))  
+-  Re:traduction - Prêt pour le conseiller et ses remarques ([3.2e](04-Stage-3/3.2.Back-translation/3.2e.md))  
+-  Utiliser le générateur d'interlinéaire ([3.3](04-Stage-3/3.3.Custom-interlinears/3.3.md))  
    
 **Vérifications de base**  
--   Vérifications des références ([3.4a](04-Stage-3/3.4.Checks/3.4a.md))  
--   Vérifier les guillemets ([3.4b](04-Stage-3/3.4.Checks/3.4b.md))  
--   Texte Cité ([3.4c](04-Stage-3/3.4.Checks/3.4c.md))  
--   Erreurs de ponctuation en paires correspondantes ([3.4d](04-Stage-3/3.4.Checks/3.4d.md))  
--   Nombres ([3.4e](04-Stage-3/3.4.Checks/3.4e.md))  
--   Mise en majuscules ([3.4f](04-Stage-3/3.4.Checks/3.4f.md))  
--   Mots répétés ([3.4g](04-Stage-3/3.4.Checks/3.4g.md))  
--   Comment gérer les exceptions ([3.4h](04-Stage-3/3.4.Checks/3.4h.md))  
+-  Vérifications des références ([3.4a](04-Stage-3/3.4.Checks/3.4a.md))  
+-  Vérifier les guillemets ([3.4b](04-Stage-3/3.4.Checks/3.4b.md))  
+-  Texte Cité ([3.4c](04-Stage-3/3.4.Checks/3.4c.md))  
+-  Erreurs de ponctuation en paires correspondantes ([3.4d](04-Stage-3/3.4.Checks/3.4d.md))  
+-  Nombres ([3.4e](04-Stage-3/3.4.Checks/3.4e.md))  
+-  Mise en majuscules ([3.4f](04-Stage-3/3.4.Checks/3.4f.md))  
+-  Mots répétés ([3.4g](04-Stage-3/3.4.Checks/3.4g.md))  
+-  Comment gérer les exceptions ([3.4h](04-Stage-3/3.4.Checks/3.4h.md))  
   
 ### Stage 4-6 Check and finalisation for publication  
   
-**Stage 4**  -   **Consultant check**    
+**Stage 4** - **Consultant check**    
 -  Outils de collaboration : Paratext Live ([4.1](05-Stage-4/4.1.md))  
 -  Outils de collaboration : Chorus Hub ([4.2](05-Stage-4/4.2.md))  
 
-**Étape 5**  **Test avec la comunitaué des changements**     
+**Étape 5** - **Test avec la comunitaué des changements**     
 -  Noms de livres USFMs ([5.1](06-Stage-5/5.1.md))  
 -  Recherche et remplacer ([5.2](06-Stage-5/5.2.md))  
 

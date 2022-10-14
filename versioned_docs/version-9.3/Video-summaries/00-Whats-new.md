@@ -75,7 +75,3 @@ Remember to save your layout!
 -  **Synchronizing** with Logos and other compatible programs is now turned **on by default**
 -  Changes have been made to help with the localization of the help files and the user interface
 -  **Bible modules** can now handle **chapter markers** in the extra books
-
-:::tip
-Paratext 9.3 Beta will not replace an existing Paratext installation so you can test alongside of another Paratext.
-:::
