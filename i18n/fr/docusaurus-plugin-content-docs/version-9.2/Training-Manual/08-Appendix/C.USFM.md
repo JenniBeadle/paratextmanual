@@ -73,8 +73,8 @@ Lors du choix du marqueur en vue **Standard**
 | \\fr  | Note de bas de page - Reference                               | Caractère |
 | \\ft  | Note de bas de page - Texte                                   | Caractère |
 | \\fk  | Note de bas de page - Mot clé                                 | Caractère |
-| \\fq  | Note de bas de page - Citation ou Équivalent alternatif       | Caractère |
-| \\fqa | Note de bas de page - Équivalent de la traduction alternative | Caractère |
+| \\fq  | Note de bas de page - Citation        | Caractère |
+| \\fqa | Note de bas de page - La traduction alternative | Caractère |
 | \\f\* | Fin de la note de bas de page                                 | Note      |
 
 **Glossaire**  

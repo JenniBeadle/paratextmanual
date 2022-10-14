@@ -2,7 +2,7 @@
 title: Overview of Video Summaries
 sidebar_position: 1
 ---
-**To display the summary, either click on the code below, or choose from the left sidebar.**  
+**To display the summary, either click on the code below.**  
 
 ### Introduction  
  

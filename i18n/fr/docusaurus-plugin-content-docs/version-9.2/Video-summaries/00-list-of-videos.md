@@ -30,7 +30,7 @@ title: Liste de vidéos par tâche
 -  Envoyer/Recevoir régulièrement pour garder un projet partagé synchronisé ([0.4c](Project-sharing/0.4c))
 -  Comment éviter de causer des conflicts en utilisant envoyer/recevoir ([0.4d](Project-sharing/0.4d))
 
-  **Enhanced resources**   
+  **Ressources enrichies**   
 -  Les ressources enrichies - Introduction ([0.5](Enhanced-resources/0.5)) 
 -  Installation des ressources standards et enrichies ([0.3a](Enhanced-resources/0.3a))
   

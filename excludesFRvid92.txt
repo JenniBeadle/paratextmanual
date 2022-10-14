@@ -1,5 +1,4 @@
-﻿https://manual.paratext.org/fr/9.2/category/paratext-video-summaries
-https://manual.paratext.org/fr/9.2/category/back-translation
+﻿https://manual.paratext.org/fr/9.2/category/back-translation
 https://manual.paratext.org/fr/9.2/category/biblical-terms
 https://manual.paratext.org/fr/9.2/category/checking-tools
 https://manual.paratext.org/fr/9.2/category/custom-interlinears

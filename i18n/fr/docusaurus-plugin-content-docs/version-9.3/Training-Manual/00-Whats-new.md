@@ -1,18 +1,18 @@
 ﻿---
-title: Quoi de neuf - Paratext 9.3
+title: Quoi de neuf - Paratext 9.3
 sidebar_position: 1
 ---
 :::tip
-Veuillez noter qu'il s'agit d'une version bêta et que certaines choses peuvent/seront modifiées avant la sortie de Paratext 9.3.
+Veuillez noter qu'il s'agit d'une version bêta et que certaines choses peuvent/seront modifiées avant la sortie de Paratext 9.3.
 :::
 
 ### Paratext Live
 Paratext Live utilise plus qu'un serveur.
 
-- Paratext 8, 9.0 et 9.1 utilisent un serveur "Internet secondaire" et Paratext 9.2 utilise serveur "Internet".
+- Paratext 8, 9.0 et 9.1 utilisent un serveur "Internet secondaire" et Paratext 9.2 utilise serveur "Internet".
   -  *C'est pourquoi vous ne pouvez pas utiliser Paratext Live avec 9.2 et 9.1 en même temps*.
 
-- Dans Paratext 9.3, lorsque vous démarrez Paratext Live, vous choisissez le serveur que vous souhaitez utiliser.
+- Dans Paratext 9.3, lorsque vous démarrez Paratext Live, vous choisissez le serveur que vous souhaitez utiliser.
   - **Internet**, qui est 9.2 et 9.3.
   - **Internet secondaire**, qui est 9.0, 9.1 ou Paratext 8.  
 
@@ -32,7 +32,7 @@ La nouvelle fonctionnalité la plus évidente est la possibilité de **comparer 
   *Les changements dans les annexes sont affichés*.
 
 ### Référence de l'Écriture dans la barre de navigation
-Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la barre de navigation.
+Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la barre de navigation.
 - Copier le texte d'une référence (depuis un autre fichier)
 - Cliquez sur le **nom du livre** dans la barre de navigation.
 - Collez en utilisant **Ctrl+V**.  
