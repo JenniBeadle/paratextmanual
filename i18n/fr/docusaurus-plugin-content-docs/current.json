@@ -4,11 +4,11 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Paratext Training Manual": {
-    "message": "Paratext Manuel de formation ",
+    "message": "Paratext Manuel de formation",
     "description": "The label for category Paratext Training Manual in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Paratext Training Manual.link.generated-index.description": {
-    "message": "  ",
+    "message": "Paratext Manuel de formation  ",
     "description": "The generated-index page description for category Paratext Training Manual in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage-1": {
@@ -44,7 +44,7 @@
     "description": "The label for category Paratext Video Summaries in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Paratext Video Summaries.link.generated-index.description": {
-    "message": " ",
+    "message": "Résumés des vidéos",
     "description": "The generated-index page description for category Paratext Video Summaries in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage 2 Team check": {
@@ -88,7 +88,7 @@
     "description": "The label for category Windows and Navigation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage 3 Prepare for Consultant check": {
-    "message": "Étape 3 Préparation pour le consultant",
+    "message": "Étape 3 Préparation pour le conseiller",
     "description": "The label for category Stage 3 Prepare for Consultant check in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.3.1.Biblical-terms": {

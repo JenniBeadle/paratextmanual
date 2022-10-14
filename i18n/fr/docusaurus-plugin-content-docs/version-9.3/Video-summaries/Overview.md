@@ -1,5 +1,6 @@
 ---
 title: Vue d'ensemble des résumés vidéo
+sidebar_position: 1
 ---
 **Cliquer sur la **code** pour voir le résumé**  
 
@@ -99,7 +100,10 @@ Comment voir les tâches qui me sont attribuées ([1.1](02-Stage-1/1.Drafting-ed
 -   Remarques : Trier et filtrer les remarques ([2.5e](03-Stage-2/2.5.Project-notes/2.5e.md))  
 -   Remarques : Comment rechercher et utiliser des mots-dièse ([2.5f](03-Stage-2/2.5.Project-notes/2.5f.md))  
 -   Remarques : Comment rattacher une remarque ([2.5g](03-Stage-2/2.5.Project-notes/2.5g.md))  
-  
+
+〰️
+----
+
 ### Étape 3  Préparation pour la conseiller  
   
 **Termes bibliques**    
@@ -112,7 +116,7 @@ Comment voir les tâches qui me sont attribuées ([1.1](02-Stage-1/1.Drafting-ed
 -   Préparer et créer le projet de retraduction ([3.2b](04-Stage-3/3.2.Back-translation/3.2b.md))  
 -   Retraduction : Comment rédiger et marqué comme achevé ([3.2c](04-Stage-3/3.2.Back-translation/3.2c.md))  
 -   Retraduction - utilité des cases de statut ([3.2d](04-Stage-3/3.2.Back-translation/3.2d.md))  
--   Retraduction - Prêt pour le conseiller et ses remarques ([3.2e](04-Stage-3/3.2.Back-translation/3.2e.md))  
+-   Re:traduction - Prêt pour le conseiller et ses remarques ([3.2e](04-Stage-3/3.2.Back-translation/3.2e.md))  
 -   Utiliser le générateur d'interlinéaire ([3.3](04-Stage-3/3.3.Custom-interlinears/3.3.md))  
    
 **Vérifications de base**  

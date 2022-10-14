@@ -1,5 +1,6 @@
 ﻿---
 title: Quoi de neuf - Paratext 9.3
+sidebar_position: 3
 ---
 :::tip
 Veuillez noter qu'il s'agit d'une version bêta et que certaines choses peuvent/seront modifiées avant la sortie de Paratext 9.3.
