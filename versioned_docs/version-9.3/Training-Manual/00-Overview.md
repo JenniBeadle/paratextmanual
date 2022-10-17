@@ -41,7 +41,7 @@ The training manual follows the tasks in the SIL Compact Plan. SIL has six stage
  21\.  [**PPR: Progress report**](06-Stage-5/21.PPR.md)  
  22\.  [**BTR: Biblical key terms report**](06-Stage-5/22.BTR.md)  
 
-### [Stage 6 Stage 4 UBB](07-Stage-6/00-Stage-6.md)  Finalising for Publication  
+### [Stage 6 Stage 4 UBS](07-Stage-6/00-Stage-6.md)  Finalising for Publication  
  23\.  [**PP: Parallel Passages**](07-Stage-6/23.PP.md)  
  24\.  [**FFP: Finalising for Publication**](07-Stage-6/24.FFP.md)  
  25\.  [**Create a study Bible**](07-Stage-6/25.StudyBibles.md)  
