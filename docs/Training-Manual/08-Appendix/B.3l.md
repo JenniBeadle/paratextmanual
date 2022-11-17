@@ -1,4 +1,6 @@
-# B Three letter abbreviations
+---
+title: B Three letter abbreviations
+---
 
 ### Old Testament
 
@@ -13,10 +15,11 @@
 | Psalms - PSA        | Proverbs - PRO     | Ecclesiastes - ECC |
 | Song of Songs - SNG | Isaiah - ISA       | Jeremiah - JER     |
 | Lamentations - LAM  | Ezekiel - EZK      | Daniel - DAN       |
-| Hosea - HOS         | Joel - JOL         | Amos - AMO         |
+| Hosea - HOS         | Joël - JOL         | Amos - AMO         |
 | Obadiah - OBA       | Jonah - JON        | Micah - MIC        |
 | Nahum - NAM         | Habakkuk - HAB     | Zephaniah - ZEP    |
 | Haggai - HAG        | Zechariah - ZEC    | Malachi - MAL      |
+
 
 ### New Testament
 
@@ -31,4 +34,3 @@
 | Hebrews - HEB         | James - JAS           | 1 Peter - 1PE    |
 | 2 Peter - 2PE         | 1 John - 1JN          | 2 John - 2JN     |
 | 3 John - 3JN          | Jude - JUD            | Revelation - REV |
-

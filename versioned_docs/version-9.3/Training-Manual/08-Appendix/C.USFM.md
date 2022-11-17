@@ -7,8 +7,10 @@ pagination_next: null
 - All Styles of type "Paragraph" require using the "Enter" key when choosing the marker in "Standard" view
 -  All Style Type "Note" and "Character" require using the "Backslash" key when choosing the marker in "Standard" view
 :::
-| \\id  | File - Identification                     | Paragraph |
+
+| USFM |  Description  | Style |
 |-------|-------------------------------------------|-----------|
+| \\id  | File - Identification                     | Paragraph |
 | \\h   | File - Header                             | Paragraph |
 | \\c   | Chapter Number                            | Paragraph |
 | \\v   | Verse Number                              | Character |
@@ -22,21 +24,23 @@ pagination_next: null
 | \\mt1 | Title - Major Title Level 1               | Paragraph |
 | \\mt2 | Title - Major Title Level 2               | Paragraph |
 | \\mt3 | Title - Major Title Level 3               | Paragraph |
+|  |  |  |
 
-## Less-common Markers
+### Less-common Markers
 
-| \\pc | Paragraph - Centered (for Inscription)       | Paragraph |
+| USFM |  Description  | Style |
 |------|----------------------------------------------|-----------|
+| \\pc | Paragraph - Centered (for Inscription)       | Paragraph |
 | \\nb | Paragraph - No Break with Previous Paragraph | Paragraph |
 | \\li | List Entry - Level 1 - Single Level Only     | Paragraph |
  
------
+## :page_facing_up:
 
+### Introduction Markers
 
-## Introduction Markers
-
+| USFM |  Description  | Style |
+|------|----------------------------------------------|-----------|
 | \\imt1 | Introduction - Major Title Level 1              | Paragraph |
-|--------|-------------------------------------------------|-----------|
 | \\iot  | Introduction - Outline Title                    | Paragraph |
 | \\io1  | Introduction - Outline Level 1                  | Paragraph |
 | \\io2  | Introduction - Outline Level 2                  | Paragraph |
@@ -44,44 +48,39 @@ pagination_next: null
 | \\im   | Introduction - Paragraph - no first line indent | Paragraph |
 | \\ipq  | Introduction - Paragraph - quote from text      | Paragraph |
 
-## Cross Reference Markers
+### Cross Reference Markers
 
+| USFM |  Description  | Style |
+|------|----------------------------------------------|-----------|
 | \\x   | Cross Reference                     | Note      |
-|-------|-------------------------------------|-----------|
 | \\xo  | Cross Reference – Origin Reference  | Character |
 | \\xt  | Cross Reference - Target References | Character |
 | \\x\* | Cross Reference End                 | Note      |
 
-## Figure/Illustration Markers
+### Figure/Illustration Markers
 
+| USFM |  Description  | Style |
+|------|----------------------------------------------|-----------|
 | \\fig   | Auxiliary - Figure/Illustration/Map     | Note |
-|---------|-----------------------------------------|------|
 | \\fig\* | Auxiliary - Figure/Illustration/Map End | Note |
 
-## Footnote Markers
+### Footnote Markers
 
+| USFM |  Description  | Style |
+|------|----------------------------------------------|-----------|
 | \\f   | Footnote                                    | Note      |
-|-------|---------------------------------------------|-----------|
 | \\fr  | Footnote - Reference                        | Character |
 | \\ft  | Footnote - Text                             | Character |
 | \\fk  | Footnote - Keyword                          | Character |
 | \\fq  | Footnote - Quotation or Alternate Rendering | Character |
 | \\fqa | Footnote - Alternate Translation Rendering  | Character |
 | \\f\* | Footnote End                                | Note      |
- 
------
 
- 
------
+### Glossary
 
- 
------
-
-
-## Glossary
-
+| USFM |  Description  | Style |
+|------|----------------------------------------------|-----------|
 | \\k … k\*   | Keyword (in the glossary)                      | Character |
-|---------------|------------------------------------------------|-----------|
 | \\w … \\w\* | Indicates a word in the glossary (in the text) | Character |
 | \\p           | Paragraph                                      | Paragraph |
 | \\li1         | Glossary list paragraph (1st level indent)     | Paragraph |

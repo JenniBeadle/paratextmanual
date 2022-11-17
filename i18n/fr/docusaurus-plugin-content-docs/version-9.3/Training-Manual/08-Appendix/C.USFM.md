@@ -3,9 +3,8 @@ title: C - USFM Marqueurs fréquents
 pagination_next: null 
 ---
 :::tip Remarque
-Tous les styles de type **Paragraphe** nécessitent l'utilisation de la touche **Entrée** lors du choix du marqueur en vue **Standard**.
-
-Tous les types de style **Note** et **Caractère** nécessitent l'utilisation de la touche **antislash** lors du choix du marqueur en vue **Standard**.
+-  Tous les styles de type **Paragraphe** nécessitent l'utilisation de la touche **Entrée** lors du choix du marqueur en vue **Standard**.
+-  Tous les types de style **Note** et **Caractère** nécessitent l'utilisation de la touche **antislash** lors du choix du marqueur en vue **Standard**.
 :::
 | USFM  | Déscription                                              | Type       |
 |-------|----------------------------------------------------------|------------|
@@ -46,14 +45,17 @@ Tous les types de style **Note** et **Caractère** nécessitent l'utilisation de
 | \\im   | Introduction - Paragraphe - pas d'indentation de première ligne | Paragraphe |
 | \\ipq  | Introduction - Paragraphe - Citation tirée du texte             | Paragraphe |
 
+ 
+## :page_facing_up:
 
-### Marquers Renvoi
+
+### Marquers de renvoi
 
 | USFM  | Déscription              | Type      |
 |-------|--------------------------|-----------|
 | \\x   | Renvoi                   | Note      |
-| \\xo  | Renvoi référence origin  | Caractère |
-| \\xt  | Renvoi références cibles | Caractère |
+| \\xo  | Renvoi - référence origin  | Caractère |
+| \\xt  | Renvoi - références cibles | Caractère |
 | \\x\* | Renvoi                   | Note      |
 
 

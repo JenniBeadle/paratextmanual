@@ -13,22 +13,22 @@ slug: /
 ### Paratext [**Manuel de participant**](Training-Manual/Overview) 
 (en 24 chapitres)
 
--  :book: [Télécharger Manuel PDF ici](pathname:///img/Ptx-man-fr.pdf)  
+-  :book: [Télécharger le Manuel PDF ici](pathname:///img/Ptx-man-fr-9.3.pdf)  
    - Il a 200+ pages A4 pour imprimer en format A5 livret.
 
 ----
 
 ### Résumés des vidéos de formation Paratext
--  :film_projector: **Résumés des vidéos (90+) regroupées par [fonctionnalités spécifiques]
-(Video-summaries/00-Lists-of-videos/00-list-of-features.md) de Paratext**
+-  :film_projector: 90+ résumés [**regroupées par fonctionnalités spécifiques**](Video-summaries/00-list-of-videos.md) de Paratext
 
--  **Résumés des vidéos (90+) en ordre de [tâches](Video-summaries/Overview.md).** (Plan de SIL)
+-  :film_projector: 90+ résumés [**en ordre par tâches**](Video-summaries/TOC-overview) (du plan de SIL)
 
--  [Télécharger Résumés PDF ici](pathname:///img/Ptx-vidsum-fr.pdf)  
-   - (Il a 200+ pages A4 pour imprimer en format A5 livret.)
+- :book:  [Télécharger le Résumés PDF ici](pathname:///img/Ptx-vidsum-fr-9.3.pdf)  
+   - Il est en ordre par tâches
+   - Il a 200+ pages A4 pour imprimer en format A5 livret.
 
 ----
 
-### Quoi de neuf - [Paratext 9.3](Video-summaries/00-Whats-new.md)
+### Quoi de neuf - [Paratext 9.3](Video-summaries/00-Whats-new.md)
 
 ----

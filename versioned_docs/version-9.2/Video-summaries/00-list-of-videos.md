@@ -1,23 +1,22 @@
 ---
-  title: Video Summaries by Task	
+title: Video Summaries by Task	
+sidebar_position: 2
 ---
 **To display the summary, either click on the code below**.	
 ### Introduction	
 -  What is Paratext ([0.1](0.1))
-
--  How To Change The User Interface Language ([0.2.1a](navigation/0.2.1a))
--  The Basics Of Projects And Resources ([0.2.1b](navigation/0.2.1b))
--  Finding Menu Items ([0.2.1c](navigation/0.2.1c))
--  How To Arrange Windows ([0.2.1d](navigation/0.2.1d))
--  How To Open And Modify A Text Collection ([0.2.2a](navigation/0.2.2a))
-
--  How To Control Which Windows Scroll Together ([0.2.3a](navigation/0.2.3a))
--  How To Set The Default Keyboard For A Project ([0.2.3b](navigation/0.2.3b))
--  How To Swap A Text In A Window ([0.2.3c](navigation/0.2.3c))
--  Further Tips On Arranging Windows ([0.2.3d](navigation/0.2.3d))
--  How To View Other Bible Related Texts In Paratext ([0.2.3e](navigation/0.2.3e))
--  Quick Bible Reference Navigation ([0.2.4](navigation/0.2.4))
--  Finding Help ([0.3](navigation/0.3))
+-  How To Change The User Interface Language ([0.2.1a](Navigation/0.2.1a))
+-  The Basics Of Projects And Resources ([0.2.1b](Navigation/0.2.1b))
+-  Finding Menu Items ([0.2.1c](Navigation/0.2.1c))
+-  How To Arrange Windows ([0.2.1d](Navigation/0.2.1d))
+-  How To Open And Modify A Text Collection ([0.2.2a](Navigation/0.2.2a))
+-  How To Control Which Windows Scroll Together ([0.2.3a](Navigation/0.2.3a))
+-  How To Set The Default Keyboard For A Project ([0.2.3b](Navigation/0.2.3b))
+-  How To Swap A Text In A Window ([0.2.3c](Navigation/0.2.3c))
+-  Further Tips On Arranging Windows ([0.2.3d](Navigation/0.2.3d))
+-  How To View Other Bible Related Texts In Paratext ([0.2.3e](Navigation/0.2.3e))
+-  Quick Bible Reference Navigation ([0.2.4](Navigation/0.2.4))
+-  Finding Help ([0.3](Navigation/0.3))
 -  What Is Send & Receive Why Do I Need it ([0.4a](Project-sharing/0.4a))
 -  How To Receive A Shared Project For The First Time ([0.4b](Project-sharing/0.4b))
 -  Send & Receive Regularly To Keep A Shared Project In Sync ([0.4c](Project-sharing/0.4c))
@@ -28,39 +27,29 @@
 ### Stage 1 Drafting  	
 -  How To View Tasks Assigned To You ([1.1](Drafting-editing/1.1))
 -  Understanding USFMs - Introduction ([1.2.1](Drafting-editing/1.2.1))
-
 -  How Standard View Helps You Add Markers ([1.2.2a](Drafting-editing/1.2.2a))
 -  How To Work With USFMs In Formatted View ([1.2.2b](Drafting-editing/1.2.2b))
 -  How To Use Basic View ([1.2.2c](Drafting-editing/1.2.2c))
 -  What Is Unformatted View For ([1.2.2d](Drafting-editing/1.2.2d))
 -  What Is Preview - How It Is Different From Formatted View ([1.2.2e](Drafting-editing/1.2.2e))
-
 -  How To Type A Backslash When There Isn't One On Your Keyboard ([1.2.3](Drafting-editing/1.2.3))
 -  The Best Way To Add Verse Numbers ([1.2.4](Drafting-editing/1.2.4))
 -  How To Mark Non-Biblical Text ([1.2.5](Drafting-editing/1.2.5))
-
 -  How To Scroll Between Chapters In A Window ([1.3a](Drafting-editing/1.3a))
 -  How To Change The Size Of Text In A Window ([1.3b](Drafting-editing/1.3b))
 -  Required Paragraph Markers ([1.3c](Drafting-editing/1.3c))
-
 -  How To Use Checking Tools ([1.4](Checking-tools/1.4))
 -  Marking Tasks as Complete ([1.5](Checking-tools/1.5))
-
 -  What is a Conflict? ([1.6a](Project-sharing/1.6a))
 -  Paratext Conflict Notes - What They Look Like And How To Deal With Them ([1.6b](Project-sharing/1.6b))
-
 -  How To Insert, View And Edit Footnotes ([1A.3](Drafting-editing/1A.3))
-
 -  Glossary: Adding Entries ([1A.4a](Glossary/1A.4a))
 -  Glossary: Permission to Edit ([1A.4b](Glossary/1A.4b))
 -  Glossary: Finding/Linking Entries ([1A.4c](Glossary/1A.4c))
 -  Glossary: Editing Entries ([1A.4d](Glossary/1A.4d))
-
 -  Illustrations ([1A.5a](Illustrations/1A.5a))
 -  More about Illustrations ([1A.5b](Illustrations/1A.5b))
-
 -  Book Introductions ([1A.6](Drafting-editing/1A.6))
-
 -  Characters Inventory ([1A.7a](Checking-tools/1A.7a))
 -  Punctuation Inventory ([1A.7b](Checking-tools/1A.7b))
 
@@ -71,13 +60,10 @@
 -  More on Wordlist Tool ([2.1d](Spell-check-wordlist/2.1d))
 -  Wordlist: Edit Verse ([2.1e](Spell-check-wordlist/2.1e))
 -  Spell Check: Display Spelling Errors ([2.1f](Spell-check-wordlist/2.1f))
-
 -  Biblical Terms: Introduction ([2.2a](Biblical-terms/2.2a))
 -  Biblical Terms: Identify Renderings ([2.2b](Biblical-terms/2.2b))
 -  Biblical Terms: Edit/Delete Renderings ([2.2c](Biblical-terms/2.2c))
-
 -  Print a Draft ([2.4a](Checking-tools/2.4a))
-
 -  Notes: How to Insert ([2.5a](Project-notes/2.5a))
 -  Notes: Comment, Assign, Tag, Edit, Delete ([2.5b](Project-notes/2.5b))
 -  Notes: Compare, Resolve ([2.5c](Project-notes/2.5c))
@@ -90,15 +76,12 @@
 -  Biblical Terms: Comparative Texts ([3.1a](Biblical-terms/3.1a))
 -  Biblical Terms: Consistency achieved ([3.1b](Biblical-terms/3.1b))
 -  Biblical Terms: Filters and Guesses ([3.1c](Biblical-terms/3.1c))
-
 -  Back Translation: What is it and What Makes a Good One? ([3.2a](Back-translation/3.2a))
 -  Back Translation: How to Prepare for and Create the Project ([3.2b](Back-translation/3.2b))
 -  Back Translation. How to Draft and Mark as Finished ([3.2c](Back-translation/3.2c))
 -  Back Translation: How the Status Boxes Help ([3.2d](Back-translation/3.2d))
 -  Back Translation: Ready for the Consultant and their Notes ([3.2e](Back-translation/3.2e))
-
 -  How and When to Use the Interlinearizer ([3.3](Custom-interlinears/3.3))
-
 -  Basic Checks: References ([3.4a](Checking-tools/3.4a))
 -  Basic Checks: Quotations ([3.4b](Checking-tools/3.4b))
 -  Basic Checks: Quoted text ([3.4c](Checking-tools/3.4c))
@@ -108,15 +91,14 @@
 -  Basic Checks: Repeated words ([3.4g](Checking-tools/3.4g))
 -  Basic Checks: Exceptions ([3.4h](Checking-tools/3.4h))
 
-  ### Stage 4 - Consultant check**
+### Stage 4 - Consultant check
 - Collaboration Tools: Paratext Live ([4.1](Project-sharing/4.1))
 -  Collaboration Tools: Chorus Hub ([4.2](Project-sharing/4.2))
 
-### Stage 5 - **Community check of changes**
-
+### Stage 5 - Community check of changes
 - Book Name USFMs ([5.1](Drafting-editing/5.1))
 -  Find and replace ([5.2](Drafting-editing/5.2))
-### Stage 6 - **Finalising for publication**
+### Stage 6 - Finalising for publication
 -  Parallel Passages Tool ([6.1a](Parallel-passages/6.1a))
 -  Parallel Passages Tool: Filters and Changed Text ([6.1b](Parallel-passages/6.1b))
   

@@ -1,9 +1,0 @@
-﻿bad breaks
-- blank pages
-- 1-2 lines on page
-- heading on bottom of page
-
-not nice
-- half page blank
-- widows/orphans
-
