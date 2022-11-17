@@ -91,17 +91,9 @@
     "message": "Étape 3 Préparation pour le conseiller",
     "description": "The label for category Stage 3 Prepare for Consultant check in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.3.1.Biblical-terms": {
-    "message": "Termes bibliques 3.1",
-    "description": "The label for category 3.1.Biblical-terms in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Back Translation": {
     "message": "Retraduction",
     "description": "The label for category Back Translation in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.3.4.Checks": {
-    "message": "Vérifications de base 3.4",
-    "description": "The label for category 3.4.Checks in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stage 1 Drafting": {
     "message": "Étape 1 Rédaction de l'ébauche",
@@ -135,32 +127,36 @@
     "message": "Étape 6 Finalisation pour publication",
     "description": "The label for category Stage 6 Finalising for Publication in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.2.1.Spell-check-wordlist": {
-    "message": "Vérification l'orthographe 2.1",
-    "description": "The label for category 2.1.Spell-check-wordlist in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.2.2.Biblical-terms": {
-    "message": "Termes bibliques 2.2",
-    "description": "The label for category 2.2.Biblical-terms in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.2.5.Project-notes": {
-    "message": "Remarques du projet 2.5",
-    "description": "The label for category 2.5.Project-notes in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Drafting-editing": {
     "message": "Rédaction de l'ébauche",
     "description": "The label for category Drafting-editing in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.3.2.Back-translation": {
-    "message": "Retraduction 3.2",
-    "description": "The label for category 3.2.Back-translation in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.3.3.Custom-interlinears": {
-    "message": "Interlinéaires personnalisés 3.3",
-    "description": "The label for category 3.3.Custom-interlinears in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Project sharing.link.generated-index.description": {
-    "message": " ",
+    "message": "Vérification l'orthographe 2.1",
     "description": "The generated-index page description for category Project sharing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Drafting and Editing": {
+    "message": "Rédaction de l'ébauche",
+    "description": "The label for category Drafting and Editing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Basic Checks": {
+    "message": "Vérifications de base",
+    "description": "The label for category Basic Checks in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spell check and Wordlist": {
+    "message": "Vérification l'orthographe",
+    "description": "The label for category Spell check and Wordlist in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project Notes": {
+    "message": "Remarques du projet 2.5",
+    "description": "The label for category Project Notes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Custom interlinears": {
+    "message": "Interlinéaires personnalisés 3.3",
+    "description": "The label for category Custom interlinears in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.More Basic Checks": {
+    "message": "Vérifications de base 3.4",
+    "description": "The label for category More Basic Checks in sidebar tutorialSidebar"
   }
 }

@@ -9,7 +9,7 @@ Dans cette troisième étape d’un projet de traduction, vous effectuerez des t
 
 Les modules suivants vous aideront avec ces étapes :
 
--   [16. **RT1 – Retraductions 1**](16.BT1.md)
--   [17. **RT2 – Retraductions 2 – mot à mot**](17.BT2.md)
--   [18. **CT – Comparer des textes**](18.CT.md)
--   [19. **BC3 – Vérifications de base 3**](19.BC3.md)
+16. [**RT1 – Retraductions 1**](16.BT1.md)
+17. [**RT2 – Retraductions 2 – mot à mot**](17.BT2.md)
+18. [**CT – Comparer des textes**](18.CT.md)
+19. [**BC3 – Vérifications de base 3**](19.BC3.md)
