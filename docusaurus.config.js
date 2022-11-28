@@ -42,6 +42,8 @@ const config = {
             'https://github.com/JenniBeadle/paratextmanual/tree/main',
         },
         blog: false,
+        theme: {customCss: [require.resolve('./src/css/custom.css')],},
+        // Docs: https://docusaurus.io/docs/styling-layout
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
