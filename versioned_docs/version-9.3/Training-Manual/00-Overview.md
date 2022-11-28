@@ -44,13 +44,16 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
  21\.  [**PPR** - Progress report](06-Stage-5/21.PPR.md) ... *p.157*  
  22\.  [**BTR** - Biblical key terms report](06-Stage-5/22.BTR.md) ... *p.159*  
 
-### [Stage 6 (Stage 4 UBS)](07-Stage-6/00-Stage-6.md)  Finalising for Publication  
+### [Stage 6 Stage 4 UBS](07-Stage-6/00-Stage-6.md)  Finalising for Publication  
+
  23\.  [**PP** - Parallel Passages](07-Stage-6/23.PP.md) ... *p.162*  
  24\.  [**FFP** - Finalising for Publication](07-Stage-6/24.FFP.md) ... *p.170*  
  25\.  [**CSB** - Create a study Bible](07-Stage-6/25.StudyBibles.md) ... *p.179*  
 
+
 ### Appendix  
+
  [**APP-A**. Special texts](08-Appendix/A.st.md) ... *p.186*  
  [**APP-B**. Three letter abbreviations](08-Appendix/B.3l.md) ... *p.191*  
- [**APP-C**. Common USFM markers](08-Appendix/C.USFM.md) ... *p.194*  
+ [**APP-C**. Common USFM markers](08-Appendix/C.USFM.md) ... *p.194* 
  
