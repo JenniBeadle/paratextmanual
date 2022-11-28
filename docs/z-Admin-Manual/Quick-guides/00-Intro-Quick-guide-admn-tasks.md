@@ -17,16 +17,9 @@ Several videos/chapters of the manual (see below) require an administrator to ha
 | **Administrator's Manual**  | Ch 6. **PP1** - Setup Project Plan |
 | **Paratext manual** | Chapters 2. OD, 3. **PP1**, 5. BC1, 6. **PP2**, 16. BT1, 19. BC3, 21. PPR, 24. FFP |
 | **Video** | (0.1), (**1.1**), (3.4b), (3.4e) |
-| **Paratext manual** |  |
 | **Instructions** | |
 
-
-**Instructions**: 
-
-
-
-
-The basic steps to add the organisational base plan are as follows.
+**Add the organisational base plan**.
 
 1.  **≡ Tab**, under Project > **Project Settings** choose **Project plan**
 2.  Click **Manage plans**
@@ -34,23 +27,26 @@ The basic steps to add the organisational base plan are as follows.
 4.  Choose your organisational base plan
 5.  Click the **Copy Plan** arrow.
 6.  Click **OK**.
-    - The plan and its tasks are added to the project.
+    - *The plan and its tasks are added to the project*.
 
 **Assign tasks**
 1. **≡ Tab**, under **Project**, choose **Assignments and Progress**
-2. For the task to assign, click to dropdown the menu and choose the team member to do the task
-3. Repeat as necessary
-4. Click **OK**.
+2. For the task to assign, click to dropdown the menu 
+3. Choose the team member to do the task
+4. Repeat as necessary
+5. Click **OK**.
 
 
 ----
-
+### Add users
+|  |  |
+|--|--|
 | **From the video** |  |
-| |  |
+| | ![AddUser](../media/AddUser.gif) |
 | **Video** | Send/Receive for the first time **(0.4.1)** |
 
-### Add users
-![AddUser](../media/AddUser.gif)
+
+
 1. **≡ Tab** under Project, **Project settings**,
       **User permissions**
 2. Click **Add User** button
