@@ -63,7 +63,7 @@ There is a new menu item on the **main menu**
 Remember to save your layout!
 :::
 
-## :page_facing_up:
+
 
 ### Floating Windows
 -  Dropdown to change the active project  
