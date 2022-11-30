@@ -18,7 +18,7 @@ Paratext Live uses a couple of servers.
 Everyone in a particular live session still needs to use the same server, it is just that from 9.3 you can work with someone on 9.1 or someone else on 9.2 (just not at the same time) 
 :::
 
-## :page_facing_up:
+
 
 ### Study Bible Additions
 
@@ -74,7 +74,7 @@ Remember to save your layout!
 -   Dropdown to change the active project  
     ![](./media/change-project-or-resource.png)
 
-## :page_facing_up:
+
 
 ### Other new/changed
 

@@ -16,11 +16,7 @@ Paratext Live utilise plus qu'un serveur.
   - **Internet**, qui est 9.2 et 9.3.
   - **Internet secondaire**, qui est 9.0, 9.1 ou Paratext 8.  
 
- 
------
 
- 
------
 
 
 :::note
@@ -85,11 +81,7 @@ Il y a un nouvel élément de menu dans le **menu principal**.
 N'oubliez pas d'Enregistrer votre disposition des fenêtres !
 :::
 
- 
------
 
- 
------
 
 
 ----

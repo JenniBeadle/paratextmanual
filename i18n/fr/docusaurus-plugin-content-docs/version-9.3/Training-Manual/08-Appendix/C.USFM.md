@@ -46,8 +46,6 @@ pagination_next: null
 | \\ipq  | Introduction - Paragraphe - Citation tirée du texte             | Paragraphe |
 
  
-## :page_facing_up:
-
 
 ### Marquers de renvoi
 

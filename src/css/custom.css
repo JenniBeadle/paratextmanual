@@ -28,37 +28,235 @@
   --ifm-color-primary-lightest: #cde072;
 }
 
-
 /* from https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-printing */
 
-/* @media print {
-    .pagebreak { page-break-before: always; 
-}
-*/
-@media print {
-  
-body {
-  font-size: 125%; 
-  line-height: 1.5;}
 
-h2 {   
-    -webkit-break-after: avoid;
-    break-after: avoid;
-    font-size: 125%;}
+  @media print and (max-width: 13cm){
+    /* This should be A5 */
 
-h3 {   
-    -webkit-break-after: avoid;
-    break-after: avoid;
-    font-size: 125%;}
-
-h4 {   
-    -webkit-break-after: avoid;
-    break-after: avoid;
-    font-size: 150%;}
-
-img {
-    max-width: 480px;    }
     
- table {width: 100%} 
+    /*---------------------- Begin Paper Saver  ---------------------------*/
+
+    /* body {
+      line-height: 1.0;
+      font-size: 90% !important;
+    }
+
+    .container {
+       margin: 0, 0, 0, 0 !important;
+       max-width: 100% !important;
+     }
+
+     :not(h3):not(h2) + .theme-admonition {
+      font-size: 90%;
+      break-inside: avoid;
+      max-width: 80%;
+    } 
+
+    span[class^='admonitionIcon'] svg  {
+      transform: scale(0.7);
+      text-align: left;
+    }
+    
+    div[class^='admonitionHeading']  {
+      font-size: 90%;
+      text-align: left;
+    }
+
+    .theme-admonition {
+      font-size: 90%;
+      max-width: 80%;
+      padding: 8px;
+    }  */
+    
+
+    /*---------------------- End Paper Saver  ---------------------------*/
+
+    /*---------------------- Begin Scratch Margins  ---------------------------*/
+    
+
+    body {
+      line-height: 1.35;
+      font-size: 100% !important;
+      margin-top: 50mm; 
+      margin-left: 80px;
+      margin-bottom: 20mm; 
+      margin-right: 60px;
+    }
+
+    :not(h3):not(h2) + .theme-admonition {
+      font-size: 100%;
+      break-inside: avoid;
+      width:auto !important
+    } 
+
+    .theme-admonition {
+      font-size: 100%;
+      width:auto !important;
+      background-color: transparent;
+      border-right-width: 2px;
+      border-top-width: 2px;
+      border-bottom-width: 2px;
+    }
+
+    ul {
+      -webkit-break-before: avoid-page;
+      break-before: avoid-page !important;
+      width:auto !important;
+      orphans: 2;
+      font-size: 100% !important;
+    }
+
+    p {
+      max-width: 90%;
+    }
+
+
+     /*---------------------- End Scratch Margins  ---------------------------*/
+
+    h1 {
+      font-size: 150% !important;
+      margin-left: -2cm;
+      border-bottom: 3px solid black;
+    }
+
+    h2 {
+      -webkit-break-after: avoid-page;
+      break-after: avoid-page !important;
+      font-size: 110% !important;
+      margin-left: -1.5cm;
+      border-top: 2px solid black;
+    }
   
+    h3 {
+      -webkit-break-after: avoid;
+      break-after: avoid-page !important;
+      font-size: 110%;
+      margin-left: -1cm;
+      border-top: 1.5px solid rgb(70, 70, 70);
+    }
+
+    h2 + h3 {
+      border-top: none;
+    }
+
+    h2 + ul, h2 + p, h3 + ul, h3 + p {
+      break-before: avoid-page !important;
+    }
+    
+    p {
+      orphans: 2;
+    }
+
+    li img {margin-top: 5px;}
+    
+    h4 {  
+      -webkit-break-after: avoid-page;
+      break-after: avoid-page !important;
+      font-size: 100%;
+      margin-left: -1cm;
+      border-top: 1px solid rgb(129, 129, 129);
+    }
+
+    h3 + h4 {
+      border-top: none;
+    }
+
+    .theme-doc-footer {display: none;}
+
+    ul {
+      -webkit-break-before: avoid-page;
+      break-before: avoid-page !important;
+      max-width: 90%;
+      orphans: 2;
+      font-size: 100% !important;
+    }
+
+     
+    img {
+        max-width: 300px;
+        max-height: 300px;
+        break-inside: avoid;
+      }
+        
+    table {width: 100%} 
+    
+    .theme-doc-sidebar-container {
+      display: none !important;
+    }
+  
+    :root {--doc-sidebar-width: 0px !important;}
+
+    .pagebreak { page-break-before: always;}
+
   }
+  
+
+  @media print and (min-width: 13cm){
+    /* This should be A4 or Letter */
+    
+    body {
+      font-size: 110%; 
+      line-height: 1.0;}
+    
+    h2 {
+        font-size: 125% !important;
+        -webkit-break-after: avoid-page;
+        break-after: avoid-page !important;
+      }
+    
+    h3 {
+        font-size: 125% !important;
+        -webkit-break-after: avoid-page;
+        break-after: avoid-page !important;
+      }
+
+    h3 + ul {
+      break-before: avoid-page !important;
+    }
+
+    h3 + p {
+      break-before: avoid-page !important;
+    }
+    
+    h4 {   
+        padding-top: clamp(10px, 25px, 50px); 
+        font-size: 150% !important;
+        -webkit-break-after: avoid-page;
+        break-after: avoid-page !important;
+      }
+    
+      :not(h3):not(h2) + .theme-admonition {
+        break-inside: avoid;
+        max-width: 90%;
+      } 
+
+    /* Same as A5 from here */
+
+    img {
+        max-width: 480px;
+        max-height: 480px;
+        break-inside: avoid;
+      }
+    .theme-doc-footer {display: none;}    
+    
+    table {width: 100%} 
+    
+    .container {
+      margin: 0, auto;
+      max-width: 90% !important;
+    }   
+
+    
+    .theme-doc-sidebar-container {
+      display: none !important;
+    }
+
+    :root {--doc-sidebar-width: 0px !important;}
+
+    .pagebreak { page-break-before: always;}
+  }
+
+
+  
+  
