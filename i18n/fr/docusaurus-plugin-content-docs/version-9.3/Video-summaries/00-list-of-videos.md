@@ -21,7 +21,7 @@ Voir aussi la liste [**par ordre de tâches**](00-TOC-overview.md).
 -  Outils de collaboration : Paratext Live ([4.1](05-Stage-4/4.1.md))  
 -  Outils de collaboration : Chorus Hub ([4.2](05-Stage-4/4.2.md))  
 
-📄
+
 
 ### Remarques de projet   
 -   Comment insérer des remarques ([2.5a](03-Stage-2/2.5-Project-notes/2.5a.md))  
@@ -96,6 +96,8 @@ Voir aussi la liste [**par ordre de tâches**](00-TOC-overview.md).
 ### Passages Parallèles    
 -  Passages Parallèles ([6.1a](07-Stage-6/6.1a.md))  
 -  Filtres de passages parallèles et texte modifié ([6.1b](07-Stage-6/6.1b.md))  
+
+📄
 
 ### Retraduction
 -   Retraduction : Introduction ([3.2a](04-Stage-3/3.2-Back-translation/3.2a.md))  

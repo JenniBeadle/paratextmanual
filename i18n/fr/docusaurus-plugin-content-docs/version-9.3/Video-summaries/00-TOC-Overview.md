@@ -56,7 +56,7 @@ Comment voir les tâches qui me sont attribuées ([1.1](02-Stage-1/1.Drafting-ed
 -  Comment changer la taille du texte dans une fenêtre ([1.3b](02-Stage-1/1.Drafting-editing/1.3b.md)) ... *p.66*  
 -  Marqueurs de paragraphe requis ([1.3c](02-Stage-1/1.Drafting-editing/1.3c.md)) ... *p.68*  
 
-📄
+
 **Vérifications de base 1**    
 -  Utilisation des outils de vérification ([1.4](02-Stage-1/4.Basic-checks/1.4.md)) ... *p.82*  
 -  Marquer les tâches comme achevées ([1.5](02-Stage-1/4.Basic-checks/1.5.md)) ... *p.85*  
