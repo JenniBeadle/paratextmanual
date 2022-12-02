@@ -30,4 +30,3 @@ Ce manuel de formation (initialement développé au Cameroun) a été révisé p
 
 ### Quoi de neuf - [Paratext 9.3](Video-summaries/00-Whats-new.md)
 
-----

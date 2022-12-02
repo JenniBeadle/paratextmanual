@@ -12,5 +12,5 @@ Les modules suivants vous aideront avec ces étapes :
 20. [**Outils de collaboration**](20.Collaboration-tools.md)
 
 Voir également les modules des étapes 1 à 3. En particulier  
-16. [**RT1 – Retraductions 1**](../04-Stage-3/16.BT1.md)  Étape 3 BT1  
-17. [**RT2 – Retraductions 2 – mot à mot**](../04-Stage-3/17.BT2.md)  Étape 3 BT2
+Étape 3 - 16. [**RT1 – Retraductions 1**](../04-Stage-3/16.BT1.md)  
+Étape 3 - 17. [**RT2 – Retraductions 2 – mot à mot**](../04-Stage-3/17.BT2.md)  
