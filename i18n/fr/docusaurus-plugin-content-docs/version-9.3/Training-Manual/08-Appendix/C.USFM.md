@@ -1,4 +1,5 @@
 ---
+lang: fr
 title: C - USFM Marqueurs fréquents
 pagination_next: null 
 ---

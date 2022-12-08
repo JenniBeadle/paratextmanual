@@ -1,0 +1,4 @@
+Paratext
+autohide
+Wordlist
+Mrk

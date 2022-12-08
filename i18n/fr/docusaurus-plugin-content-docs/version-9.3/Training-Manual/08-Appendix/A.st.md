@@ -1,4 +1,5 @@
 ---
+lang: fr
 title: A - Textes à format spécial
 ---
 Les passages suivants ont souvent une mise en forme spéciale (en ajoutant d'autres codes d'USFM)

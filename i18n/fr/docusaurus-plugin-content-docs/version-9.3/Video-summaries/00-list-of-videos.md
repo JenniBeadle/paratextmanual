@@ -1,4 +1,5 @@
 ﻿---
+lang: fr
 title: Liste par caractéristique
 sidebar_position: 2
 ---

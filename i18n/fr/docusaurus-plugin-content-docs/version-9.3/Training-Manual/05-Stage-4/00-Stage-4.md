@@ -1,4 +1,5 @@
 ---
+lang: fr
 title: Étape 4 - Vérification par un conseiller
 ---
 **​Introduction**
