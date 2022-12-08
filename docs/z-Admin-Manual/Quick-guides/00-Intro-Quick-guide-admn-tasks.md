@@ -4,7 +4,7 @@ title: Intro - Quick Guide to Administrator tasks
 
 There are a number of tasks or settings that can only be done by a user with Administrator's role. This page has a summary of common tasks. For more detail see the [Administrator's manual](../Admin-manual/Admin.md)
 
-### Add project plan
+## Add project plan
 
 :::danger GIF Update required 
 :::
@@ -38,7 +38,7 @@ Several videos/chapters of the manual (see below) require an administrator to ha
 
 
 ----
-### Add users
+## Add users
 |  |  |
 |--|--|
 | **From the video** |  |
@@ -46,7 +46,7 @@ Several videos/chapters of the manual (see below) require an administrator to ha
 | **Video** | Send/Receive for the first time **(0.4.1)** |
 | **Instructions** | 
 
-### Add users
+## Add users
 1. **≡ Tab** under Project, **Project settings**,
       **User permissions**
 2. Click **Add User** button
@@ -59,7 +59,7 @@ Several videos/chapters of the manual (see below) require an administrator to ha
 9. Click **OK** 
 
 ----
-### Create back translation project
+## Create back translation project
 
 |  |  |
 |--|--|
@@ -94,7 +94,7 @@ Several videos/chapters of the manual (see below) require an administrator to ha
 
 ----
 
-### Select/Associate the List of Biblical Terms
+## Select/Associate the List of Biblical Terms
 |  |  |
 |--|--|
 | From the video: | [2.2a Biblical terms](/Video-summaries/Stage-2/2.2-Biblical-terms/2.2a#how-does-paratext-know-what-the-key-biblical-terms-are) "The project **administrator** needs to _select the list_". |
@@ -147,7 +147,7 @@ There are two glossary tasks. But neither will give permission to GLO.
   
 ----
 
-### Setup Note tags
+## Setup Note tags
 |  |  |
 |--|--|
 | **From the video** | ... One must be an Administrator to setup note tags. |
@@ -156,7 +156,7 @@ There are two glossary tasks. But neither will give permission to GLO.
 | **Paratext Manual**  | 15.1 Different tags for project notes  |
 | **Instructions** | **Setup additional note tags** 15.UN.md |
 | | | 
-#### Setup additional note tags
+### Setup additional note tags
 
 1.  **≡ Tab**, under \> **Project** \> **Project settings**  
        \> **Project properties**
@@ -231,10 +231,10 @@ There are two glossary tasks. But neither will give permission to GLO.
 
 
 
-### Scripture Reference Settings
+## Scripture Reference Settings
 The Scripture Reference Settings dialog can be viewed by users but there are several changes that required administrators role.
 
-#### Scripture Reference Settings - Book names
+### Scripture Reference Settings - Book names
 |  |  |
 |--|--|
 | **From the video** |  |
@@ -244,7 +244,7 @@ The Scripture Reference Settings dialog can be viewed by users but there are sev
 | **Administrator's manual** | ?? |
 | **Instructions** | |
 
-### Book names
+## Book names
 1. Open the **menu** for the project
 1. Under **Project**, click **Project settings**, then **Scripture Reference Settings**
 1. Click on the **Books Names** tab.
@@ -258,7 +258,7 @@ Choose the names from the two dropdown lists at the bottom left:
 (\r \mr \sr \rq \ior \fig)
 ![choosenames](../media/SRS-booknames.gif)
 
-### SRC Conflict between \\toc and Scripture reference settings
+## SRC Conflict between \\toc and Scripture reference settings
 |  |  |
 |--|--|
 | **From the video** | An administrator can click _Resolve Conflicts_ to view the problems and decide which version to use. |
@@ -268,7 +268,7 @@ Choose the names from the two dropdown lists at the bottom left:
 | **Administrator's manual** | ?? |
 | **Instructions** | |
 
-### SRC Conflict between \\toc and Scripture reference settings
+## SRC Conflict between \\toc and Scripture reference settings
 - Open the Scripture Reference Settings
   - *Paratext informs you of the conflict*.
 - Click _Resolve Conflicts link_.
@@ -287,9 +287,7 @@ An **administrator** can click Resolve Conflicts to view the problems and decide
 :::
 
 
-----
-
-### Install resources from downloaded files
+## Install resources from downloaded files
 
 |  |  |
 |--|--|
@@ -300,7 +298,7 @@ An **administrator** can click Resolve Conflicts to view the problems and decide
 | **Administrator's manual** | 5.3 Install resources – files |
 | **Instructions** | |
 
-### Install resources from downloaded files
+## Install resources from downloaded files
 
 1. Click the **≡ Paratext** menu, then under Paratext, choose **Download/Install resources**
     - *A dialogue box is displayed*
@@ -310,13 +308,11 @@ An **administrator** can click Resolve Conflicts to view the problems and decide
 5. Select the desired resources by checking the box.
 6. Click **Download/Install**
 
-----
-
-### Insert cross-references from a file
+## Insert cross-references from a file
 Taken from Administrator's manual chapter 9
 Make sure you have the cross-reference in a file and checked your language settings (9.2-3)
 
-### Insert cross-references from a file
+## Insert cross-references from a file
 |  |  |
 |--|--|
 | | gif |
@@ -324,7 +320,7 @@ Make sure you have the cross-reference in a file and checked your language setti
 | **Administrator's manual** | 9.5 Insert Cross references |
 | **Instructions** | Check  9.3 and  9.4 |
 
-#### Insert Cross references
+### Insert Cross references
 
 1. **≡ Tab** under **Project** menu, point to **Advanced**, and then select **Insert Cross References**.
 1. Click **Browse**....
@@ -333,5 +329,4 @@ Make sure you have the cross-reference in a file and checked your language setti
 1. If desired, select one or more of the options:
     - (see the guide for more info)
 1. Click **OK**
-----
 

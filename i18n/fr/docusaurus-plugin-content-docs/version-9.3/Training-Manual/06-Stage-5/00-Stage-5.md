@@ -1,4 +1,5 @@
 ---
+lang: fr
 title: Étape 5 / Étape 3 ABU - Tester/réviser avec la communauté
 ---
 **​Introduction**

@@ -1,4 +1,5 @@
 ﻿---
+lang: fr
 title: Quoi de neuf - Paratext 9.3
 sidebar_position: 1
 ---

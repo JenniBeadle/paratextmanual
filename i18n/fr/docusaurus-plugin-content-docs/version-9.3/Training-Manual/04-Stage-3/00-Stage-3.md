@@ -1,4 +1,5 @@
 ---
+lang: fr
 title: Étape 3 - Préparation pour le conseiller
 ---
 :::info

@@ -1,4 +1,5 @@
 ﻿---
+lang: fr
 title: Formation Paratext 
 sidebar_position: 1
 slug: /

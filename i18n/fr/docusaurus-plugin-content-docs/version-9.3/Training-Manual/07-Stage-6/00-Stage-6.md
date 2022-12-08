@@ -1,4 +1,5 @@
 ﻿---
+lang: fr
 title: Étape 6 / 4 ABU - Finalisation pour la publication
 ---
 La sixième étape d’un projet de traduction (ou quatrième étape d'ABU) est finalisée pour publication. Il s’agit d’ajouter les images, de matériel supplémentaire, de vérification de passages parallèles et d’un certain nombre d’autres vérifications finales.

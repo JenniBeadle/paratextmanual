@@ -1,4 +1,5 @@
 ---
+lang: fr
 title: TDM - Vue d'ensemble des résumés vidéo
 sidebar_position: 1
 ---
