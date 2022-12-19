@@ -1,4 +1,5 @@
 ﻿---
+lang: fr
 title: Formation Paratext 
 sidebar_position: 1
 slug: /
@@ -8,11 +9,10 @@ slug: /
 ![](pathname:///img/cropped-PT9-web-banner.png)  
 
 
-
+Ce manuel de formation (initialement développé au Cameroun) a été révisé pour la version 9.3. Ce site Web contient les versions 9.2 et 9.3 en anglais et en français. Il suit les six étapes du processus de traduction et traite la plupart des tâches du plan compact SIL. Les modules peuvent être sélectionnés pour divers cours de formation ou peuvent également être utilisés en autoformation.
 
 ### Paratext [**Manuel de participant**](Training-Manual/Overview) 
-(en 24 chapitres)
-
+- Il comporte 25 chapitres et plus de 200 pages A4, mais est conçu pour être imprimé sous forme de brochure A5.
 -  :book: [Télécharger le Manuel PDF ici](pathname:///img/Ptx-man-fr-9.3.pdf)  
    - Il a 200+ pages A4 pour imprimer en format A5 livret.
 
@@ -21,7 +21,7 @@ slug: /
 ### Résumés des vidéos de formation Paratext
 -  :film_projector: 90+ résumés [**regroupées par fonctionnalités spécifiques**](Video-summaries/00-list-of-videos.md) de Paratext
 
--  :film_projector: 90+ résumés [**en ordre par tâches**](Video-summaries/TOC-overview) (du plan de SIL)
+-  :film_projector: 90+ résumés [**en ordre par tâches**](Video-summaries/00-TOC-overview.md) (du plan de SIL)
 
 - :book:  [Télécharger le Résumés PDF ici](pathname:///img/Ptx-vidsum-fr-9.3.pdf)  
    - Il est en ordre par tâches
@@ -31,4 +31,3 @@ slug: /
 
 ### Quoi de neuf - [Paratext 9.3](Video-summaries/00-Whats-new.md)
 
-----

@@ -1,4 +1,5 @@
 ---
+lang: fr
 title: B - Les codes de livres bibliques (trois lettres)
 ---
 

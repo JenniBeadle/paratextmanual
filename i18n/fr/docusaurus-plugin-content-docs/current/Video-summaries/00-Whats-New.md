@@ -1,10 +1,8 @@
 ﻿---
+lang: fr
 title: Quoi de neuf - Paratext 9.3
 sidebar_position: 3
 ---
-:::tip
-Veuillez noter qu'il s'agit d'une version bêta et que certaines choses peuvent/seront modifiées avant la sortie de Paratext 9.3.
-:::
 
 ### Paratext Live
 Paratext Live utilise plus qu'un serveur.
@@ -16,18 +14,12 @@ Paratext Live utilise plus qu'un serveur.
   - **Internet**, qui est 9.2 et 9.3.
   - **Internet secondaire**, qui est 9.0, 9.1 ou Paratext 8.  
 
- 
------
 
- 
------
 
 
 :::note
 Tous les participants à une session en direct doivent toujours utiliser le même serveur, mais à partir de la version 9.3, vous pouvez travailler avec quelqu'un en 9.1 ou en 9.2 (mais pas en même temps).
 :::
-
-----
 
 ### Annexes de la Bible d'étude
 La nouvelle fonctionnalité la plus évidente est la possibilité de **comparer les versions**.
@@ -36,8 +28,6 @@ La nouvelle fonctionnalité la plus évidente est la possibilité de **comparer 
 - Dans le menu **Projet**, 
 - Sous **Projet**, choisissez **Comparer les versions**  
   *Les changements dans les annexes sont affichés*.
-
-----
 
 ### Référence de l'Écriture dans la barre de navigation
 Dans Paratext 9.3, vous pouvez copier et coller une référence biblque dans la barre de navigation.
@@ -58,15 +48,11 @@ Les noms doivent correspondre aux noms tels qu'ils apparaissent dans les titres.
 Actuellement, il n'est pas possible de copier à partir du Paratext, mais cette fonctionnalité sera ajoutée dans une mise à jour ultérieure.
 :::
 
-----
-
 ### Outil de recherche de passages parallèles
 - Les couleurs ont changé de **vert** à **gris**.
 - Vous pouvez réduire ou étendre le grec / hébreu en cliquant sur la petite flèche.
    ![](../Video-summaries/media/parallel-passage-greek-collapse.png)
 
-
-----
 
 ### Ouvrir une collection de textes
 Il y a un nouvel élément de menu dans le **menu principal**. 
@@ -76,23 +62,15 @@ Il y a un nouvel élément de menu dans le **menu principal**.
 - Ouvrez une collection de texte précédemment **enregistrée** en bas à gauche.
 - Vous pouvez également ouvrir une collection de texte à partir de la fenêtre **Ouvrir**.
 
-----
+📄
 
 ### Arrangement des fenêtres
 - Organisez les fenêtres par **lignes** ainsi que par **colonnes**.
+
    ![](../Video-summaries/media/arrange-in-rows.png)
 :::tip
 N'oubliez pas d'Enregistrer votre disposition des fenêtres !
 :::
-
- 
------
-
- 
------
-
-
-----
 
 ### Fenêtres flottantes
 - Liste déroulante pour changer le projet actif
@@ -103,4 +81,3 @@ N'oubliez pas d'Enregistrer votre disposition des fenêtres !
 - La **synchronisation** avec Logos et d'autres programmes compatibles est maintenant activée **par défaut**.
 - Des modifications ont été apportées pour faciliter la localisation des fichiers d'aide et de l'interface utilisateur
 - Les **modules bibliques** peuvent maintenant gérer les **marqueurs de chapitre** dans les livres supplémentaires.
-

@@ -6,9 +6,11 @@ title: What's new - Paratext 9.3
 
 Paratext Live uses a couple of servers.
 
--   Paratext 8, 9.0 and 9.1 use a server called Internet (secondary) WCF and Paratext 9.2 uses Internet (primary) AMQP.  
-:::info
--   *This is why you can't use Paratext Live with 9.2 and 9.1 at the same time* 
+-   Paratext 8, 9.0, 9.1 (and 9.3) use a server called Internet (secondary) WCF 
+-   Paratext 9.2 (and 9.3) use Internet (primary) AMQP.  
+
+:::tip
+This is why you can't use Paratext Live with 9.2 and 9.1 at the same time.
 :::
 -   In Paratext 9.3 when you start Paratext live you choose what server you want to use.
     -   **Internet (primary)**, which is 9.2 and 9.3.
@@ -18,7 +20,7 @@ Paratext Live uses a couple of servers.
 Everyone in a particular live session still needs to use the same server, it is just that from 9.3 you can work with someone on 9.1 or someone else on 9.2 (just not at the same time) 
 :::
 
-## :page_facing_up:
+
 
 ### Study Bible Additions
 
@@ -51,7 +53,6 @@ The names must matches the names as they are seen in the titles.
 -   You can reduce or expand the Greek / Hebrew by clicking the little arrow.  
     ![](./media/parallel-passage-greek-collapse.png)
 
-📄
 
 ### Open text collection
 
@@ -66,15 +67,17 @@ There is a new menu item on the **main menu** ![](./media/open-text-collection-m
 ### Arranging windows
 
 1.  Arrange windows by **rows** as well as by **columns**. ![](./media/arrange-in-rows.png) 
+
 :::tip 
 Remember to save your layout! 
+:::
 
 ### Floating Windows
 
 -   Dropdown to change the active project  
     ![](./media/change-project-or-resource.png)
 
-## :page_facing_up:
+
 
 ### Other new/changed
 

@@ -1,4 +1,5 @@
 ---
+lang: fr
 title: Étape 1 – Première ébauche
 ---
 **Introduction**

@@ -1,10 +1,8 @@
 ﻿---
+lang: fr
 title: Quoi de neuf - Paratext 9.3
 sidebar_position: 1
 ---
-:::tip
-Veuillez noter qu'il s'agit d'une version bêta et que certaines choses peuvent/seront modifiées avant la sortie de Paratext 9.3.
-:::
 
 ### Paratext Live
 Paratext Live utilise plus qu'un serveur.
@@ -15,9 +13,6 @@ Paratext Live utilise plus qu'un serveur.
 - Dans Paratext 9.3, lorsque vous démarrez Paratext Live, vous choisissez le serveur que vous souhaitez utiliser.
   - **Internet**, qui est 9.2 et 9.3.
   - **Internet secondaire**, qui est 9.0, 9.1 ou Paratext 8.  
-
- 
-----
 
 :::note
 Tous les participants à une session en direct doivent toujours utiliser le même serveur, mais à partir de la version 9.3, vous pouvez travailler avec quelqu'un en 9.1 ou en 9.2 (mais pas en même temps).
@@ -69,8 +64,7 @@ Il y a un nouvel élément de menu dans le **menu principal**.
    ![](../Video-summaries/media/arrange-in-rows.png)
 :::tip
 N'oubliez pas d'Enregistrer votre disposition des fenêtres !
-
-## 📄
+:::
 
 ### Fenêtres flottantes
 - Liste déroulante pour changer le projet actif

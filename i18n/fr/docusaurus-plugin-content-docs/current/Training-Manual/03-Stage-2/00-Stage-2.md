@@ -1,4 +1,5 @@
 ---
+lang: fr
 title: Étape 2- Vérification par l’équipe
 ---
 La deuxième étape d’un projet de traduction est la vérification en équipe. Dans cette deuxième étape, vous utiliserez de nombreux outils pour vous assurer que vous avez été cohérent dans votre traduction. 
