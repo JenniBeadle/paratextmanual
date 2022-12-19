@@ -2,7 +2,7 @@
 title: Overview of Training Manual
 ---
 
-The training manual follows the tasks in the SIL Compact Plan. The page numbers refer to the PDF.
+The training manual follows the tasks in the SIL Compact Plan. The page numbers refer to the [PDF](pathname:///img/Ptx-man-en-9.3.pdf).
 
 ### Introduction
 

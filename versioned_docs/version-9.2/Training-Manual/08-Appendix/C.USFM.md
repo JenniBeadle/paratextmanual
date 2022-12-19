@@ -1,13 +1,11 @@
 ---
-title: C. Common USFM Markers
+title: C - Common USFM Markers
 pagination_next: null
 ---
-# C Common USFM Markers
-
 :::note
 When choosing the markers in "Standard" view
--  Use the "Enter" key for "Paragraph" styles 
--  Use the "Backslash" key for "Note" and "Character" styles 
+- Use the "Enter" key for "Paragraph" styles 
+- Use the "Backslash" key for "Note" and "Character" styles 
 :::
 |  |  |  |
 |-------|-------------------------------------------|-----------|
@@ -54,11 +52,6 @@ When choosing the markers in "Standard" view
 | \\xo  | Cross Reference – Origin Reference  | Character |
 | \\xt  | Cross Reference - Target References | Character |
 | \\x\* | Cross Reference End                 | Note      |
- 
------
-
- 
-----
 
 
 **Figure Markers**
@@ -80,11 +73,6 @@ When choosing the markers in "Standard" view
 | \\fqa | Footnote - Alternate Translation Rendering  | Character |
 | \\f\* | Footnote End                                | Note      |
 
- 
-----
-
- 
-----
 
 **Glossary**
 

@@ -1,11 +1,8 @@
 ---
-title: B Three letter abbreviations
+title: B - Three letter abbreviations
 ---
 
-
-----
-
-### Old Testament
+## Old Testament
 
 |  |  |  |  
 |---------------------|--------------------|--------------------|
@@ -23,10 +20,7 @@ title: B Three letter abbreviations
 | Nahum - NAM         | Habakkuk - HAB     | Zephaniah - ZEP    |
 | Haggai - HAG        | Zechariah - ZEC    | Malachi - MAL      |
 
-
-----
-
-### New Testament
+## New Testament
 
 |  |  |  |  
 |-----------------------|-----------------------|------------------|

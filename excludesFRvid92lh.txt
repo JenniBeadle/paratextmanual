@@ -1,0 +1,13 @@
+﻿http://localhost:3000/fr/9.2/Video-summaries/list-of-videos
+http://localhost:3000/fr/9.2/category/back-translation
+http://localhost:3000/fr/9.2/category/biblical-terms
+http://localhost:3000/fr/9.2/category/checking-tools
+http://localhost:3000/fr/9.2/category/custom-interlinears
+http://localhost:3000/fr/9.2/category/drafting-and-editing
+http://localhost:3000/fr/9.2/category/enhanced-resources
+http://localhost:3000/fr/9.2/category/glossary
+http://localhost:3000/fr/9.2/category/navigation
+http://localhost:3000/fr/9.2/category/parallel-passages
+http://localhost:3000/fr/9.2/category/project-notes
+http://localhost:3000/fr/9.2/category/project-collaboration
+http://localhost:3000/fr/9.2/category/spell-checking-and-wordlist

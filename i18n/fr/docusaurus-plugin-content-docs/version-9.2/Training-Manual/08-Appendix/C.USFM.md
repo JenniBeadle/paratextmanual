@@ -5,29 +5,29 @@ pagination_next: null
 :::tip Remarque
 Lors du choix du marqueur en vue **Standard**
 - Utiliser **Entrée** pour les styles **Paragraphe**.
-- Utiliser **antislash** pour les types de style **Note** et **Caractère**.
+- Utiliser **antislash** pour les types de style **remarque** et **Caractère**.
 :::
-| USFM  | Déscription                                              | Type       |
+| USFM  | Description                                              | Type       |
 |-------|----------------------------------------------------------|------------|
 | \\id  | Fichier - Identification                                 | Paragraphe |
 | \\h   | Fichier - En-tête                                        | Paragraphe |
 | \\c   | Numéro de chapitre                                       | Paragraphe |
 | \\v   | Numéro du verset                                         | Caractère  |
 | \\p   | Paragraphe - Normal - Retraite de première ligne         | Paragraphe |
-| \\m   | Paragraphe - Marge - Pas d'indentation de première ligne | Paragraphe |
+| \\m   | Paragraphe - à la marge - sans retrait de la première ligne | Paragraphe |
 | \\q1  | Poésie - Retrait Niveau 1                                | Paragraphe |
 | \\q2  | Poésie - Retrait Niveau 2                                | Paragraphe |
 | \\r   | Titre - Références parallèles                            | Paragraphe |
 | \\s1  | Titre - Section Niveau 1                                 | Paragraphe |
 | \\s2  | Titre - Section Niveau 2                                 | Paragraphe |
-| \\mt1 | Titre principal niveau 1                                 | Paragraph  |
-| \\mt2 | Titre principal niveau 2                                 | Paragraph  |
-| \\mt3 | Titre principal niveau 3                                 | Paragraph  |
+| \\mt1 | Titre principal niveau 1                                 | Paragraphe |
+| \\mt2 | Titre principal niveau 2                                 | Paragraphe |
+| \\mt3 | Titre principal niveau 3                                 | Paragraphe |
 
 
 **Marqueurs moins fréquents** 
 
-| USFM | Déscription                                              | Type       |
+| USFM | Description                                              | Type       |
 |------|----------------------------------------------------------|------------|
 | \\pc | Paragraphe - Centré (pour Inscription)                   | Paragraphe |
 | \\nb | Paragraphe - Pas de rupture avec le Paragraphe précédent | Paragraphe |
@@ -36,7 +36,7 @@ Lors du choix du marqueur en vue **Standard**
 
 **Marqueurs d'introduction **  
 
-| USFM   | Déscription                                                     | Type       |
+| USFM   | Description                                                     | Type       |
 |--------|-----------------------------------------------------------------|------------|
 | \\imt1 | Introduction - Titre principal Niveau 1                         | Paragraphe |
 | \\iot  | Introduction - Titre du plan d'ensemble                         | Paragraphe |
@@ -47,27 +47,27 @@ Lors du choix du marqueur en vue **Standard**
 | \\ipq  | Introduction - Paragraphe - Citation tirée du texte             | Paragraphe |
 
 
-**Marquers Renvoi**  
+**Marquers de Renvoi**  
 
-| USFM  | Déscription              | Type      |
+| USFM  | Description              | Type      |
 |-------|--------------------------|-----------|
-| \\x   | Renvoi                   | Note      |
+| \\x   | Renvoi                   | remarque      |
 | \\xo  | Renvoi référence origin  | Caractère |
 | \\xt  | Renvoi références cibles | Caractère |
-| \\x\* | Renvoi                   | Note      |
+| \\x\* | Renvoi                   | remarque      |
 
 
-**Marquers Figure/Image**  
+**Marquers de Figure/Image**  
 
-| USFM    | Déscription                                 | Type |
+| USFM    | Description                                 | Type |
 |---------|---------------------------------------------|------|
-| \\fig   | Auxiliaire – Image/Illustration/Carte       | Note |
-| \\fig\* | Auxiliaire – Fin d'Image/Illustration/Carte | Note |
+| \\fig   | Auxiliaire – Image/Illustration/Carte       | remarque |
+| \\fig\* | Auxiliaire – Fin d'Image/Illustration/Carte | remarque |
 
 
-**Marquers Note de bas de page**  
+**Marquers de Note de bas de page**  
 
-| USFM  | Déscription                                                   | Type      |
+| USFM  | Description                                                   | Type      |
 |-------|---------------------------------------------------------------|-----------|
 | \\f   | Note de bas de page                                           | Note      |
 | \\fr  | Note de bas de page - Reference                               | Caractère |
@@ -75,11 +75,11 @@ Lors du choix du marqueur en vue **Standard**
 | \\fk  | Note de bas de page - Mot clé                                 | Caractère |
 | \\fq  | Note de bas de page - Citation        | Caractère |
 | \\fqa | Note de bas de page - La traduction alternative | Caractère |
-| \\f\* | Fin de la note de bas de page                                 | Note      |
+| \\f\* | Fin de la note de bas de page                                 | remarque      |
 
 **Glossaire**  
 
-| USFM          | Déscription                                                  | Type       |
+| USFM          | Description                                                  | Type       |
 |---------------|--------------------------------------------------------------|------------|
 | \\k ... k\*   | Mot clé (citation dans le glossaire)                         | Caractère  |
 | \\w ... \\w\* | Marquer un mot dans le glossaire (dans le texte)             | Caractère  |

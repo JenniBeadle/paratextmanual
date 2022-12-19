@@ -10,6 +10,7 @@ CLS
 
 ECHO.
 ECHO Docu-pdf command for producing PDFs of Docusaurus
+ECHO   From http://localhost:30000
 ECHO.
 ECHO ---------------------------------------------
 ECHO PRESS 1-9 to select your task, or 0 to EXIT
@@ -33,13 +34,13 @@ ECHO.
 SET /P M= Type 1-9 or 0 then press ENTER:
 :AFTER_MENU
 IF %M%==1 GOTO ENG-man-9.3
-IF %M%==2 GOTO FRENCH
+IF %M%==2 GOTO ENG-man-9.2
 IF %M%==3 GOTO FR-man-9.3
-IF %M%==4 GOTO FR-man-lh
-IF %M%==5 GOTO BUILD
-IF %M%==6 GOTO SERVE
-IF %M%==7 GOTO DEPLOY
-IF %M%==8 GOTO UPGRADE
+IF %M%==4 GOTO FR-man-9.2
+IF %M%==5 GOTO ENG-vidsum-9.3
+IF %M%==6 GOTO ENG-vidsum-9.2
+IF %M%==7 GOTO FR-vidsum-9.3
+IF %M%==8 GOTO FR-vidsum-9.2
 IF %M%==9 GOTO CLEARC
 IF %M%==0 GOTO EOF
 
@@ -49,9 +50,9 @@ npx docu-pdf http://localhost:3000/Training-Manual/Overview --coverPath="cover-m
 IF "%X%"== "1" GOTO :EOF
 GOTO MENU
 
-:FRENCH
-ECHO Start French (npm run start -- --locale fr)
-npm run start -- --locale fr
+:ENG-man-9.2
+ECHO docu-pdf English manual 9.2
+npx docu-pdf http://localhost:3000/9.2/Training-Manual/Overview --coverPath="cover-man-en-9.2.html"  --contentSelector="article" --pageSize="A5" --outputPath="Ptx-man-a5-9.2.en.pdf" --disableTOC --excludeURLs="http://localhost:3000/9.2/Training-manual/category/paratext-training-manual, http://localhost:3000/9.2/category/appendix"
 IF "%X%"== "1" GOTO :EOF
 GOTO MENU
 
@@ -62,7 +63,7 @@ IF "%X%"== "1" GOTO :EOF
 GOTO MENU
 
 :FR-man-lh
-ECHO docu-pdf French manual 9.3
+ECHO docu-pdf French manual 9.2
 npx docu-pdf http://localhost:3000/fr/Training-Manual/Overview --coverPath="cover-man-fr.html"  --contentSelector="article" --pageSize="A5" --outputPath="Ptx-man-a5-9.3.fr-LH.pdf" --disableTOC --headerTemplate="<header><div style='width: 100 10px; margin: 1cm; color: #bbb; height: 30px; text-align: right;'><span class='URL'</span></div></header>"  
 IF "%X%"== "1" GOTO :EOF
 GOTO MENU

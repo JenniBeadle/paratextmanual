@@ -158,5 +158,17 @@
   "sidebar.tutorialSidebar.category.More Basic Checks": {
     "message": "Vérifications de base 3.4",
     "description": "The label for category More Basic Checks in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.z-Admin-Manual": {
+    "message": "z-Admin-Manual",
+    "description": "The label for category z-Admin-Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Admin-manual": {
+    "message": "Admin-manual",
+    "description": "The label for category Admin-manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Quick-guides": {
+    "message": "Quick-guides",
+    "description": "The label for category Quick-guides in sidebar tutorialSidebar"
   }
 }
