@@ -34,7 +34,7 @@ pagination_next: null
 | \\nb | Paragraph - No Break with Previous Paragraph | Paragraph |
 | \\li | List Entry - Level 1 - Single Level Only     | Paragraph |
  
-## :page_facing_up:
+
 
 ### Introduction Markers
 

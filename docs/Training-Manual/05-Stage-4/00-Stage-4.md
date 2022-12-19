@@ -12,5 +12,5 @@ The following modules will help you in this stage:
 20. [**CT - CollaborationTools**](20.Collaboration-tools.md)
 
 See also modules in Stages one to three. In particular,  
-16. **BT1 – Draft a Back Translation** see Stage-3 BT1  
-17. **BT2 – Interlinearize a project** see Stage 3 BT2
+Stage 3 - 16. **BT1 – Draft a Back Translation**    
+Stage 3 - 17. **BT2 – Interlinearize a project** 
