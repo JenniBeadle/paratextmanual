@@ -148,8 +148,13 @@
       margin-left: 0.25cm;
       border-top: 1px solid rgb(129, 129, 129);
     }
-
-    h2 + h3 {
+    
+    .markdown > h5 {
+      -webkit-break-after: always;
+      page-break-after: always !important;
+    }
+   h1 + h3
+   h2 + h3 {
       /* this removes double borders */
       border-top: none !important;
     }

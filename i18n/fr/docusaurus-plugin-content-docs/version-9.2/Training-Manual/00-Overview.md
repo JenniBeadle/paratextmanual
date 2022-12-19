@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vue d'ensemble du manuel de formation
 ---
 
@@ -25,6 +25,7 @@ Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. S
  14\.  [**IE** – Impression d’ébauches](03-Stage-2/14.PD.md)  
  15\.  [**UR** – L’utilisation des remarques](03-Stage-2/15.UN.md)  
 
+#####  
 
 ### [Étape 3](04-Stage-3/00-Stage-3.md) Préparation pour le conseiller  
  16\. [**RT1** – Retraductions 1](04-Stage-3/16.BT1.md)  

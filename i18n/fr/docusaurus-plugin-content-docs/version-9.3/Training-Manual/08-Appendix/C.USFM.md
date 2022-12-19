@@ -7,14 +7,14 @@ pagination_next: null
 -  Tous les styles de type **Paragraphe** nécessitent l'utilisation de la touche **Entrée** lors du choix du marqueur en vue **Standard**.
 -  Tous les types de style **Note** et **Caractère** nécessitent l'utilisation de la touche **antislash** lors du choix du marqueur en vue **Standard**.
 :::
-| USFM  | Déscription                                              | Type       |
+| USFM  | Description                                              | Type       |
 |-------|----------------------------------------------------------|------------|
 | \\id  | Fichier - Identification                                 | Paragraphe |
 | \\h   | Fichier - En-tête                                        | Paragraphe |
 | \\c   | Numéro de chapitre                                       | Paragraphe |
 | \\v   | Numéro du verset                                         | Caractère  |
 | \\p   | Paragraphe - Normal - Retraite de première ligne         | Paragraphe |
-| \\m   | Paragraphe - Marge - Pas d'indentation de première ligne | Paragraphe |
+| \\m   | Paragraphe - à la marge - sans retrait de la première ligne | Paragraphe |
 | \\q1  | Poésie - Retrait Niveau 1                                | Paragraphe |
 | \\q2  | Poésie - Retrait Niveau 2                                | Paragraphe |
 | \\r   | Titre - Références parallèles                            | Paragraphe |
@@ -27,7 +27,7 @@ pagination_next: null
 
 ### Marqueurs moins fréquents
 
-| USFM | Déscription                                              | Type       |
+| USFM | Description                                              | Type       |
 |------|----------------------------------------------------------|------------|
 | \\pc | Paragraphe - Centré (pour Inscription)                   | Paragraphe |
 | \\nb | Paragraphe - Pas de rupture avec le Paragraphe précédent | Paragraphe |
@@ -36,7 +36,7 @@ pagination_next: null
 
 ### Marqueurs d'introduction   
 
-| USFM   | Déscription                                                     | Type       |
+| USFM   | Description                                                     | Type       |
 |--------|-----------------------------------------------------------------|------------|
 | \\imt1 | Introduction - Titre principal Niveau 1                         | Paragraphe |
 | \\iot  | Introduction - Titre du plan d'ensemble                         | Paragraphe |
@@ -50,7 +50,7 @@ pagination_next: null
 
 ### Marquers de renvoi
 
-| USFM  | Déscription              | Type      |
+| USFM  | Description              | Type      |
 |-------|--------------------------|-----------|
 | \\x   | Renvoi                   | Note      |
 | \\xo  | Renvoi - référence origin  | Caractère |
@@ -59,7 +59,7 @@ pagination_next: null
 
 
 ### Marquers Figure/Image
-| USFM    | Déscription                                 | Type |
+| USFM    | Description                                 | Type |
 |---------|---------------------------------------------|------|
 | \\fig   | Auxiliaire – Image/Illustration/Carte       | Note |
 | \\fig\* | Auxiliaire – Fin d'Image/Illustration/Carte | Note |
@@ -67,7 +67,7 @@ pagination_next: null
 
 ### Marquers Note de bas de page
 
-| USFM  | Déscription                                                   | Type      |
+| USFM  | Description                                                   | Type      |
 |-------|---------------------------------------------------------------|-----------|
 | \\f   | Note de bas de page                                           | Note      |
 | \\fr  | Note de bas de page - Reference                               | Caractère |
@@ -79,7 +79,7 @@ pagination_next: null
 
 ### Glossaire  
 
-| USFM          | Déscription                                                  | Type       |
+| USFM          | Description                                                  | Type       |
 |---------------|--------------------------------------------------------------|------------|
 | \\k … k\*   | Mot clé (citation dans le glossaire)                         | Caractère  |
 | \\w … \\w\* | Marquer un mot dans le glossaire (dans le texte)             | Caractère  |

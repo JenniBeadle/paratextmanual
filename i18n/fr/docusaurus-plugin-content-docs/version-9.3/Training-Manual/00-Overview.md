@@ -3,7 +3,7 @@ lang: fr
 title: Vue d'ensemble du manuel de formation
 ---
 
-Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. 
+Le manuel de formation est conçu pour suivre les tâches du plan compact SIL. (Les numéros de page font référence au [PDF](pathname:///img/Ptx-vidsum-fr-9.3.pdf))
 
 1\. [**Introduction**](1.Intro.md) ... *p.9*  
 

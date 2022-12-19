@@ -14,7 +14,7 @@ title: B - Les codes de livres bibliques (trois lettres)
 | Néhémie - NEH                | Esther - EST       | Job - JOB         |
 | Psaumes - PSA                | Proverbes - PRO    | Ecclésiaste - ECC |
 | Cantique des cantiques - SNG | Ésaïe - ISA        | Jérémie - JER     |
-| Lamentations - LAM           | Ézékiel - EZK      | Daniel - DAN      |
+| Lamentations - LAM           | Ezéchiel - EZK     | Daniel - DAN      |
 | Osée (Hosea] - HOS           | Joël - JOL         | Amos - AMO        |
 | Abdias - OBA                 | Jonas - JON        | Michée - MIC      |
 | Nahoum - NAM                 | Habacuc - HAB      | Sophonie - ZEP    |

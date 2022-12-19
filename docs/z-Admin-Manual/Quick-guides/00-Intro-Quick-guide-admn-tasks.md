@@ -42,7 +42,7 @@ Several videos/chapters of the manual (see below) require an administrator to ha
 |  |  |
 |--|--|
 | **From the video** |  |
-| | ![AddUser](../media/AddUser.gif) |
+| | ![AddUser](https://vimeo.com/manage/videos/780797694) |
 | **Video** | Send/Receive for the first time **(0.4.1)** |
 | **Instructions** | 
 
@@ -99,7 +99,7 @@ Several videos/chapters of the manual (see below) require an administrator to ha
 |--|--|
 | From the video: | [2.2a Biblical terms](/Video-summaries/Stage-2/2.2-Biblical-terms/2.2a#how-does-paratext-know-what-the-key-biblical-terms-are) "The project **administrator** needs to _select the list_". |
 |  | To select the list you need to **associate** the desired Biblical terms list. The **Major Biblical Terms** is the default, but **your project list** may be a better choice. |
-|  | ![AssocBibTerms](../media/AssocBibTerms.gif) |
+|  | ![AssocBibTerms] (../media/QGA-AssociateBiblicalTermsList.mp4) |
 | Manual | - |
 | Video | 2.2a Biblical terms |
 | Instructions |  |
@@ -258,11 +258,12 @@ Choose the names from the two dropdown lists at the bottom left:
 (\r \mr \sr \rq \ior \fig)
 ![choosenames](../media/SRS-booknames.gif)
 
+
 ## SRC Conflict between \\toc and Scripture reference settings
 |  |  |
 |--|--|
 | **From the video** | An administrator can click _Resolve Conflicts_ to view the problems and decide which version to use. |
-| | ![Resolveconflict](../media/SRS_ResolveConflicts.gif) |
+| | ![Resolveconflict] (../media/QGA-ResolveConflictsSRS.mp4) |
 | **Video** | USFM book names (5.1) |
 | **Paratext manual** | 19.BC3 (References) |
 | **Administrator's manual** | ?? |
@@ -319,6 +320,8 @@ Make sure you have the cross-reference in a file and checked your language setti
 | **Video** | ? |
 | **Administrator's manual** | 9.5 Insert Cross references |
 | **Instructions** | Check  9.3 and  9.4 |
+
+#####  
 
 ### Insert Cross references
 
