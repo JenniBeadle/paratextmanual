@@ -1,5 +1,5 @@
 ---
-title: What's new - Paratext 9.3
+title: What's new - Paratext 9.x
 sidebar_position: 3
 ---
 

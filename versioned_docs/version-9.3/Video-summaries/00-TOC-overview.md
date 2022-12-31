@@ -94,9 +94,9 @@ This list of the Video Summaries is in order by tasks.
 **Biblical terms**    
 -  [Introduction (2.2a)](03-Stage-2/2.2-Biblical-terms/2.2a.md) ... *p.119* 
 -  [Identify Renderings (2.2b)](03-Stage-2/2.2-Biblical-terms/2.2b.md) ... *p.123* 
--  [Edit/Delete Renderings (2.2c)](03-Stage-2/2.2-Biblical-terms/2.2c.md) ... *p.123* 
+-  [Edit/Delete Renderings (2.2c)](03-Stage-2/2.2-Biblical-terms/2.2c.md) ... *p.127* 
 -  [Print a Draft (2.4a)](03-Stage-2/2.4a.md) ... *p.129* 
-  
+
 **Project notes**    
 -  [How to Insert (2.5a)](03-Stage-2/2.5-Project-notes/2.5a.md) ... *p.132* 
 -  [Comment, Assign, Tag, Edit, Delete (2.5b)](03-Stage-2/2.5-Project-notes/2.5b.md) ... *p.135* 
@@ -119,7 +119,8 @@ This list of the Video Summaries is in order by tasks.
 -  [How to Draft and Mark as Finished (3.2c)](04-Stage-3/3.2-Back-translation/3.2c.md) ... *p.161* 
 -  [How the Status Boxes Help (3.2d)](04-Stage-3/3.2-Back-translation/3.2d.md) ... *p.163* 
 -  [Ready for the Consultant and their Notes (3.2e)](04-Stage-3/3.2-Back-translation/3.2e.md) ... *p.165* 
--  [How and When to Use the Interlinearizer (3.3)](04-Stage-3/3.3-Custom-interlinears/3.3.md) ... *p.166* 
+-  [Interlinearizer - How to start (3.3a)](04-Stage-3/3.3-Custom-interlinears/3.3a.md) ... *p.166* 
+-  [Interlinearizer - How to use (3.3b)](04-Stage-3/3.3-Custom-interlinears/3.3b.md) ... *p.166* 
    
 **Basic Checks**  
 -  [References (3.4a)](04-Stage-3/3.4-Checks/3.4a.md) ... *p.170* 

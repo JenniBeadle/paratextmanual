@@ -121,7 +121,8 @@ Comment voir les tâches qui me sont attribuées ([1.1](02-Stage-1/1.Drafting-ed
 -  [Retraduction : Comment rédiger et marquer comme achevé (3.2c](04-Stage-3/3.2-Back-translation/3.2c.md)) … *p.174*  
 -  [Retraduction — utilité des cases de statut (3.2d](04-Stage-3/3.2-Back-translation/3.2d.md)) … *p.176*  
 -  [Retraduction — Prêt pour le conseiller et ses remarques (3.2e](04-Stage-3/3.2-Back-translation/3.2e.md)) … *p.178*  
--  [Utiliser le générateur d’interlinéaire (3.3](04-Stage-3/3.3-Custom-interlinears/3.3.md)) … *p.179*  
+-  [Générateur d’interlinéaire comment le demarrer (3.3a](04-Stage-3/3.3-Custom-interlinears/3.3a.md)) … *p.179*
+-  [Générateur d’interlinéaire - comment le utiliser ))  (3.3b](04-Stage-3/3.3-Custom-interlinears/3.3b.md)) … *p.179*
    
 **Vérifications de base**  
 -  [Vérifications des références (3.4a](04-Stage-3/3.4-Checks/3.4a.md)) … *p.184*  
