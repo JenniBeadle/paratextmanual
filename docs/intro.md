@@ -6,6 +6,11 @@ slug: /
 
 ![](pathname:///img/cropped-PT9-web-banner.png)  
 
+----
+
+### What's new - [Paratext 9.x](Video-summaries/00-Whats-new.md)
+
+----
 
 ## [Paratext Training Manual](Training-Manual/00-Overview.md)
 This training manual (originally developed in Cameroon) has been revised for version 9.3. This website contains versions 9.2 and 9.3 in both English and French. It follows the six stages of the translation process covering most of the tasks in the SIL compact plan. Modules can be selected for various training courses, or it can also be used as self-study.
@@ -27,7 +32,8 @@ Summaries are available in English and French. Version 9.2 is complete. Version 
 
 ----
 
-
-### What's new - [Paratext 9.x](Video-summaries/00-Whats-new.md)
+### Administrators
+- [Administrator's manual](Admin-Manual/Admin.md)
+- [Quick guide](Admin-Manual/Quick-guide-admn-tasks/)
 
 ----

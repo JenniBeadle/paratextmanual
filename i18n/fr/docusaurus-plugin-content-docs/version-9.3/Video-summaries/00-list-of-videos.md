@@ -1,4 +1,4 @@
-﻿---
+---
 lang: fr
 title: Liste par caractéristique
 sidebar_position: 2
@@ -129,8 +129,9 @@ Voir aussi la liste [**par ordre de tâches**](00-TOC-overview.md).
 -  [ Comment gérer les exceptions (3.4h](04-Stage-3/3.4-Checks/3.4h.md))  
   
 ### Le générateur d’interlinéaire
--  [ Utiliser le générateur d’interlinéaire (3.3](04-Stage-3/3.3-Custom-interlinears/3.3.md))  
-
+-  [ Générateur d’interlinéaire comment le demarrer (3.3](04-Stage-3/3.3-Custom-interlinears/3.3a.md))  
+-  [ Générateur d’interlinéaire - comment le utiliser (3.3](04-Stage-3/3.3-Custom-interlinears/3.3b.md))  
+  
 ### Vérifier l’orthographe et Liste de mots  
 -  [Approuver l’orthographe des mots fréquents (2.1a](03-Stage-2/2.1-Spell-check-wordlist/2.1a.md))  
 -  [Vérifier l’orthographe du livre actuel (2.1b](03-Stage-2/2.1-Spell-check-wordlist/2.1b.md))  

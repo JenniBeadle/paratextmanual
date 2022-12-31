@@ -1,4 +1,4 @@
-﻿---
+---
 lang: fr
 title: Formation Paratext 
 sidebar_position: 1
@@ -16,6 +16,7 @@ Ce manuel de formation (initialement développé au Cameroun) a été révisé p
 -  :book: [Télécharger le Manuel PDF ici](pathname:///img/Ptx-man-fr-9.3.pdf)  
    - Il a 200+ pages A4 pour imprimer en format A5 livret.
 
+[Manuel d'Administrator](Admin-Manual/Admin.md)
 ----
 
 ### Résumés des vidéos de formation Paratext
@@ -30,4 +31,14 @@ Ce manuel de formation (initialement développé au Cameroun) a été révisé p
 ----
 
 ### Quoi de neuf - [Paratext 9.3](Video-summaries/00-Whats-new.md)
+
+----
+
+
+### Administrators
+- [Manuel d'Administrator](Admin-Manual/Admin.md)
+- [Quide Rapide](Admin-Manual/Quick-guide-admn-tasks.md)
+
+----
+
 
