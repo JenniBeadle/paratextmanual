@@ -1,6 +1,6 @@
 ---
 title: Administrator's Manual
-slug: admman
+slug: adminman
 status: In progress
 ---
 
@@ -65,7 +65,7 @@ Paratext_9.1.104.1_InstallerOffline.exe
 ### 1.3 Register a user (first time run Paratext)
 
 :::tip
-🔥 Paratext 8 and 9 can use the same registration, but all Paratext 7 users need a new registration for Paratext 9.
+Paratext 8 and 9 can use the same registration, but all Paratext 7 users need a new registration for Paratext 9.
 :::
 
 1. Run Paratext (for the first time)
