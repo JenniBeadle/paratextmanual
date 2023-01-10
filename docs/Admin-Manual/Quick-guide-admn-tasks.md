@@ -2,7 +2,7 @@
 title: Intro - Quick Guide to Administrator tasks
 ---
 
-:::danger 
+:::danger Warning
 All GIF/videos need to be Updated  
 :::
 
