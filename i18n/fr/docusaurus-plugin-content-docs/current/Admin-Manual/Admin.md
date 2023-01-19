@@ -3,189 +3,231 @@ title: Manuel d'Administrateur (français)
 ---
 
 # **IP : Installation de Paratext 9**
+:::danger ÉBAUCHE pour révision
+:::
 
-***Introduction***
-
+Les tâches suivantes nécessitent un rôle d'administrateur. Des liens vers le manuel du participant sont inclus lorsqu'ils sont pertinents.
+:::
+***Introduction***  
 Dans ce module, vous installez Paratext 9. Paratext est le principal logiciel mondial pour le développement et la vérification de nouveaux textes de traduction de la Bible ou des révisions aux textes existants. Développé conjointement par ABU et SIL International, il permet une traduction cohérente et précise, basée sur des textes originaux et modélisés sur des versions dans les principales langues. En partie grâce à ses fonctionnalités de collaboration de pointe, Paratext contribue grandement à produire des traductions de meilleure qualité en moins de temps que les outils et les méthodes précédentes ont permis.
 
-***Où en sommes-nous***
+***Avant de commencer***  
+Vous devez désinstaller toute version bêta de Paratext 9 avant de l'installer.
 
-Vous avez peut-être déjà installé une version antérieure sur votre ordinateur et vous souhaitez installer à présent Paratext 9.
-
-***Pourquoi cette aptitude est-elle importante ?***
-
+***Pourquoi cette aptitude est-elle importante ?***  
 Paratext 7, Paratext 8 et Paratext 9 peuvent être installées en même temps, mais il faut comprendre la limitation de leur utilisation ensemble.
 
 - Plusieurs versions peuvent être installées
 - Certains utilisent différents dossiers
-- My Paratext Projects Paratext 7)
+- My Paratext Projects (Paratext 7)
 - My Paratext 8 Projects (Paratext 9 and 8)
+- My Paratext 9 Projects (Paratext 9)
 - Paratext 7 utilisait un serveur différent (qui est maintenant fermé). Paratext 8 et 9 utilisent les mêmes serveurs de données.
 
-***Qu’est-ce qu'on va faire ?***
-
+***Qu’est-ce qu'on va faire ?***  
 Vous allez installer Paratext 9 (sans désinstaller Paratext 7 ou 8). Vous allez également faire une mise à jour à partir d’un fichier MSP.
-
-**1.1 Introduction**
 
 **1.2 Installer Paratext 9**
 
-<aside>
-💡 Il n'est pas nécessaire de désinstaller une version antérieure de Paratext. Mais il faut désinstaller une version BETA antérieure de Paratext 9.
+:::tip
+Il n'est pas nécessaire de désinstaller une version antérieure de Paratext. Mais il faut désinstaller une version BETA antérieure de Paratext 9.
+:::
 
-</aside>
+:::info
+Téléchargement disponible sur le site <https://paratext.org/download> Standard Installation OU  
+Offline Installer + Latest Update
+:::
 
-- Double-cliquez sur le fichier d’installation
-
-  - (disponible à https://paratext.org/download https://paratext.org/files/releases/9.1/
-  - 
-  - 
-  - Paratext_9.1.104.1_InstallerOffline.exe).
-  - 
-- Cochez « I agree to the licence terms » (j’accepte les termes de la licence)
-- Cliquez sur **Install**(Installer).
-
+1. Double-cliquez sur le fichier d’installation
+2. Cochez « I agree to the licence terms » (j’accepte les termes de la licence)
+3. Cliquez sur **Install** (Installer).
   - Cette étape peut prendre quelques minutes si le programme d’installation doit installer .NET 4.8 Framework sur votre ordinateur.
-  - 
-- Si une boîte de dialogue apparaît et demande votre permission, cliquez sur **Oui/Yes** ou fournissez les informations d’identification nécessaires.
-
+  - Si une boîte de dialogue apparaît et demande votre permission, cliquez sur **Oui/Yes** ou fournissez les informations d’identification nécessaires.
   - Un message de bienvenue s’affiche.
-  - 
-- Cliquez sur **Next** (Suivant)
-
+4. Cliquez sur **Next** (Suivant) 
   - L’étape « Dossier de destination » s’affiche
-  - 
-- Acceptez les valeurs par défaut du dossier.
+5. Acceptez les valeurs par défaut du dossier.
 
-  - N.B. Les projets de Paratext 8 et 9 ne peuvent pas partager le même dossier que les projets de Paratext 7.
-  - 
-- Cliquez sur **Next (suivant)**, puis **Install**
-- Cliquez sur **Finish** et puis **Close (Fermer)**.
-- La première fois que vous lancez Paratext 9, vous devrez entrer votre code d’inscription de Paratext. Des informations sur la façon d’obtenir ce code figurent sur la page d’inscription (registration).
+:::info
+N.B. Les données de Paratext 9 et 8 partagent le même répertoire mais Paratext 7 a besoin d'un répertoire de données séparé.
+:::
+
+1. Cliquez sur **Next (suivant)**, puis **Install**
+1. Cliquez sur **Finish** et puis **Close (Fermer)**.
+
+:::tip 
+La première fois que vous lancez Paratext 9, vous devrez entrer votre code d’inscription de Paratext. Des informations sur la façon d’obtenir ce code figurent sur la page d’inscription (registration).
+:::
+
+----
 
 **1.3 Inscription d’un utilisateur de Paratext 7 (à la première exécution de Paratext)**
 
-  - Tous les utilisateurs ont besoin d’une nouvelle inscription pour Paratext 9.
-  - 
-- Exécuter Paratext 9 (pour la première fois)
-- Choisissez la langue de l’interface
+:::tip
+Paratext 8 et 9 peuvent utiliser le même enregistrement, mais tous les utilisateurs de Paratext 7 ont besoin d'un nouvel enregistrement pour Paratext 9.
+:::
+1. Exécuter Paratext 9 (pour la première fois)
+1. Choisissez la langue de l’interface
+    - *Une boîte de dialogue s’affiche pour demander votre code d’enregistrement*.
+1. Dans votre navigateur web, Accédez à [https://registry.paratext.org](https://registry.paratext.org/)
+    - *La page “Sign in”(se connecter) s’affiche.*
+1. Tapez votre adresse émail (du Gmail)
+1. Cliquez sur le lien **Register**/**Inscription**
+1. Tapez le nom d’utilisateur
+1. Saisissez (ou copiez) le code d’inscription Paratext 7 de l’utilisateur (s'ils en ont un)
+1. Copier le nouveau code de Paratext 9
 
-  - Une boîte de dialogue s’affiche pour demander votre code d’enregistrement.
-  - 
-- Dans votre navigateur web, Accédez à [https://registry.paratext.org](https://registry.paratext.org/)
-
-  - La page “Sign in”(se connecter) s’affiche.
-  - 
-- Tapez votre adresse émail (du Gmail)
-- Cliquez sur le lien **Register**/**Inscription**
-- Tapez le nom d’utilisateur
-- Saisissez (ou copiez) le code d’inscription Paratext 7 de l’utilisateur
-- Copier le nouveau code de Paratext 9
-- Retournez à Paratext
-- Paratext va coller le code
-- Cliquez sur **OK**.
+Retournez à Paratext  
+1. Paratext va coller le code
+1. Cliquez sur **OK**.
 
 **1.4 Mise à jour manuelle de votre version existante de Paratext**
 
-  - Les fichiers de mise à jour ont une extension .msp au lieu de .pud ou .spud comme dans le passé.
-  - 
-- Vérifiez que Paratext est fermé.
-- Double-cliquez sur le fichier **msp** pour installer la mise à jour.
+:::info
+Les fichiers de mise à jour ont une extension .msp au lieu de .pud ou .spud comme dans Paratext 7.
+:::
 
-**2**
+1. Vérifiez que Paratext est fermé.
+2. Double-cliquez sur le fichier **msp** pour installer la mise à jour.
 
-# **MD : Migration des données**
+
+# 2. MD : Migration des données
 
 **2.1 Introduction**
+:::caution
+La migration n'est nécessaire que pour les projets Paratext 7.
+:::
 
-La migration est le processus de déplacement d’un projet (y compris tous les fichiers de paramètres) de Paratext 7 vers Paratext 9. Paratext 9 ne dispose pas d'une fonction de migration. Mais il est toujours possible de le faire en utilisant Paratext 8. N.B. : Paratext 9 peut lire les projets Paratext 8.
+La migration est le processus qui consiste à déplacer un projet (y compris tous les fichiers de paramètres) de **Paratext 7** vers Paratext 8 (et ensuite ouvert dans Paratext 9). Les projets Paratext 8 peuvent être lus dans Paratext 9 sans migration. Comme Paratext 9 n'a pas de fonction de migration, tous les projets Paratext 7 restants devront d'abord être **migrés vers Paratext 8**. 
 
-***Avant de commencer***
+***Avant de commencer***  
+Le projet Paratext 7 doit se trouver dans le dossier "Mes projets Paratext".  Vous devez également avoir installé **Paratext 8 et 9.**.
 
-Vous avez déjà installé Paratext 8 et vous avez un projet Paratext 7 que vous souhaitez utiliser dans Paratext 9.
+***Pourquoi est-ce important ?**  
+Le serveur Paratext 7 a été fermé il y a plusieurs années, donc aucun projet Paratext 7 n'est sauvegardé sur le serveur. Aussi, afin de bénéficier de toutes les fonctionnalités de Paratext 9, vos données doivent être migrées. Étant donné que Paratext 7 et Paratext 9 utilisent des serveurs d'envoyer/recevoir différents, tous les membres de l'équipe de projet doivent utiliser Paratext 8 ou 9.
 
-***Pourquoi est-ce important ?***
-
-Pour que toutes les fonctionnalités de Paratext 9 soient opérationnelles, il faut que votre projet Paratext 7 soit migré. Paratext 7 et Paratext 9 utilisent des serveurs différents pour faire envoyer/recevoir, alors il n'y aura aucun moyen de partager un projet avec les utilisateurs de Paratext 7 et Paratext 8 (ou 9) en même temps. De ce fait, l’ancien serveur sera éliminé à la fin de décembre 2018. Par conséquent, Il est donc important de faire migrer les projets rapidement.
-
-Les utilisateurs peuvent avoir Paratext 7 et Paratext 8 (et 9) installés en même temps, et utiliser l'un ou l'autre, mais aucun projet ne peut être partagé entre eux.
+Les utilisateurs peuvent avoir Paratext 7 et Paratext 8 (et 9) installés en même temps, et utiliser l'un ou l'autre, mais aucun projet ne peut être partagé simultanément avec des utilisateurs de Paratext 7 et des utilisateurs d'une autre version de Paratext..
 
 Dès que vous avez fait migrer le projet, tout le monde doit recevoir le projet migré, et ne travaille qu'à partir de Paratext 8 (ou 9).
 
 Pour faire migrer un projet, il faut avoir une bonne connexion Internet. Si vous travaillez habituellement sans une connexion Internet, vous pouvez continuer sans connexion dès que le projet aura été migré.
 
-***Qu’est-ce que tu vas faire ?***
+***Qu’est-ce que tu vas faire ?***  
+Vous allez  
+- assurez-vous d'avoir la copie maîtresse du projet Paratext 7
+- ouvrez le projet dans Paratext 8
+- enregistrer le projet
+- migrer les données
 
-Vous allez
+:::tip
+Il existe des notes alternatives (en anglais) sur [https://paratext.org/paratext-help-and-support/migration/](https://paratext.org/paratext-help-and-support/migration/)
+:::
 
-- faire migrer un projet partagé:
-- faire migrer un projet non partagé:
-
-**2.2 Faire migrer un projet partagé de Paratext 7**
-
+**2.2 Faire migrer un projet partagé de Paratext 7**  
 Si vous administrez un projet existant dans Paratext 7 et que vous souhaitez le faire migrer vers Paratext 8 (ou 9), voici comment vous devez procéder.
 
-**2.2.1 Préparer un projet Paratext 7 pour la migration**
-
-  - Tous vos utilisateurs doivent faire la mise à jour en même temps.
-  - 
-- Tous les utilisateurs doivent envoyer / recevoir dans **Paratext 7** (et alors, cessez de travailler dans Paratext 7).
+**Préparer un projet Paratext 7 pour la migration**  
+- Tous vos utilisateurs doivent faire la mise à jour en même temps.
+- Tous les utilisateurs doivent envoyer / recevoir dans **Paratext 7** par USB clé (et alors, cessez de travailler dans Paratext 7).
 - L'administrateur confirme que le texte est en bon état.
 - L'administrateur lance **Paratext 8.**
 - **Fichier**   - **Ouvrir projet/ressource**
 - Cliquez sur la case en bas pour afficher les projets Paratext 7
-
-  - 
-  - 
 - Choisissez le projet à faire migrer.
-
   - Il sera probablement marqué comme "v7, non-inscrit."
-  - 
-  - 
-  - Il se peut que le projet soit marqué comme "v7" sans être décrit comme non-inscrit, car un certain nombre de projets Paratext 7 ont été préinscrits sur Paratext 8. Si le vôtre est l'un de ceux-ci, vous devriez continuer la migration, mais vous pouvez sauter l'enregistrement.
-  - 
 - Cliquez sur **OK** pour lancer la migration du projet.
-
   - La boîte de dialogue Faire migrer un projet partagé s'affiche.
-  - 
-  - 
-  - ![media/image2.png](media/image2.png)
-  - 
+   ![media/image2.png](media/image2.png)
   - *Paratext 8 peut vous dire que le projet doit être inscrit (s'il n'est pas préenregistré) et qu'il doit être migré vers Paratext 8.*
   - 
 
-**2.2.2 Inscrire un projet (avant de faire migrer le projet)**
+### Étape 1. Inscrire le projet 
+La migration se déroule en deux étapes principales, chacune étant traitée en détail ci-dessous : 
+- **Inscrire du projet** et 
+- **Migration des données**.
+
+:::tip
+Le formulaire du inscription du projet est très long. Il a été découpé en plusieurs sections (fond bleu) avec des commentaires pour vous aider à remplir le formulaire (tableau dans le fond bleu) et des actions à effectuer (fond blanc).
+:::
 
 - Cliquez sur le bouton **Register Online** (Inscription en ligne)
-- Remplissez le formulaire web. (Les champs marqués d'un astérisque sont obligatoires.)
-- Short name (Nom abrégé) : Le nom abrégé du projet ne sera plus modifiable après ce processus.
-- Full name (Nom complet) : Vous pouvez modifier le nom complet du projet.
-- Paratext 8 nécessite un identifiant de langue pour votre langue. Utilisez la **Search (recherche)** dans le nom de la langue pour trouver le code Ethnologue de votre langue.
-- **Scope (L’étendue)** Est-ce que le projet sera une Bible complète ou une Bible complète comprenant les deutérocanoniques, le Nouveau Testament ou tout autre groupe de livres.
-- Le **type de traduction** désigne si le projet est la première traduction pour cette langue, une révision d'une traduction existante, une nouvelle traduction ou une traduction comprenant des notes d'étude, comme une bible d'étude.
-- **Country** : Indiquez le pays où la langue est parlée. Vous pouvez taper quelques lettres du nom puis choisir le pays désiré. Vous pouvez spécifier plus d’un pays si la langue se propage au-delà des frontières
-- **Rights holder** : Le détenteur des droits serait l'organisation dont vous attendez le droit d'auteur pour une édition imprimée. Cela peut également être modifié plus tard.
-- Les quatre derniers champs vous permettent d'ajouter d'autres informations si elles sont pertinentes pour décrire votre projet. (Aucune de ces options n'est requise.)
-- Vous pouvez indiquer si votre projet est confidentiel ou non. Seuls les utilisateurs enregistrés de Paratext 8 peuvent afficher le nom des projets standard, un projet confidentiel sera masqué même devant les autres utilisateurs de Paratext 8.
-- Une autre option consiste à marquer un projet comme un projet de test ou de formation. Vous pouvez utiliser cette option pour les projets de test que vous créez ou pour les projets que vous utilisez pour la pratique dans un cours de formation.
-- Confirmez que vous acceptez de suivre les directives FOBAI dans votre projet de traduction et vous acceptez de stocker une copie de sauvegarde de votre projet dans la Bibliothèque Biblique Numérique.
+- Remplissez le formulaire web. 
 
-  - La "Digital Bible Library" (Bibliothèque Biblique Numérique) est un outil pour rendre les traductions disponibles en ligne ou pour les utilisateurs mobiles, mais votre projet ne sera disponible à personne jusqu'à ce que vous acceptiez de le rendre disponible.
-  - 
+:::tip 
+Les champs marqués d'un astérisque sont obligatoires.
+:::
+
+:::info Formulaire et explication
+![ ](./media/InscProj-1.png)
+
+| Nom | Description |
+|----|-----|
+| **Nom abrégé** | Ce champ est rempli pour vous par le projet. Vous ne pouvez pas modifier le nom court du projets. |
+| **Nom complet** | Vous pouvez modifier le nom complet du projet. |
+| **Description** | Ajoutez des informations supplémentaires ici si vous le souhaitez. Il y a également des champs pour plus d'informations sur le projet dans la deuxième partie du formulaire.|
+| **Langue** | Le nom de la langue doit correspondre à une entrée de la base de données Ethnologue. Voir plus de détails ci-dessous.Paratext 8 nécessite un identifiant de langue pour votre langue. 
+:::
+
+**Langue**  
+![ ](./media/InscProj-Lang.png)
+1. Cliquez sur la case "**Avancé**" pour remplir plus d'informations si vous devez distinguer la langue de votre projet de la langue avec ce code Ethnologue.  
+
+    - *Le formulaire avancé ressemble à ceci, où les choix que vous sélectionnez sous Script, Region ou Variant ajoutent des lettres et des chiffres supplémentaires à l'identifiant*.
+
+:::info Formulaire et explication
+
+
+ |  |  |
+ |--|--|
+| **L’étendue** | Fait référence aux livres que vous avez l'intention de traduire, par exemple, la Bible entière, le Nouveau Testament, la Bible entière plus le Deutérocanon, des portions, etc. |
+| **Le type de traduction**  | - Choisissez **Première** s'il s'agit de la première traduction dans cette langue,| - choisissez **Révision** s'il s'agit de la révision d'une traduction antérieure.
+||- Choisissez **Revision** s'il s'agit d'une révision d'une traduction antérieure, vous devez préciser que vous avez l'autorisation des détenteurs des droits de la traduction que vous révisez ||- Choisissez **New** s'il s'agit d'une nouvelle traduction mais qu'une traduction antérieure existe pour cette langue.
+||- Choisissez **Nouveau** s'il s'agit d'une nouvelle traduction mais qu'il existe une traduction antérieure pour cette langue.  
+||- Choisissez **Matériel d'étude/d'aide** pour les traductions comprenant du matériel d'étude, tel qu'une Bible d'étude.
+| **Pays / Régions** | Sélectionnez le ou les pays dans lesquels la traduction est destinée à être utilisée.
+||1. Vous pouvez taper quelques lettres du nom puis choisir le pays souhaité.
+||2.  Vous pouvez spécifier plus d'un pays si la langue s'étend au-delà des frontières.
+| **Organisations géstionnaires** | Choisissez dans la liste des organisations. Vous pouvez le modifier si nécessaire par la suite. |
+:::
+
+:::tip
+Si le détenteur éventuel des droits est une organisation qui n'est pas encore formée ou reconnue, choisissez quelque chose dans la liste et modifiez l'enregistrement plus tard.
+:::
+
+:::info Formulaire d'enregistrement partie 2
+**Plus d'informations**
+La deuxième partie du formulaire d'enregistrement contient plusieurs endroits où vous pouvez ajouter des informations supplémentaires sur votre projet. Aucun de ces champs n'est obligatoire.
+
+![ ](./media/InscProj-2.png)
+:::
+:::info Formulaire d'inscription partie 3
+**Visibilité**
+
+![ ](./media/InscProj-Confid.png)
+
+1. **Standard** est le choix par défaut. Les informations sur le projet ne sont pas accessibles au public, mais seulement aux utilisateurs enregistrés de Paratext au sein de la même organisation.
+2. **Test ou Formation** est bon pour les projets de test ou les projets que vous créez uniquement pour les utiliser dans un programme de formation ou un atelier.
+3. **Confidentiel** est destiné aux situations où la saisie d'informations sur votre projet en ligne est un problème de sécurité. Les informations sont limitées aux membres du projet et aux personnes qui gèrent les données d'inscription pour l'organisation.
+
+**Consentement**
+![ ](./media/InscProj-AcceptFOBAI.png)  
+La dernière condition d'inscription est d'indiquer que vous vous conformerez aux directives de traduction du **Forum of Bible Agencies International** (un lien est fourni) et que vous **acceptez** de conserver une copie de sauvegarde de votre projet dans la bibliothèque de Bible Numérique. La bibliothèque biblique numérique ne partagera pas votre projet avec qui que ce soit sans votre autorisation expresse.
+:::
+
+:::info
+La "Digital Bible Library" (Bibliothèque Biblique Numérique) est un outil pour rendre les traductions disponibles en ligne ou pour les utilisateurs mobiles, mais votre projet ne sera disponible à personne jusqu'à ce que vous acceptiez de le rendre disponible.
+:::
+
 - Cliquez sur **Submit Registration** (Soumettre un enregistrement)
-
+![ ](./media/InscProj-EnvInsc.png)
   - Un message s’affiche « Projet enregistré avec succès. »
-  - 
-  - 
-  - ![image3.png](media/image3.png)
-  - 
+    ![image3.png](media/InscProj-suc.png)
+
 - Retournez à Paratext
 
   - Il devrait détecter que le projet est maintenant enregistré et vous en informer.
-  - 
-  - 
-  - ![media/image4.png](media/image4.png)
->
+   ![media/image4.png](media/image4.png)
+
 
 **2.2.3 Migration d'un projet inscrit**
 
@@ -193,8 +235,6 @@ Si vous administrez un projet existant dans Paratext 7 et que vous souhaitez le 
   - 
 - L'étape de migration comporte plusieurs cases que vous devez cocher pour vérifier que vous comprenez ce qui est impliqué.
 
-  - 
-  - 
 - Je suis le membre de l’équipe qui a été sélectionné pour faire ce processus pour toute l’équipe.
 - Notre équipe comprend que le projet PT8 sera la copie officielle du projet
 - Tous les membres de l’équipe ont cessé de modifier la copie de PT7 du projet.
@@ -225,9 +265,6 @@ Si vous administrez un projet existant dans Paratext 7 et que vous souhaitez le 
   - 
 - **Livres** : Les paramètres du projet et propriétés du projet comportent un onglet **Livres**, vous spécifiez ici les livres que vous prévoyez d'avoir dans votre projet.
 
-  - 
-  - 
-  - 
   - Vous pouvez choisir des livres individuels, l'un après l'autre, ou spécifier l'Ancien Testament, le Nouveau Testament ou les livres deutérocanoniques en utilisant les boutons. Vous pouvez modifier cette liste de livres plus tard dans le projet si vos attentes pour le projet changent.
   - 
   - N.B. Après avoir fait migrer votre projet, il faut également faire migrer la retraduction, et tous les projets de traduction-filles l’un après l’autre.
@@ -249,15 +286,13 @@ Si vous administrez un projet existant dans Paratext 7 et que vous souhaitez le 
   - Rappelez-vous que personne ne devra plus modifier le projet dans Paratext 7. Ce serait un effort gaspillé, car personne d'autre ne verra jamais leurs changements. Pour aider les membres de votre équipe à se souvenir de cela, vous pourriez supprimer le projet de leur Paratext 7 une fois qu'ils l'ont obtenu en Paratext 8. Autrement, ils peuvent désinstaller Paratext 7 de leur ordinateur s'ils n'en ont pas besoin pour d'autres projets.
   - 
 
-**3**
-
-# **INS : Inscription**
+# **3. INS : Inscription**
 
 **3.1 Introduction**
 
 Désormais, c’est-à-dire à partir de Paratext 8, il est obligatoire que les projets partagent leurs informations de base ou métadonnées avec la communauté de traduction. Il est fortement encouragé à partager les informations sur les progrès réalisés. [Certaines organisations et/ou certains bailleurs de fonds peuvent l’exiger.]
 
-***Où en sommes-nous***
+***Avant de commencer***
 
 Paratext 8 est déjà installé et vous avez les codes d’inscription Paratext 7 pour les utilisateurs.
 
@@ -343,10 +378,7 @@ Si votre projet n’est pas inscrit, vous n’aurez pas accès à
 - Cliquez sur le nom d'utilisateur en haut à gauche.
 
   - Un menu s'affiche.
-  - 
-  - 
   - ![media/image7.png](media/image7.png)
-  - 
 - Cliquez sur **Settings** (paramètres).
 
   - 
@@ -387,12 +419,7 @@ Si votre projet n’est pas inscrit, vous n’aurez pas accès à
 - Cliquez sur le nom d'utilisateur de la liste
 - Cliquez sur la flèche bas (à droite de View)
 - Choisissez **Generate code**
-
-  - 
-  - 
-  - 
   - Un message s'affiche.
-  - 
   - ![media/image11.png](media/image11.png)
   - 
 - Cliquez sur **Proceed**
@@ -606,7 +633,7 @@ Dans Paratext 9, les ressources sont téléchargées depuis le DBL (Digital Bibl
 
 Suivre le progrès basé sur un plan du projet est une fonctionnalité améliorée qui aura un impact sur le travail quotidien des équipes de la traduction.
 
-***Où en sommes-nous***
+***Avant de commencer***
 
 Avant d’ajouter un plan, le projet doit être créé ou migré.
 
@@ -954,7 +981,7 @@ Les choses à considérer :
 
 Si jamais vous avez eu besoin de renommer votre projet, de réduire la taille de votre projet, de modifier les noms d’utilisateur, de modifier l’encodage ou de lutter avec des signes diacritiques composés/décomposés, l’outil **Convertir le projet** vous aidera à résoudre ces problèmes.
 
-***Où en sommes-nous ?***
+***Avant de commencer ?***
 
 Vous devez être l’administrateur du projet à faire ces conversions.
 
@@ -1034,7 +1061,7 @@ Nous allons travailler les six changements qui peuvent être apportés à votre 
 
 La plupart des langues n'ont pas accès à des concordances et à d'autres documents d'étude de la Bible dans leurs propres langues. Ajouter des renvois à votre Nouveau Testament peut grandement aider votre lecteur à comprendre le texte en l'aidant à trouver des passages sur des thèmes similaires.
 
-***Où en sommes-nous ?***
+***Avant de commencer ?***
 
 Avant de pouvoir insérer des renvois d’un texte modèle, votre administrateur doit avoir créé tous les livres (et chapitres et versets) dans votre projet. Ils peuvent être vides, mais ils doivent être présents.
 

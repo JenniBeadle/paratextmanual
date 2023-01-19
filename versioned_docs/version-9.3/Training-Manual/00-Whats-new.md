@@ -72,6 +72,8 @@ There is a new menu item on the **main menu** ![](./media/open-text-collection-m
 Remember to save your layout! 
 :::
 
+#####
+
 ### Floating Windows
 
 -   Dropdown to change the active project  

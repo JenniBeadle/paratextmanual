@@ -1,12 +1,11 @@
 ---
 title: Administrator's Manual
-slug: adminman
 status: In progress
 ---
 
 ## DRAFT for proof-reading
 
-The following tasks require an Administrator role. Links to the participant's manual are included if relevant.
+The following tasks require an Administrator role. Links to the participant's manual are included when relevant.
 
 
 ## 1 **IS - Install**
@@ -32,32 +31,32 @@ You will install Paratext 9 (without uninstalling Paratext 7 or 8). You will als
 
 ----
 
-### 1 Install Paratext 9
+### 1.2 Install Paratext 9
 
 :::tip
 Note: you do not need to uninstall an earlier version of Paratext. But you may need to uninstall an earlier BETA version of Paratext 9.
 :::
 :::info
-Download available at <https://paratext.org/download> Paratext_9.3.103.1_InstallerOnline.exe OR  
-Paratext_9.1.104.1_InstallerOffline.exe
+Download available at <https://paratext.org/download> Standard installation (online) OR  
+Offline installation + Latest Update
 :::
 
 1. Double-click on the installer file.
-1. Click, “I agree to the license terms”,
-1. Click **Install**.
+2. Click, “I agree to the license terms”,
+3. Click **Install**.
     - *This step might take a few minutes if the installer needs to install the .NET 4.8 Framework on your computer*.
     - *If a dialog appears and asks for your permission, click **Yes** or provide the credentials as required*.
     - *A welcome message is displayed.*
-1. Click **Next**
+4. Click **Next**
     - *The destination folder step appears*.
-1. Accept the defaults for the folder.
+5. Accept the defaults for the folder.
 :::info
- Note: Paratext 9 and 8 data share the same directory but Paratext 7 needs a separate data directory.
+ Note: Paratext 9 and 8 data share the same directory but Paratext 7 needed a separate data directory.
 :::
 1. Click **Next**, then **Install**
-1. Click **Finish** and then **Close**.
+2. Click **Finish** and then **Close**.
 :::tip
-💡 The first time you launch Paratext 9 you will need to enter your Paratext 9 registration code. Information on how to obtain this code is on the Registration page.
+The first time you launch Paratext 9 you will need to enter your Paratext 9 registration code. Information on how to obtain this code is on the Registration page.
 :::
 
 ----
@@ -78,7 +77,7 @@ In your browser
 2. Log-in with a gmail work account
 3. Click on the Register link
 4. Type in the user name
-5. Type in (or copy) the user’s Paratext 7 registration code
+5. Type in (or copy) the user’s Paratext 7 registration code (if they have one)
 6. Copy the new code  
 
 Return to Paratext  
@@ -89,7 +88,7 @@ Return to Paratext
 ### 1.4 Manually updating your existing version of Paratext
 
 :::info
- The update files have a .msp extension instead of PUD or SPUD as in the past.
+ The update files have a .msp extension instead of PUD or SPUD as in Paratext 7.
 :::
 
 1. Make sure Paratext is closed.
@@ -99,8 +98,12 @@ Return to Paratext
 
 ## 2. **MD - Migrate Data**
 
+:::caution 
+Migration is only necessary for Paratext 7 projects.
+:::
+
 **Introduction**  
-Migration is the process of moving a project (including all settings files) from **Paratext 7** to Paratext 8 (and then opened in Paratext 9). Paratext 8 projects can be read in Paratext 9 without migration. since Paratext 9 does not have a migration feature, any remaining Paratext 7 projects will need to be migrated to Paratext 8 first.  
+Migration is the process of moving a project (including all settings files) from **Paratext 7** to Paratext 8 (and then opened in Paratext 9). Paratext 8 projects can be read in Paratext 9 without migration. since Paratext 9 does not have a migration feature, any remaining Paratext 7 projects will need to be **migrated to Paratext 8 first**.  
 
 **Before you Start**  
 The Paratext 7 project must be in the "My Paratext Projects" folder.  You also need to have installed **Paratext 8.**
@@ -119,15 +122,15 @@ You need to have a good Internet connection to migrate the project, but after th
 You will
 
 - ensure you have the master copy of the Paratext 7 project
-- open the project in Paratext  8
+- open the project in Paratext 8
 - register the project
 - migrating the data
 
 :::tip
-💡 There are alternative notes on [https://paratext.org/paratext-help-and-support/migration/](https://paratext.org/paratext-help-and-support/migration/)
+There are alternative notes on [https://paratext.org/paratext-help-and-support/migration/](https://paratext.org/paratext-help-and-support/migration/)
 :::
 
-### 2.2.1 Prepare a project for migration
+### Prepare a project Paratext 7 for migration
 
 :::info
  All your users have to upgrade at the same time.
@@ -187,14 +190,14 @@ The Register Project Form is very long. It has been broken up into several secti
 ||-  choose **Revision** if it is a revision of a previous translation, you have to specify that you have permission from the rights holders of the translation you are revising  |
 ||-  choose **New** if it is a new translation but a previous translation does exist for the language.|  
 ||-  choose **Study/Help materials** for translations including study materials, such as a Study Bible.|
-| **Country** | select the country or countries where this translation is **intended to be used.** |
+| **Countries / Regions** | select the country or countries where this translation is **intended to be used.** |
 || 1.  You can type a few letters of the name then pick the desired country.|
 ||2.  You can specify more than one country if the language spreads across borders|
-| **Rights holder** | would be the organization you expect will have the copyright for a print edition. This can be changed if it needs to be later on. Choose from the list **the likely rights holder** for this translation. |
+| **Managing Organisations** | would be the organization you expect will have the copyright for a print edition. This can be changed if it needs to be later on. Choose from the list **the likely rights holder** for this translation. |
 :::
 
 :::tip
-💡 If the eventual rights holder is an organization yet to be formed or recognized, choose something from the list and edit the registration later.
+If the eventual rights holder is an organization yet to be formed or recognized, choose something from the list and edit the registration later.
 :::
 
 :::info Registration form part 2
@@ -291,7 +294,7 @@ If you get the warning
 :::info
  **Note**: Once you have migrated your project, you also need to migrate the back translation and any other daughter projects (one after the other).
 :::
-:::danger
+:::danger Warning
 Remember, **do not edit** the project in Paratext 7. That would be wasted effort as no one else will see their changes.
 :::
 
@@ -640,7 +643,7 @@ You will use a combination of two features: the settings of the **Project Plan**
 1. **≡ Tab** , under **Project Project plan settings**
 2. Click **Manage plans**
 3. Click on the last stage
-4. Click the **Remover Stage** button
+4. Click the **Remove Stage** button
 5. Click Yes (twice) once to confirm you want to modify the plan, and again to confirm you want to delete the tasks in the stage.
 6. Repeat for remaining stages
 7. Add the new plan (see above)
