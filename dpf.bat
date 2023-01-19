@@ -85,7 +85,7 @@ GOTO MENU
 
 :FR-vidsum-9.3-LH
 ECHO 7 - Print French VIDSUM 9.3 from local host 
-npx docu-pdf http://localhost:3000/fr//Video-summaries/TOC-overview --coverPath="cover-vidsum-fr.html"  --contentSelector="article" --pageSize="A5" --outputPath="Ptx-vidsum-a5-fr-9.3-LH.pdf" --disableTOC --headerTemplate="<footer />" --pdfMargin="40,40,80,40" --excludeURLs="@excludesFRvid.txt"
+npx docu-pdf http://localhost:3000/fr/Video-summaries/TOC-overview --coverPath="cover-vidsum-fr.html"  --contentSelector="article" --pageSize="A5" --outputPath="Ptx-vidsum-a5-fr-9.3-LH.pdf" --disableTOC --headerTemplate="<footer />" --pdfMargin="40,40,80,40" --excludeURLs="@excludesFRvid.txt"
 IF "%X%"== "1" GOTO :EOF
 GOTO MENU
 
