@@ -751,7 +751,8 @@ Priority groups are a way to let Paratext know the order in which books or chapt
 
 1. Click the **≡ Project** under Project,
 1. Choose **Project settings** and go to **Define priorities**
-1. Click Select Priority Definition Select a set (e.g. SIL Easy to Difficult set)
+1. Click **Select Priority Definition** 
+1. Select a set (e.g. SIL Easy to Difficult set)
     - *a pre-selected set of books is presented.*
 1. Click **OK**
 
@@ -829,9 +830,7 @@ Tasks can either be assigned individually or in bulk.
     - *All of the stages are approved.*
 
     :::tip
-
-    💡 When you finish doing all the approvals, go back and uncheck bulk progress mode.
-
+When you finish doing all the approvals, go back and uncheck bulk progress mode.
     :::
 
 **6.8 Saving a modified plan as a new base plan**
