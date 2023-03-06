@@ -33,7 +33,8 @@ Summaries are available in English and French. Version 9.2 is complete. Version 
 ----
 
 ### Administrators
-- [Administrator's manual](Admin-Manual/Admin.md)
-- [Quick guide](Admin-Manual/Quick-guide-admn-tasks/)
+- [Admin Quick guide](Admin-Manual/Quick-guide-admn-tasks/)
+- [Administrator's manual](Admin-Manual/TOC.md)
 
+- :book: [Download the **Administrator's Manual en PDF here**](pathname:///img/Ptx-vidsum-en-9.3.pdf) - 
 ----

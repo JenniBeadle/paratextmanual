@@ -25,7 +25,14 @@ Summaries are available in English and French. All version 9.2 video summaries a
 
 - :book: [Download the Summaries PDF here](pathname:///img/Ptx-vidsum-en-9.3.pdf) - in order by tasks
 
-**Latest upload includes revised videos as at 30 December 2022**
+**Latest upload includes** 
+
+Revisions to Glossary (Manual and Video summary) as at 26 February 2023
+
+- Training Manual [9. GL - Glossary](Training-Manual/03-Stage-2/9.GL.md)
+- Video summary [1A.4d Editing Entries](Video-summaries/02-Stage-1/5.Additional/1A.4d.md)
+
+Revised videos as at 30 December 2022
 
 
 - [3.3a Interlineariser - How to Start](Video-summaries/04-Stage-3/3.3-Custom-interlinears/3.3a.md)  

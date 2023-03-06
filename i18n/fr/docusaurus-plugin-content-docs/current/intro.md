@@ -13,7 +13,7 @@ Ce manuel de formation (initialement développé au Cameroun) a été révisé p
 
 ### Paratext [**Manuel de participant**](Training-Manual/Overview) 
 - Il comporte 25 chapitres et plus de 200 pages A4, mais est conçu pour être imprimé sous forme de brochure A5.
--  :book: [Télécharger le Manuel PDF ici](pathname:///img/Ptx-man-fr-9.3.pdf)  
+-  :book: [Télécharger le Manuel PDF ici](./assets/Ptx-man-fr-9.3.pdf) TEST
    - Il a 200+ pages A4 pour imprimer en format A5 livret.
 
 [Manuel d'Administrator](Admin-Manual/Admin.md)
