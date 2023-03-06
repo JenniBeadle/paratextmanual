@@ -1,0 +1,1 @@
+﻿npx docu-pdf http://localhost:3000/next/Admin-Manual/Admin --coverPath="cover-man-en-9.2.html"  --contentSelector="article" --pageSize="A5" --outputPath="Ptx-admman-a5-en-LH.pdf" --disableTOC --headerTemplate="<footer />" --pdfMargin="40,40,80,40"

@@ -3,8 +3,7 @@ title: Intro - Quick Guide to Administrator tasks
 ---
 
 :::danger 
-All GIF/videos need to be Updated  
-:::
+All GIF/videos need to be Updated :::
 
 There are a number of tasks or settings that can only be done by a user with Administrator's role. This page has a summary of common tasks. For more detail see the [Administrator's manual](Admin.md)
 

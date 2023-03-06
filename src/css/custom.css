@@ -79,7 +79,7 @@
 
     body {
       line-height: 1.2;
-      font-size: 100% !important;
+      font-size: 90% !important;
       margin-top: 1.5cm !important; 
       margin-left: 2cm !important;
       margin-bottom: 2cm !important; 
@@ -87,12 +87,12 @@
     }
 
     :not(h3):not(h3):not(h2) + .theme-admonition {
-      font-size: 100%;
+      font-size: 90%;
       break-inside: avoid;
     } 
 
     .theme-admonition {
-      font-size: 100%;
+      font-size: 90%;
       width:auto !important;
       background-color: transparent;
       border-right-width: 2px;
@@ -212,7 +212,7 @@
       -webkit-break-before: avoid-page;
       break-before: avoid-page !important;
       orphans: 2;
-      font-size: 100% !important;
+      font-size: 90% !important;
       /* border: 1.5px solid rgb(70, 70, 70); */
       margin-left: 0px; 
       padding-left: 20px;
@@ -264,14 +264,14 @@
     }
     
     div[class^='admonitionHeading']  {
-      font-size: 90%;
+      font-size: 85%;
       text-align: left;
       margin-top: -2px;
       margin-bottom: 0px;
     }
 
     .theme-admonition {
-      font-size: 95%;
+      font-size: 85%;
       padding: 5px;
     } 
 
