@@ -50,9 +50,9 @@ const config = {
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
         },
-    theme: {
+/**    theme: {
           customCss: require.resolve('./src/css/custom.css'),
-        },
+        },*/
         }),
     ],
   ],
