@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stage 1 – Drafting
 ---
 **Introduction**  
