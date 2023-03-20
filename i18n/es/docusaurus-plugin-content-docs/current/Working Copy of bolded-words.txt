@@ -1,0 +1,310 @@
+﻿(pathname:///img/CombinedNTMapBiblicalTerms.xml): and once downloaded, the file should be copied into "My Paratext 9 Projects" ::: 1.  Click in your Abbreviations
+Add
+Add +
+Add to Project Biblical Terms
+Add to project biblical terms for
+Add word parse
+Additional glosses
+Administrator
+Advanced
+All tasks
+Approve by Set or Individually
+Approve glosses
+Approve Passages individually
+Approve Sets of Parallels
+Approve spelling of common words
+Assign to
+Assigned to
+Assignments and progress
+Assignments and Progress…
+Back Translation
+Based on
+Basic checks
+Before you start
+Bible modules
+Bible reference
+Biblical Terms
+Biblical terms consistent
+Biblical Terms Rendering
+Biblical Terms Renderings
+Biblical Terms Tool
+Biblical terms…
+black
+blue link
+book name
+Book names
+Booklet
+Books
+Browse
+Browse to find the image file
+Cancel
+Capitalization
+capitals
+caption
+change
+Changed Text
+Changes in Paratext 9
+chapter markers
+Chapter/verse numbers
+Character inventory
+Characters
+Check
+Check Flag all quotes near other errors [8]
+Checking inventories
+Checklists
+Checks
+Choose…
+click
+-color
+columns
+Command
+comparative text
+Comparative texts
+Compare Versions
+Completed
+correct
+Create
+Create a folder of images to search
+Create a study Bible
+Create Book(s)
+current book
+Current Verse(s)
+delete
+Delete layout
+deleted
+description
+desktop
+Dictionaries
+Display spelling
+Download
+Edit
+End
+End the session normally
+End/Leave Live session
+Enhanced Resources
+enlarge the window
+Enter
+Enter the translation
+Exchange all files
+Export as HTML
+Export Draft PDF
+Figure
+File
+File Explorer
+Find
+Find Incorrectly Joined or Split Words
+Find Similar Words
+Finishing
+Footnote
+For each module
+For more help
+French
+GLO
+Glossary
+green
+grey
+Hide
+Hide matches
+Highlight Invalid Characters
+History
+Home
+illustrations
+Illustrations - English
+Images
+incorrect
+Insert
+Internet (primary)
+Internet (secondary)
+Internet Server
+Introduce yourself
+Introduction
+Invalid
+is dangerous
+isolated
+issues
+Layout
+Link words
+main menu
+Mark a point in project history
+Mark All Verses in Chapter as Finished
+Markers
+markers check
+Markers followed by a lower case letter
+Markers Inventory
+Markers Missing Final Sentence Punctuation
+menu
+mirror layout on odd and even pages
+Mixed Capitalization
+Modify text collection
+More items available
+Multiple
+My Paratext 8 Projects
+My tasks
+New filter
+New Project
+Next Unapproved Verse
+No
+No issues
+None
+not
+Note
+Notes
+Notes list
+Number settings
+Numbers
+OK
+on by default
+Open
+Open \> Enhanced resources
+Open \> Source language text
+Open and arrange the windows
+Open as
+Open Project interlinearizer
+Open projects and resources to understand the text before translating
+Open text collection
+Options
+Options…
+OR
+Parallel passages
+Paratext
+Paratext ≡ menu
+Paratext Live
+pencil
+PgDn
+PgUp
+Pictures \> Illustrations - English
+Portrait
+Postpone
+Print
+Print draft
+PrintDraft
+Printer Properties
+Progress chart
+Progress charts…
+Project
+Project Health Report…
+Project progress
+Project properties
+Project Setting
+Project settings
+Proper names
+Punctuation
+Punctuation Followed by a Lower Case letter
+Punctuation Inventory
+Quick reference
+Quotation rules
+Quotations
+Quoted text
+References
+RegEx Pal
+Rendering Description
+repeated words
+Repeated words inventory:
+Rerun
+Resolve
+Review
+Right arrow button
+rows
+Run Basic Checks
+Running header
+S
+Save
+Save all
+Save current layout
+saved text collection
+Scripture reference settings
+Search
+search word
+Select Biblical terms list
+Select different server
+Select range
+Send to
+Send/Receive
+Send/Receive project(s
+Send/Receive projects
+Send/Receive this project
+Settings
+Setup
+Setup required
+Shift
+Sort on terms notes
+Source Language Texts
+spaces
+Spell check \>
+Spell Check \> All checks
+Spell Check Current Book
+Stage 2: Team checking
+Stage 3: Prepare for a consultant check
+Stage 4: Consultant Check
+Stage 5: Community testing
+Stage 6: Finalising for publication
+Start
+Start Paratext 9
+Start Session
+Start/Join session
+Study Bible Additions project
+suggested
+Synchronizing
+Tab
+Task/Check
+Term
+Text collection panel
+Tools
+Try various searches
+two sided
+UN
+underlined
+Unmatched pairs of punctuation
+USB drive
+Using notes
+Valid
+Verification
+verse reference
+View
+View and correct errors
+View Biblical Terms
+wait
+What are we going to do?
+What are you going to do?
+What we are going to do:
+What will you do?
+What you are going to do
+What you will do
+Where are you in the process?
+Why is this important?
+Why this is important
+Why this is important?
+Window
+word final
+word initial
+Word List
+word medial
+Word or Phrase
+Word/LibreOffice
+Wordlist
+Exchange all files
+Unmatched pairs of punctuation
+…issues
+A Concise Greek-English Dictionary of the New Testament
+Adapt Names
+Animals in the Bible
+back translation
+Backslash
+based on
+Character
+Create merged publication project
+Enter
+Ignore all diacritics when comparing words
+issues
+Merged publication project
+My Paratext 9 Projects
+Note
+Paragraph
+Plants and Trees in the Bible
+Setup required
+Standard
+Start session
+Trilingual Hebrew-English Lexicon of the Old Testament
+Wait to join
+What symbols can occur in status checkboxes in a back translation?
+Word or Phrase
