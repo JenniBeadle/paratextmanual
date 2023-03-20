@@ -7,8 +7,8 @@ The sixth stage (SIL) [or fourth stage UBS], of a translation project is the fin
 
 Los módulos siguientes le ayudarán en esta etapa:
 
-23. [**PP: Parallel Passages**](./23.PP.md)
-24. [**FFP: Finalising for Publication**](./24.FFP.md)
+23. [**PP - Parallel Passages**](./23.PP.md)
+24. [**FFP - Finalising for Publication**](./24.FFP.md)
 25. [**Create a study Bible**](./25.StudyBibles.md)
 
 
