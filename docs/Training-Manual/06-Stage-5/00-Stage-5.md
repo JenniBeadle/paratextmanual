@@ -6,5 +6,5 @@ The fifth stage of an SIL translation project (or third stage of UBS) is the rev
 
 The following modules will help you in this stage:
 
-21. [**PPR: Progress report**](21.PPR.md)  
-22. [**BTR: Biblical key terms report**](22.BTR.md)
+21. [**PPR - Progress report**](21.PPR.md)  
+22. [**BTR - Biblical key terms report**](22.BTR.md)
