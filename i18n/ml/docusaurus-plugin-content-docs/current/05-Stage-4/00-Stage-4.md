@@ -7,7 +7,7 @@ The fourth stage of an SIL translation project is the consultant visit. You will
 
 Most of the tasks in this stage have been covered in previous modules.
 
-The following modules will help you in this stage:
+Los módulos siguientes le ayudarán en esta etapa:
 
 20. [**CT - CollaborationTools**](20.Collaboration-tools.md)
 
