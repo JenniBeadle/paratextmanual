@@ -1,5 +1,5 @@
 ---
-title: Fase 1 - Redacción
+title: Etapa 1 - Borrador
 ---
 
 **Introducción**  
