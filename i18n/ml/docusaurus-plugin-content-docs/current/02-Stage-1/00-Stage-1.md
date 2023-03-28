@@ -1,13 +1,13 @@
 ---
-title: Fase 1 - Redacción
+title: Stage 1 – Drafting
 ---
 
-**Introducción**  
-Un proyecto de traducción consta de varias etapas. En esta primera fase utilizará muchos de los recursos para asegurarse de que comprende el texto original, después redactará y tecleará el texto de la traducción junto con otros materiales y también comenzará las comprobaciones preliminares.
+**Introduction**  
+There are several stages in a translation project. In this first stage you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.
 
-Los módulos siguientes le ayudarán en esta etapa:
-2. [**OD - Organizar el escritorio**](2.OD.md)
-3. [**PP1 - Asignaciones y Progreso**](3.PP1.md)
-4. [**KD - Teclear el borrador**](4.KD.md)
-5. [**BC1 - Verificaciones básicas**](5.BC1.md)
-6. [**PP2 - Asignaciones y Progreso**](6.PP2.md)
+The following modules will help you in this stage:
+2. [**OD – Organising your desktop**](2.OD.md)
+3. [**PP1 – Project plan and progress**](3.PP1.md)
+4. [**KD – Keyboarding your draft**](4.KD.md)
+5. [**BC1 – Basic checks**](5.BC1.md)
+6. [**PP2 – Project progress**](6.PP2.md)
