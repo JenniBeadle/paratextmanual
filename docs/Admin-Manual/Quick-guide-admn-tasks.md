@@ -3,10 +3,12 @@ title: Quick Guide to Administrator tasks
 sidebar_position: 2
 ---
 
+
+
 There are a number of tasks or settings covered in the training manual and videos that can only be done by a user with Administrator's role. This page has a summary of common tasks. For more detail see the [Administrator's manual.](Admin.md)
 
 
-## **Add a project plan**
+## Add a project plan
 
 Several videos/chapters of the manual (see below) require an administrator to have already added a project plan.
 
@@ -33,7 +35,7 @@ Several videos/chapters of the manual (see below) require an administrator to ha
 
 
 
-## **Add users**
+## Add users
 
 ### How to add users
 1. **≡ Tab** under Project, **Project settings**,
