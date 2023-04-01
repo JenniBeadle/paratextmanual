@@ -7,7 +7,7 @@ The page numbers refer to the [PDF](pathname:///img/Ptx-adminman-en-next.pdf).
   
 ## Quick Guide 
 
-- [**Add a project plan**](Quick-guide-admn-tasks#add-a-project-plan) ... *p.4*  
+- [**Add a project plan**](Quick-guide-admn-tasks#add-a-project-plan.md) ... *p.4*  
 - [**Add users**](Quick-guide-admn-tasks#add-users) ... *p.5*  
 - [**Create Back Translation projects**](Quick-guide-admn-tasks#create-back-translation-projects)  ... *p.5*
 - [**Select/Associate the List of Biblical Terms**](Quick-guide-admn-tasks#selectassociate-the-list-of-biblical-terms) ... *p.6*  
