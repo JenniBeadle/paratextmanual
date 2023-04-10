@@ -1,0 +1,10 @@
+﻿https://manual.paratext.org/category/introduction
+https://manual.paratext.org/category/windows-and-navigation
+https://manual.paratext.org/category/project-sharing
+https://manual.paratext.org/category/enhanced-resources
+https://manual.paratext.org/category/stage-1-drafting
+https://manual.paratext.org/category/stage-2-team-check
+https://manual.paratext.org/category/stage-3-prepare-for-consultant-check
+https://manual.paratext.org/category/stage-4-consultant-check
+https://manual.paratext.org/category/stage-5-communityexternal-review
+https://manual.paratext.org/category/stage-6-finalising-for-publication

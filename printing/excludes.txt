@@ -1,0 +1,10 @@
+excludes.txt
+excludesENvid-a.txt
+excludesENvid-b.txt
+excludesENvid.txt
+excludesENvid92.txt
+excludesFRvid-9.2.txt
+excludesFRvid-a.txt
+excludesFRvid.txt
+excludesFRvid2.txt
+excludesFRvid92.txt
