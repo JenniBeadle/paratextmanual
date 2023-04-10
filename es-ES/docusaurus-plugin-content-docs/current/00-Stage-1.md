@@ -3,7 +3,7 @@ title: Etapa 1 - Borrador
 ---
 
 **Introducción**  
-Un proyecto de traducción consta de varias etapas. En esta primera fase utilizará muchos de los recursos para asegurarse de que comprende el texto original, después redactará y tecleará el texto de la traducción junto con otros materiales y también comenzará las comprobaciones preliminares.
+Un proyecto de traducción consta de varias etapas. En esta primera etapa utilizará muchos de los recursos para asegurarse de que comprende el texto original, después redactará y tecleará el texto de la traducción junto con otros materiales y también comenzará las comprobaciones preliminares.
 
 Los módulos siguientes le ayudarán en esta etapa:
 2. [**OD - Organizar el escritorio**](2.OD.md)
