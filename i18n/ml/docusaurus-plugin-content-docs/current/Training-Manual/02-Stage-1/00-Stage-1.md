@@ -1,12 +1,13 @@
 ---
-title: Stage 1 – Drafting
+title: ഒന്നാം പടി — കരട് തയ്യാറാക്കൽ
 ---
-**Introduction**  
-There are several stages in a translation project. In this first stage you will use many of the resources to ensure that you understand the source text, then you will draft and keyboard the text of the translation along with other materials and also begin the preliminary checks.
 
-The following modules will help you in this stage:  
-2. [**OD – Organising your desktop**](2.OD.md)  
-3. [**PP1 – Project plan and progress**](3.PP1.md)   
-4. [**KD – Keyboarding your draft**](4.KD.md)  
-5. [**BC1 – Basic checks**](5.BC1.md)  
-6. [**PP2 – Project progress**](6.PP2.md)
+**ആമുഖം**  
+ഒരു പരിഭാഷാ ഉദ്യമത്തിന് അതിൻ്റെ ഫലപ്രാപ്തിയിലേക്കെത്താൻ പല പടികൾ കടക്കേണ്ടതായുണ്ട്. താങ്കൾ പരിഭാഷപ്പെടുത്താനായി ഉദ്ദേശിക്കുന്ന ഭാഗത്തിൻ്റെ അർത്ഥം ലഭ്യമായ എല്ലാ സഹായഗ്രന്ഥങ്ങളും പരിശോധിച്ച് വ്യക്തമായി മനസിലാക്കിയശേഷം ഒരു കരട് പരിഭാഷ തയാറാക്കി, മറ്റു അനുബന്ധരേഖകളും ചേർത്ത് റ്റൈപ്പ് ചെയ്യുകയും, തുടർന്ന് അതിൻ്റെ പ്രാഥമിക പരിശോധന നടത്തുകയുമെന്നതാണ് ആദ്യപടി.
+
+ഇവിടെ താഴെക്കൊടുത്തിരിക്കുന്ന പാഠങ്ങൾ അതിനായി താങ്കളെ സഹായിക്കും:
+2. [**OD — ഡെസ്ക്റ്റോപ്പ് സജ്ജമാക്കുക**](2.OD.md)
+3. [**PP1 — പ്രൊജക്റ്റ് പ്ലാനും പുരോഗതിയും**](3.PP1.md)
+4. [**KD — കരട് റ്റൈപ്പ് ചെയ്യുവാൻ**](4.KD.md)
+5. [**BC1 — പ്രാഥമിക പരിശോധനകൾ**](5.BC1.md)
+6. [**PP2 — പ്രൊജക്റ്റ് പുരോഗതി**](6.PP2.md)
