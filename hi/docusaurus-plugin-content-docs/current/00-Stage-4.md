@@ -1,5 +1,5 @@
 ---
-title: Stage 4 - Consultant Visit
+title: Stage 4 - Consultant Visit Overview
 ---
 
 **Introduction**  
@@ -9,7 +9,7 @@ Most of the tasks in this stage have been covered in previous modules.
 
 The following modules will help you in this stage:
 
-20. [**CT - CollaborationTools**](20.Collaboration-tools.md)
+20. [**CollaborationTools**](20.Collaboration-tools.md)
 
 See also modules in Stages one to three. In particular,  
 Stage 3 - 16. **BT1 – Draft a Back Translation**    
