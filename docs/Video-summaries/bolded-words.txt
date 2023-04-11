@@ -1,31 +1,6 @@
-﻿-
-!
-*All references
-: \\io2
-?
-\\
-\\bk
-\\h
-\\io1
-\\io3
-\\ior
-\\iot
-\\mt
-\\qt
-\\toc1
-\\toc2
-\\toc3
-\\xt
-^
 “Show all chapters”
 “Show Resources only in languages that match…”
-+
-≡
 ≡ menu
-≡.
-⌄
-1
-100
 Accept
 accepted
 Access notes from Assignments and Progress
