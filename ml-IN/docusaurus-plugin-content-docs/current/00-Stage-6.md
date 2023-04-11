@@ -1,5 +1,5 @@
 ---
-title: Stage 6 / Stage 4 UBS -- Finalising for publication
+title: Stage 6 / Stage 4 UBS -- Finalising for publication Overview
 ---
 
 **Introduction**  
@@ -7,8 +7,6 @@ The sixth stage (SIL) [or fourth stage UBS], of a translation project is the fin
 
 ഇവിടെ താഴെക്കൊടുത്തിരിക്കുന്ന പാഠങ്ങൾ അതിനായി താങ്കളെ സഹായിക്കും:
 
-23. [**PP - Parallel Passages**](./23.PP.md)
-24. [**FFP - Finalising for Publication**](./24.FFP.md)
+23. [**Parallel Passages**](./23.PP.md)
+24. [**Finalising for Publication**](./24.FFP.md)
 25. [**Create a study Bible**](./25.StudyBibles.md)
-
-
