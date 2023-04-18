@@ -1,4 +1,4 @@
----
+﻿---
 title: What's new - Paratext 9.3
 ---
 
