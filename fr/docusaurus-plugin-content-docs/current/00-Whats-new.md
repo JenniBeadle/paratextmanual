@@ -1,5 +1,5 @@
----
-title: What's new - Paratext 9.3
+﻿---
+title: Nouveautés - Paratext 9.3
 ---
 
 ### Paratext Live
