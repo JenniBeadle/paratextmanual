@@ -1,5 +1,5 @@
 ﻿---
-title: Stage 1 – Drafting Overview
+title: Etapa 1 - Borrador
 ---
 
 **Introducción**  
@@ -9,5 +9,5 @@ Los módulos siguientes le ayudarán en esta etapa:
 2. [**Organizando su escritorio**](2.OD.md)
 3. [**Plan de proyecto y progreso**](3.PP1.md)
 4. [**Tecleando su borrador**](4.KD.md)
-5. [**Basic checks**](5.BC1.md)
+5. [**Verificaciones básicas**](5.BC1.md)
 6. [**Progreso del proyecto**](6.PP2.md)  
