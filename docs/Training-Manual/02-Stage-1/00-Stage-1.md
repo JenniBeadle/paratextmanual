@@ -6,7 +6,7 @@ There are several stages in a translation project. In this first stage you will 
 
 The following modules will help you in this stage:  
 2. [**Organising your desktop**](2.OD.md)  
-3. [**Project plan and progress**](3.PP1.md)   
+3. [**Assignments and progress**](3.PP1.md)   
 4. [**Keyboarding your draft**](4.KD.md)  
 5. [**Basic checks**](5.BC1.md)  
 6. [**Project progress**](6.PP2.md)  

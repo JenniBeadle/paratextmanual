@@ -11,7 +11,7 @@ The training manual follows the tasks in the SIL Compact Plan. The page numbers 
 ### Stage 1 Drafting
 
 2\. [Organising your desktop](02-Stage-1/2.OD.md) ... *p.17*   
-3\. [Project plan and progress](02-Stage-1/3.PP1.md) ... *p.29*  
+3\. [Assignments and progress](02-Stage-1/3.PP1.md) ... *p.29*  
 4\. [Keyboarding your draft](02-Stage-1/4.KD.md) ... *p.35*  
 5\. [Basic checks](02-Stage-1/5.BC1.md) ... *p.45*   
 6\. [Project progress](02-Stage-1/6.PP2.md) ... *p.49*

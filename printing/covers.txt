@@ -1,0 +1,9 @@
+cover-man-en-9.2.html
+cover-man-en.html
+Cover-man-fr-9.2.html
+Cover-man-fr.html
+cover-vidsum-en-9.2.html
+cover-vidsum-en.html
+Cover-vidsum-fr-9.2.html
+Cover-vidsum-fr.html
+covers.txt

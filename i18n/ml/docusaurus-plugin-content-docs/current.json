@@ -36,7 +36,43 @@
     "description": "The label for category Stage-6 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Appendix": {
-    "message": "Appendix",
+    "message": "അടുത്തത്",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual": {
+    "message": "പാരാടെക്സ്റ്റ് പരിശീലന മാനുവൽ",
+    "description": "The label for category Paratext Training Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual.link.generated-index.description": {
+    "message": "പാരാടെക്സ്റ്റ് പരിശീലന മാനുവൽ",
+    "description": "The generated-index page description for category Paratext Training Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-1": {
+    "message": "ഘട്ടം-1",
+    "description": "The label for category Stage-1 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-2": {
+    "message": "ഘട്ടം-2",
+    "description": "The label for category Stage-2 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-3": {
+    "message": "ഘട്ടം-3",
+    "description": "The label for category Stage-3 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-4": {
+    "message": "ഘട്ടം-4",
+    "description": "The label for category Stage-4 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-5": {
+    "message": "ഘട്ടം-5",
+    "description": "The label for category Stage-5 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-6": {
+    "message": "ഘട്ടം-6",
+    "description": "The label for category Stage-6 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Appendix": {
+    "message": "അനുബന്ധം",
     "description": "The label for category Appendix in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Paratext Video Summaries": {
@@ -48,7 +84,7 @@
     "description": "The generated-index page description for category Paratext Video Summaries in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Introduction": {
-    "message": "Introduction",
+    "message": "ആമുഖം",
     "description": "The label for category Introduction in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Windows and Navigation": {
