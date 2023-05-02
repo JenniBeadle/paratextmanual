@@ -1,5 +1,41 @@
 {
   "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual": {
+    "message": "Paratext Training Manual",
+    "description": "The label for category Paratext Training Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual.link.generated-index.description": {
+    "message": "     ",
+    "description": "The generated-index page description for category Paratext Training Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-1": {
+    "message": "Stage-1",
+    "description": "The label for category Stage-1 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-2": {
+    "message": "Stage-2",
+    "description": "The label for category Stage-2 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-3": {
+    "message": "Stage-3",
+    "description": "The label for category Stage-3 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-4": {
+    "message": "Stage-4",
+    "description": "The label for category Stage-4 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-5": {
+    "message": "Stage-5",
+    "description": "The label for category Stage-5 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-6": {
+    "message": "Stage-6",
+    "description": "The label for category Stage-6 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Appendix": {
     "message": "അടുത്തത്",
     "description": "The label for version current"
   },
