@@ -103,5 +103,8 @@ jobs:
         run: yarn build
       - name: Build Docusaurus instance
         run: yarn build
-
-ADD DEPLOY
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
