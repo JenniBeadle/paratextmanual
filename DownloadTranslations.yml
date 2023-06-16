@@ -1,0 +1,24 @@
+name: Crowdin Action download translations
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  crowdin:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Crowdin pull
+        uses: crowdin/github-action@v1
+        with:
+          upload_sources: false
+          upload_translations: false
+          download_translations: true
+          create_pull_request: false
+          push_translations: false
+        env:
+          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
