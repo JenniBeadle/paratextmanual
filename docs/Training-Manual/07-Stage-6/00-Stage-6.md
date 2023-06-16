@@ -1,5 +1,5 @@
 ---
-title: Stage 6 / Stage 4 UBS -- Finalising for publication Overview
+title: Stage 6 / Stage 4 UBS - Finalising for publication Overview
 ---
 **Introduction**  
 The sixth stage (SIL) [or fourth stage UBS], of a translation project is the finalisation for publication. This involves redoing many of the previous checks.

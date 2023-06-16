@@ -1,0 +1,9 @@
+project_id: '574887'
+api_token: 4c921b6ef53a1eb8cb68d17729544e37e548df2863bac484bf8ea2a4ded61f7c516f9cbff58db0b4
+preserve_hierarchy: 1
+"files": [
+  {
+    "source": "/docs/Training-Manual/**/*",                                       #source files filter
+    "translation": "/i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%"        #where translations are stored
+  }
+]

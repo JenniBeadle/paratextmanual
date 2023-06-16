@@ -1,0 +1,126 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual": {
+    "message": "Paratext Training Manual",
+    "description": "The label for category Paratext Training Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual.link.generated-index.description": {
+    "message": "     ",
+    "description": "The generated-index page description for category Paratext Training Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 1 Drafting": {
+    "message": "Stage 1 Drafting",
+    "description": "The label for category Stage 1 Drafting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 2 Team Check": {
+    "message": "Stage 2 Team Check",
+    "description": "The label for category Stage 2 Team Check in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 3 Prepare for Consultant check": {
+    "message": "Stage 3 Prepare for Consultant check",
+    "description": "The label for category Stage 3 Prepare for Consultant check in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 4 Consultant check": {
+    "message": "Stage 4 Consultant check",
+    "description": "The label for category Stage 4 Consultant check in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 5 Community/External Review": {
+    "message": "Stage 5 Community/External Review",
+    "description": "The label for category Stage 5 Community/External Review in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 6 Finalising for Publication": {
+    "message": "Stage 6 Finalising for Publication",
+    "description": "The label for category Stage 6 Finalising for Publication in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Appendix": {
+    "message": "Appendix",
+    "description": "The label for category Appendix in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Video Summaries": {
+    "message": "Paratext Video Summaries",
+    "description": "The label for category Paratext Video Summaries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Video Summaries.link.generated-index.description": {
+    "message": " ",
+    "description": "The generated-index page description for category Paratext Video Summaries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Windows and Navigation": {
+    "message": "Windows and Navigation",
+    "description": "The label for category Windows and Navigation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project sharing": {
+    "message": "Project sharing",
+    "description": "The label for category Project sharing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project sharing.link.generated-index.description": {
+    "message": " ",
+    "description": "The generated-index page description for category Project sharing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Enhanced resources": {
+    "message": "Enhanced resources",
+    "description": "The label for category Enhanced resources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Drafting and Editing": {
+    "message": "Drafting and Editing",
+    "description": "The label for category Drafting and Editing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.USFM": {
+    "message": "USFM",
+    "description": "The label for category USFM in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Basic Checks": {
+    "message": "Basic Checks",
+    "description": "The label for category Basic Checks in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Additional": {
+    "message": "Additional",
+    "description": "The label for category Additional in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spell check and Wordlist": {
+    "message": "Spell check and Wordlist",
+    "description": "The label for category Spell check and Wordlist in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Biblical Terms": {
+    "message": "Biblical Terms",
+    "description": "The label for category Biblical Terms in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project Notes": {
+    "message": "Project Notes",
+    "description": "The label for category Project Notes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Back Translation": {
+    "message": "Back Translation",
+    "description": "The label for category Back Translation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Custom interlinears": {
+    "message": "Custom interlinears",
+    "description": "The label for category Custom interlinears in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.More Basic Checks": {
+    "message": "More Basic Checks",
+    "description": "The label for category More Basic Checks in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrator's Manual": {
+    "message": "Administrator's Manual",
+    "description": "The label for category Administrator's Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrator's Manual.link.generated-index.description": {
+    "message": "     ",
+    "description": "The generated-index page description for category Administrator's Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrator Videos": {
+    "message": "Administrator Videos",
+    "description": "The label for category Administrator Videos in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrator Videos.link.generated-index.description": {
+    "message": "     ",
+    "description": "The generated-index page description for category Administrator Videos in sidebar tutorialSidebar"
+  }
+}

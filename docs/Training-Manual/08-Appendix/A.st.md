@@ -1,7 +1,10 @@
 ---
-title: A Special text
+title: A. Special texts
 ---
-The following passage often have special formatting (by adding other USFM codes).
+The following passages often have special formatting (by adding other USFM codes).
+:::tip
+Poetic form usually uses \q1 and \q2. Small caps are marked with \sc … \sc*.
+:::
 
 -  Matt 1.2-16: The genealogy, which is not normal prose. Often set in a special poetic form so the fathers line up and the form indicates this is a special list (with comments).
 -  Matt 5.3-10: The beatitudes. Often set in poetic form.

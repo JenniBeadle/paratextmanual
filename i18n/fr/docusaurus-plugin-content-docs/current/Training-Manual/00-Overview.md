@@ -1,4 +1,4 @@
-﻿---
+---
 lang: fr
 title: Vue d'ensemble du manuel de formation
 ---
