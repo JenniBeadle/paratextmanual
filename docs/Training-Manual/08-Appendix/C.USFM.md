@@ -72,7 +72,7 @@ pagination_next: null
 | \\fr  | Footnote - Reference                        | Character |
 | \\ft  | Footnote - Text                             | Character |
 | \\fk  | Footnote - Keyword                          | Character |
-| \\fq  | Footnote - Quotation or Alternate Rendering | Character |
+| \\fq  | Footnote - Quotation from the text          | Character |
 | \\fqa | Footnote - Alternate Translation Rendering  | Character |
 | \\f\* | Footnote End                                | Note      |
 

@@ -146,5 +146,9 @@
   "sidebar.tutorialSidebar.category.Administrator Videos.link.generated-index.description": {
     "message": "     ",
     "description": "The generated-index page description for category Administrator Videos in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 2 Team Check": {
+    "message": "Stage 2 Team Check",
+    "description": "The label for category Stage 2 Team Check in sidebar tutorialSidebar"
   }
 }
