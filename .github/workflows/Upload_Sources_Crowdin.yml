@@ -2,6 +2,7 @@ name: Crowdin Action Upload sources
 
 on:
   push:
+    paths: [ 'docs/Training-Manual/**' ]
     branches: [ main ]
 
 jobs:
