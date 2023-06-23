@@ -6,12 +6,12 @@ The second stage of a translation project involves checking by the team. In this
 
 The following modules will help you in this stage:
 
-7.  [**Proper Names**](7.PN.md)
-8.  [**Spell Checking**](8.SP.md)
-9.  [**Glossary**](9.GL.md)
-10.  [**A 4-Step process for consistent Biblical Terms**](10.BT.md)
-11.  [**Compare a word or phrase**](11.MP.md)
-12.  [**Basic Checks**](12.BC2.md)
-13.  [**Formatting checks**](13.FC.md)
-14.  [**Printing Drafts**](14.PD.md)
-15.  [**Using Notes**](15.UN.md)
+~~7.  [**Proper Names**]~~(7.PN.md)  
+8.  [**Spell Checking**](8.SP.md)  
+9.  [**Glossary**](9.GL.md)  
+10.  [**A 4-Step process for consistent Biblical Terms**](10.BT.md)  
+11.  [**Compare a word or phrase**](11.MP.md)  
+12.  [**Basic Checks**](12.BC2.md)  
+13.  [**Formatting checks**](13.FC.md)  
+14.  [**Printing Drafts**](14.PD.md) 
+15.  [**Using Notes**](15.UN.md)  
