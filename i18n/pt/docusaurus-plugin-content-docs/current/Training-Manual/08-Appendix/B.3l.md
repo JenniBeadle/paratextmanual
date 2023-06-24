@@ -1,5 +1,5 @@
 ---
-title: B Abreviações de Duas/Três Letras
+title: B. Abreviações de Duas/Três Letras
 ---
 
 ### Antigo Testamento
