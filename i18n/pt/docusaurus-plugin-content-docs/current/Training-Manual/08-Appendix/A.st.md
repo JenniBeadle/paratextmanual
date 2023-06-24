@@ -1,5 +1,5 @@
 ---
-title: Um texto especial
+title: A. Um texto especial
 ---
 
 O seguinte trecho frequentemente possui formatação especial (por meio da adição de outros códigos USFM).

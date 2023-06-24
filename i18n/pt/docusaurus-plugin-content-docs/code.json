@@ -259,10 +259,10 @@
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "Nenhum documento foi encontrado",
+    "message": "Nenhum documento foi encontrado"
   },
   "theme.SearchBar.seeAll": {
-    "message": "Ver todos os resultados",
+    "message": "Ver todos os resultados"
   },
   "theme.SearchBar.label": {
     "message": "Pesquisar",
