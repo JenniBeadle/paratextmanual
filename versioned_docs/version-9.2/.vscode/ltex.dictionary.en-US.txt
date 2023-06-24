@@ -1,9 +1,0 @@
-Paratext
-Keyman
-titlebar
-Tchad
-USFM
-wordlist
-Wordlist
-untick
-GLO

@@ -1,0 +1,154 @@
+{
+  "version.label": {
+    "message": "Próxima",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual": {
+    "message": "Manual de Treinamento do Paratext",
+    "description": "The label for category Paratext Training Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Training Manual.link.generated-index.description": {
+    "message": "     ",
+    "description": "The generated-index page description for category Paratext Training Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-1": {
+    "message": "Estágio 1",
+    "description": "The label for category Stage-1 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-2": {
+    "message": "Estágio 2",
+    "description": "The label for category Stage-2 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-3": {
+    "message": "Estágio 3",
+    "description": "The label for category Stage-3 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-4": {
+    "message": "Estágio 4",
+    "description": "The label for category Stage-4 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-5": {
+    "message": "Estágio 5",
+    "description": "The label for category Stage-5 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage-6": {
+    "message": "Estágio 6",
+    "description": "The label for category Stage-6 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Appendix": {
+    "message": "Apêndice",
+    "description": "The label for category Appendix in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Video Summaries": {
+    "message": "Resumos em Vídeo do Paratext",
+    "description": "The label for category Paratext Video Summaries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Paratext Video Summaries.link.generated-index.description": {
+    "message": " ",
+    "description": "The generated-index page description for category Paratext Video Summaries in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Introduction": {
+    "message": "Introdução",
+    "description": "The label for category Introduction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Windows and Navigation": {
+    "message": "Janelas e Navegação",
+    "description": "The label for category Windows and Navigation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project sharing": {
+    "message": "Compartilhar Projeto",
+    "description": "The label for category Project sharing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project sharing.link.generated-index.description": {
+    "message": " ",
+    "description": "The generated-index page description for category Project sharing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Enhanced resources": {
+    "message": "Recursos Avançados",
+    "description": "The label for category Enhanced resources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 1 Drafting": {
+    "message": "Estágio 1 Rascunho",
+    "description": "The label for category Stage 1 Drafting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Drafting and Editing": {
+    "message": "Rascunho e Edição",
+    "description": "The label for category Drafting and Editing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.USFM": {
+    "message": "USFM",
+    "description": "The label for category USFM in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Basic Checks": {
+    "message": "Verificações Básicas",
+    "description": "The label for category Basic Checks in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Additional": {
+    "message": "Adicional",
+    "description": "The label for category Additional in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 2 Team check": {
+    "message": "Estágio 2 Checagem com a Equipe",
+    "description": "The label for category Stage 2 Team check in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spell check and Wordlist": {
+    "message": "Verificação Ortográfica e Lista de Palavras",
+    "description": "The label for category Spell check and Wordlist in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Biblical Terms": {
+    "message": "Termos Bíblicos",
+    "description": "The label for category Biblical Terms in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Project Notes": {
+    "message": "Notas do Projeto",
+    "description": "The label for category Project Notes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 3 Prepare for Consultant check": {
+    "message": "Estágio 3 Preparação para Consultoria",
+    "description": "The label for category Stage 3 Prepare for Consultant check in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Back Translation": {
+    "message": "Retrotradução",
+    "description": "The label for category Back Translation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Custom interlinears": {
+    "message": "Interlineares Personalizados",
+    "description": "The label for category Custom interlinears in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.More Basic Checks": {
+    "message": "Mais Verificações Básicas",
+    "description": "The label for category More Basic Checks in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 4 Consultant check": {
+    "message": "Estágio 4 Consultoria",
+    "description": "The label for category Stage 4 Consultant check in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 5 Community/External Review": {
+    "message": "Estágio 5 Revisão Comunitária/Externa",
+    "description": "The label for category Stage 5 Community/External Review in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 6 Finalising for Publication": {
+    "message": "Estágio 6 Finalização para Publicação",
+    "description": "The label for category Stage 6 Finalising for Publication in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrator's Manual": {
+    "message": "Manual do Administrador",
+    "description": "The label for category Administrator's Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrator's Manual.link.generated-index.description": {
+    "message": "     ",
+    "description": "The generated-index page description for category Administrator's Manual in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrator Videos": {
+    "message": "Vídeos do Administrador",
+    "description": "The label for category Administrator Videos in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administrator Videos.link.generated-index.description": {
+    "message": "     ",
+    "description": "The generated-index page description for category Administrator Videos in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 2 Team Check": {
+    "message": "Estágio 2 Checagem com a Equipe",
+    "description": "The label for category Stage 2 Team Check in sidebar tutorialSidebar"
+  }
+}
