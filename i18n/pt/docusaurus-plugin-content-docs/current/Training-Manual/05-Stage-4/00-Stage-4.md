@@ -11,6 +11,6 @@ Os seguintes módulos irão ajudá-lo nesta fase:
 
 20. [**Ferramentas de Colaboração**](20.Collaboration-tools.md)
 
-Veja também os módulos nas Fases um a três. Em particular,
-Fase 3 - 16. **BT1 - Elaborar uma Retrotradução**
+Veja também os módulos nas Fases um a três. Em particular,  
+Fase 3 - 16. **BT1 - Elaborar uma Retrotradução**  
 Fase 3 - 17. **BT2 - Interlinearizar um projeto**
