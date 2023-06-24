@@ -1,4 +1,0 @@
-Paratext
-autohide
-Wordlist
-Mrk
