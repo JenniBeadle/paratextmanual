@@ -1,1 +1,0 @@
-(self.webpackChunkparatextmanual=self.webpackChunkparatextmanual||[]).push([[5525],{15525:()=>{}}]);
