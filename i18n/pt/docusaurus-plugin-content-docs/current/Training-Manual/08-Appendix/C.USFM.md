@@ -47,9 +47,7 @@ pagination_next:
 | \\io2  | Introdução - Nível 2 do Esboço                  | Parágrafo  |
 | \\ip   | Introdução - Parágrafo                           | Parágrafo  |
 | \\im   | Introdução - Parágrafo - sem recuo na primeira linha | Parágrafo  |
-| \\ipq  | Introdução
-
- - Parágrafo - citação do texto         | Parágrafo  |
+| \\ipq  | Introdução - Parágrafo - citação do texto         | Parágrafo  |
 
 ### Marcadores de Referência Cruzada
 
