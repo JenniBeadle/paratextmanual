@@ -1,5 +1,5 @@
 ---
-title: Resources for learning Paratext 
+title: Recursos para aprender Paratext
 sidebar_position: 1
 slug: /
 ---
@@ -8,14 +8,12 @@ slug: /
 
 ----
 
-### What's new - [Paratext 9.x](Training-Manual/00-Whats-new.md)
+### Novidades - [Paratext 9.x](Training-Manual/00-Whats-new.md)
 
 ----
 
-## [DRAFT Paratext Training  Manual](Training-Manual/00-Overview.md)
-This training manual (originally developed in Cameroon) has been revised for version 9.3. This website contains versions 9.2 and 9.3 in both English and French. It follows the six stages of the translation process covering most of the tasks in the SIL compact plan. Modules can be selected for various training courses, or it can also be used as self-study.
+## [RASCUNHO - Manual de Treinamento do Paratext](Training-Manual/00-Overview.md)
+Este manual de treinamento (originalmente desenvolvido em Camarões) foi revisado para a versão 9.3. Este site contém as versões 9.2 e 9.3 em inglês e francês. Ele segue as seis etapas do processo de tradução, abrangendo a maioria das tarefas do plano compacto da SIL. Os módulos podem ser selecionados para diversos cursos de treinamento ou utilizados para estudo individual.
 
-- :book: [Download the PDF version here](pathname:///img/Ptx-man-en-9.3.pdf)  
-  - It has 25 chapters in 200 A5 pages to be printed as a booklet. Or used as an off-line copy.
- 
-
+- :book: [Faça o download da versão em PDF aqui](pathname:///img/Ptx-man-pt-9.3.pdf)  
+  - Possui 25 capítulos em 200 páginas no formato A5, ideal para impressão como um livreto ou para uso offline como cópia física.
