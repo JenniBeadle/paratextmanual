@@ -19,10 +19,6 @@
     "message": "Estágio 1 Rascunho",
     "description": "The label for category Stage 1 Drafting in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Stage 2 Team check": {
-    "message": "Estágio 2 Checagem com a Equipe",
-    "description": "The label for category Stage 2 Team check in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Stage 3 Prepare for Consultant check": {
     "message": "Estágio 3 Preparação para Consultoria",
     "description": "The label for category Stage 3 Prepare for Consultant check in sidebar tutorialSidebar"
@@ -38,5 +34,9 @@
   "sidebar.tutorialSidebar.category.Stage 6 Finalising for Publication": {
     "message": "Estágio 6 Finalização para Publicação",
     "description": "The label for category Stage 6 Finalising for Publication in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stage 2 Team Check": {
+    "message": "Estágio 2 Checagem com a Equipe",
+    "description": "The label for category Stage 2 Team Check in sidebar tutorialSidebar"
   }
 }
