@@ -24,6 +24,7 @@ ECHO 6 - Serve site to check build
 ECHO 7 - Deploy to github
 ECHO 8 - Upgrade Docusaurus to latest 
 ECHO 9 - Clear the cache, build etc 
+ECHO A - View Portugurdr site
 ECHO 0 - EXIT
 ECHO.
 
@@ -39,6 +40,13 @@ IF %M%==7 GOTO DEPLOY
 IF %M%==8 GOTO UPGRADE
 IF %M%==9 GOTO CLEARC
 IF %M%==0 GOTO EOF
+IF %M%==A GOTO PORTUGUESE
+
+:PORTUGUESE
+ECHO Start Portuguese (npm run start -- --locale pt)
+npm run start -- --locale pt
+IF "%X%"== "1" GOTO :EOF
+GOTO MENU
 
 :ENGLISH
 ECHO Start English (npm run start)

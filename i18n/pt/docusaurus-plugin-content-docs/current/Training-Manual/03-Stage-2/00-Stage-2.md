@@ -1,13 +1,18 @@
 ---
-title: Estágio 1 - Visão Geral do Rascunho
+title: Estágio 2 - Visão geral do teste em equipe
 ---
 
 **Introdução**  
-Existem vários estágios em um projeto de tradução. Neste primeiro estágio, você usará muitos dos recursos disponíveis para garantir que compreenda o texto de origem. Em seguida, você irá elaborar e digitar o texto da tradução, juntamente com outros materiais, e também iniciar as verificações preliminares.
+A segunda etapa de um projeto de tradução envolve o teste em equipe. Nesta segunda etapa, você usará diversas ferramentas para garantir que sua tradução esteja consistente. Você revisará seu texto, trabalhará com nomes próprios, termos-chave bíblicos, verificação ortográfica e verificação de formatação. Também imprimirá um rascunho e usará várias anotações: notas do projeto, notas de ortografia, notas de discussão de termos bíblicos para registrar suas perguntas, discussões e decisões.
 
-Os módulos a seguir irão ajudá-lo neste estágio:  
-2. [**Organizando sua área de trabalho**](2.OD.md)  
-3. [**Plano do projeto e progresso**](3.PP1.md)  
-4. [**Digitando seu rascunho**](4.KD.md)  
-5. [**Verificações básicas**](5.BC1.md)  
-6. [**Progresso do projeto**](6.PP2.md)  
+Os módulos a seguir ajudarão você nesta etapa:
+
+7. **Nomes Próprios** ([7.PN.md](7.PN.md))
+8. **Verificação Ortográfica** ([8.SP.md](8.SP.md))
+9. **Glossário** ([9.GL.md](9.GL.md))
+10. **Um processo de 4 etapas para termos bíblicos consistentes** ([10.BT.md](10.BT.md))
+11. **Comparar uma palavra ou frase** ([11.MP.md](11.MP.md))
+12. **Verificações Básicas** ([12.BC2.md](12.BC2.md))
+13. **Verificação de Formatação** ([13.FC.md](13.FC.md))
+14. **Impressão de Rascunhos** ([14.PD.md](14.PD.md))
+15. **Utilizando Anotações** ([15.UN.md](15.UN.md))
