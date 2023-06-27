@@ -24,7 +24,7 @@ ECHO 6 - Serve site to check build
 ECHO 7 - Deploy to github
 ECHO 8 - Upgrade Docusaurus to latest 
 ECHO 9 - Clear the cache, build etc 
-ECHO A - View Portugurdr site
+ECHO A - View Portuguese site
 ECHO 0 - EXIT
 ECHO.
 
