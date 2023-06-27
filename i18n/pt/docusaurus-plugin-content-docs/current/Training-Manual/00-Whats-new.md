@@ -1,4 +1,4 @@
-﻿---
+---
 title: O que há de Novo - Paratext 9.3
 ---
 
@@ -31,6 +31,8 @@ A novidade mais óbvia é a capacidade de **comparar versões**.
 1.   Em **Projeto**, escolha **Comparar Versões**
      - *As alterações nas adições serão exibidas*.
 
+#####
+
 ### Referência bíblica na barra de navegação
 
 No Paratext 9.3, você pode copiar e colar uma referência bíblica na barra de navegação.
@@ -56,19 +58,19 @@ Os nomes devem corresponder aos nomes conforme são vistos nos títulos.
 
 ### Abrir coleção de textos
 
-Há um novo item de menu no **menu principal** ![](./media/open-text-collection-menu-item-2.png)
+Há um novo item de menu no **menu principal**  
+   ![](./media/open-text-collection-menu-item-2.png)
 
 1.  No menu **Paratext ≡**
 1.  Escolha **Abrir coleção de textos**
      -  *Essa janela se parece com o que foi usado em versões anteriores do Paratext*.
 1.  Abra uma coleção de textos previamente **salva** no canto inferior esquerdo
-1.  Você ainda pode abrir uma coleção de textos a partir da
-
- janela **Abrir** também.
+1.  Você ainda pode abrir uma coleção de textos a partir da janela **Abrir** também.
 
 ### Organizar janelas
 
-1.  Organize as janelas em **linhas** e também em **colunas**. ![](./media/arrange-in-rows.png)
+1.  Organize as janelas em **linhas** e também em **colunas**.  
+   ![](./media/arrange-in-rows.png)
 
 :::tip 
 Lembre-se de salvar o seu layout!

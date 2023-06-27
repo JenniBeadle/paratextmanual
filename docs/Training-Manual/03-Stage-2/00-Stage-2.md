@@ -6,7 +6,7 @@ The second stage of a translation project involves checking by the team. In this
 
 The following modules will help you in this stage:
 
-~~7.  [**Proper Names**]~~(7.PN.md)  
+7.  [~~**Proper Names**~~](7.PN.md)  
 8.  [**Spell Checking**](8.SP.md)  
 9.  [**Glossary**](9.GL.md)  
 10.  [**A 4-Step process for consistent Biblical Terms**](10.BT.md)  
