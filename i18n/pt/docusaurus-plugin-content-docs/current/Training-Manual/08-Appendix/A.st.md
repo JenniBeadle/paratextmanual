@@ -25,9 +25,7 @@ O seguinte trecho frequentemente possui formatação especial (por meio da adiç
 -  Lucas 6.24-26: As bem-aventuranças (ais). Frequentemente são apresentadas em forma poética.
 -  Lucas 11.2-4: A oração do Senhor. Frequentemente é apresentada em forma poética.
 -  Lucas 19.38: A saudação a Jesus. Frequentemente é apresentada em forma poética.
--  Lucas 23.38: A inscrição na cruz.
-
- Frequentemente é apresentada em letras maiúsculas pequenas.
+-  Lucas 23.38: A inscrição na cruz. Frequentemente é apresentada em letras maiúsculas pequenas.
 -  João 7.53-8.11: A história da mulher pega em adultério. O título da seção geralmente ocorre antes do versículo 53. Às vezes, embora raramente, é separado por uma linha horizontal antes e depois do texto.
 -  João 12.13: A saudação a Jesus. Frequentemente é apresentada em forma poética.
 -  João 17.1-27: A oração de Jesus. Às vezes, embora raramente, é apresentada em parágrafos com recuo adicional da margem esquerda.
@@ -49,9 +47,7 @@ O seguinte trecho frequentemente possui formatação especial (por meio da adiç
 -  Apocalipse 4.11: Um cântico. Frequentemente é apresentado em forma poética.
 -  Apocalipse 5.9-10, 12, 13: Canções. Frequentemente são apresentadas em forma poética.
 -  Apocalipse 7.5-8: Uma lista. Frequentemente é apresentada em uma forma poética especial.
--  Apocalipse 7.10, 12: Cânticos.
-
- Frequentemente são apresentados em forma poética.
+-  Apocalipse 7.10, 12: Cânticos. Frequentemente são apresentados em forma poética.
 -  Apocalipse 7.15-17: Uma declaração. Às vezes é apresentada em forma poética.
 -  Apocalipse 11.15, 17-18: Cânticos. Frequentemente são apresentados em forma poética.
 -  Apocalipse 12.10-12: Uma declaração. Frequentemente é apresentada em forma poética.

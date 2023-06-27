@@ -25,7 +25,6 @@ pagination_next:
 | \\mt1 | Título - Título Principal - Nível 1       | Parágrafo  |
 | \\mt2 | Título - Título Principal - Nível 2       | Parágrafo  |
 | \\mt3 | Título - Título Principal - Nível 3       | Parágrafo  |
-|         |                                          |            |
 
 ### Marcadores Menos Comuns
 
@@ -34,8 +33,8 @@ pagination_next:
 | \\pc | Parágrafo - Centralizado (para Inscrição) | Parágrafo  |
 | \\nb | Parágrafo - Sem Quebra com Parágrafo Anterior | Parágrafo  |
 | \\li | Item de Lista - Nível 1 - Apenas um Nível | Parágrafo  |
-  
-
+ 
+#####
 
 ### Marcadores de Introdução
 
@@ -58,6 +57,7 @@ pagination_next:
 | \\xt    | Referência Cruzada - Referências de Destino | Caractere  |
 | \\x\* | Fim da Referência Cruzada              | Nota       |
 
+
 ### Marcadores de Figura/Ilustração
 
 | USFM        | Descrição                              | Estilo |
@@ -76,6 +76,7 @@ pagination_next:
 | \\fq    | Nota de Rodapé - Citação ou Renderização Alternativa | Caractere  |
 | \\fqa   | Nota de Rodapé - Renderização Alternativa     | Caractere  |
 | \\f\* | Fim da Nota de Rodapé                        | Nota       |
+
 
 ### Glossário
 
