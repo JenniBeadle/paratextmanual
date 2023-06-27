@@ -4,7 +4,13 @@ on:
   push:
     paths: [ 'docs/Training-Manual/**' ]
     branches: [ main ]
-
+    
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: "Log level"
+        required: false
+        default: "warning"
 jobs:
   crowdin-upload:
     runs-on: ubuntu-latest
