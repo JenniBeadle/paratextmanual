@@ -67,6 +67,7 @@ Há um novo item de menu no **menu principal**
 1.  Abra uma coleção de textos previamente **salva** no canto inferior esquerdo
 1.  Você ainda pode abrir uma coleção de textos a partir da janela **Abrir** também.
 
+
 ### Organizar janelas
 
 1.  Organize as janelas em **linhas** e também em **colunas**.  
@@ -76,14 +77,13 @@ Há um novo item de menu no **menu principal**
 Lembre-se de salvar o seu layout!
 :::
 
-#####
 
 ### Janelas flutuantes
 
 -   Menu suspenso para alterar o projeto ativo  
   ![](./media/change-project-or-resource.png)
 
-
+#####
 
 ### Outras novidades/alterações
 
