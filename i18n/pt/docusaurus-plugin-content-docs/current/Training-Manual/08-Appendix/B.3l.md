@@ -6,31 +6,31 @@ title: B. Abreviações de Duas/Três Letras
 
 |                     |                    |                    |
 | ------------------- | ------------------ | ------------------ |
-| Gênesis - Gn       | Êxodo - Êx        | Levítico - Lv     |
-| Números - Nm       | Deuteronômio - Dt | Josué - Js        |
-| Juízes - Jz        | Rute - Rt         | 1 Samuel - 1Sm     |
-| 2 Samuel - 2Sm      | 1 Reis - 1Rs       | 2 Reis - 2Rs       |
-| 1 Crônicas - 1Cr    | 2 Crônicas - 2Cr   | Esdras - Ed       |
-| Neemias - Ne       | Ester - Et        | Jó - Jó            |
-| Salmos - Sl        | Provérbios - Pv   | Eclesiastes - Ec  |
-| Cantares - Ct      | Isaías - ISm       | Jeremias - Jr     |
-| Lamentações - Lm   | Ezequiel - Ez     | Daniel - Dn       |
-| Oséias - Os        | Joel - Jl         | Amós - Am         |
-| Obadias - Ob       | Jonas - Jn        | Miquéias - Mq     |
-| Naum - Na          | Habacuque - Hc    | Sofonias - Sf     |
-| Ageu - Ag          | Zacarias - Zc     | Malaquias - Ml    |
+| Gênesis - Gn (GEN) | Êxodo - Êx (EXO)  | Levítico - Lv (LEV) |
+| Números - Nm (NUM) | Deuteronômio - Dt (DEU) | Josué - Js (JOS) |
+| Juízes - Jz  (JDG)  | Rute - Rt (RUT)  | 1 Samuel - 1Sm (1SA) |
+| 2 Samuel - 2Sm (2SA) | 1 Reis - 1Rs (1KI) | 2 Reis - 2Rs (2KI) |
+| 1 Crônicas - 1Cr (1CH) | 2 Crônicas - 2Cr (2CH) | Esdras - Ed (EZR) |
+| Neemias - Ne (NEH) | Ester - Et  (EST)  | Jó - Jó  (JOB)   |
+| Salmos - Sl (PSA)  | Provérbios - Pv (PRO)   | Eclesiastes - Ec (ECC) |
+| Cantares - Ct (SNG) | Isaías - ISm (ISA)      | Jeremias - Jr (JER)    |
+| Lamentações - Lm (LAM)  | Ezequiel - Ez (EZK)    | Daniel - Dn (DAN)      |
+| Oséias - Os (HOS)       | Joel - Jl (JOL)     | Amós - Am (AMO)        |
+| Obadias - Ob (OBA)      | Jonas - Jn (JON)       | Miquéias - Mq (MIC)    |
+| Naum - Na (NAM)         | Habacuque - Hc (HAB)   | Sofonias - Sf (ZEP)    |
+| Ageu - Ag   (HAG)       | Zacarias - Zc (ZEC)    | Malaquias - Ml (MAL)   |
 
 
 ### Novo Testamento
 
 |                       |                       |                  |
 | --------------------- | --------------------- | ---------------- |
-| Mateus - Mt          | Marcos - Mc          | Lucas - Lc      |
-| João - Jo            | Atos - At            | Romanos - Rm    |
-| 1 Coríntios - 1Co     | 2 Coríntios - 2Co     | Gálatas - Gl    |
-| Efésios - Ef         | Filipenses - Fp      | Colossenses - Cl|
-| 1 Tessalonicenses - 1Ts| 2 Tessalonicenses - 2TS| 1 Timóteo - 1Ti |
-| 2 Timóteo - 2Ti       | Tito - Tt            | Filemom - Fm    |
-| Hebreus - Hb         | Tiago - Tg           | 1 Pedro - 1Pe    |
-| 2 Pedro - 2Pe         | 1 João - 1Jo          | 2 João - 2Jo     |
-| 3 João - 3Jo          | Judas - Jd           | Apocalipse - Ap |
+| Mateus - Mt (MAT)         | Marcos - Mc  (MRK)        | Lucas - Lc (LUK)     |
+| João - Jo (JHN)           | Atos - At (ACT)           | Romanos - Rm (ROM)   |
+| 1 Coríntios - 1Co (1CO)    | 2 Coríntios - 2Co (2CO)    | Gálatas - Gl (GAL)   |
+| Efésios - Ef (EPH)        | Filipenses - Fp (PHP)     | Colossenses - Cl (COL) |
+| 1 Tessalonicenses - 1Ts (1TH) | 2 Tessalonicenses - 2TS (2TH) | 1 Timóteo - 1Ti  (1TI) |
+| 2 Timóteo - 2Ti  (2TI)     | Tito - Tt  (TIT)  | Filemom - Fm (PHM)   |
+| Hebreus - Hb (HEB)        | Tiago - Tg (JAS)          | 1 Pedro - 1Pe (1PE)   |
+| 2 Pedro - 2Pe (2PE)        | 1 João - 1Jo (1JN)         | 2 João - 2Jo  (2JN)   |
+| 3 João - 3Jo  (3JN)        | Judas - Jd (JUD)          | Apocalipse - Ap (REV) |
