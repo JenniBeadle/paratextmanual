@@ -1,9 +1,6 @@
 name: Crowdin Action Upload sources
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
     inputs:
       logLevel:
