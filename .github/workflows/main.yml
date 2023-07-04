@@ -1,8 +1,7 @@
 name: Crowdin Action
 
 on:
-  push:
-    branches: [ paratextmanual / main ]
+   workflow_dispatch:
 
 jobs:
   crowdin:
