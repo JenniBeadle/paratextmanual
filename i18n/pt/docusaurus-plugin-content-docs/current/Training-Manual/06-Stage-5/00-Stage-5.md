@@ -1,16 +1,12 @@
 ---
-title: Fase 4 - Visão Geral da Visita do Consultor
+title: Estágio 5 (Estágio 3 UBS) Revisão da comunidade
 ---
 
-**Introdução**  
-A quarta fase de um projeto de tradução SIL é a visita do consultor. Você irá se reunir com o consultor, avaliar seu texto, fazer anotações e revisar seus textos e retrotraduções conforme necessário. É importante garantir que você tenha atualizado o status de sua tradução no plano do projeto.
-
-A maioria das tarefas desta fase já foi abordada nos módulos anteriores.
+**Introdução  
+A quinta etapa de um projeto de tradução da SIL (ou terceira etapa da UBS) é a revisão pela comunidade. Na revisão, você verificará a naturalidade, produzirá um relatório de progresso da equipe e revisará os termos-chave.
 
 Os seguintes módulos irão ajudá-lo nesta fase:
 
-20. [**Ferramentas de Colaboração**](20.Collaboration-tools.md)
+21\. [Relatório de progresso](21.PPR.md)  
+22\. [Relatório de termos-chave bíblicos](22.BTR.md)   
 
-Veja também os módulos nas Fases um a três. Em particular,  
-Fase 3 - 16. **BT1 - Elaborar uma Retrotradução**  
-Fase 3 - 17. **BT2 - Interlinearizar um projeto**  
