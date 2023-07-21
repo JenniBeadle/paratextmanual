@@ -8,7 +8,7 @@ slug: /
 
 ----
 
-### What's new - [Paratext 9.3](Video-summaries/00-Whats-new.md)
+### What's new - [Paratext 9.3](Training-Manual/00-Whats-new.md)
 
 ----
 
