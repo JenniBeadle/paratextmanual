@@ -8,9 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Paratext Documentation',
   tagline: 'Learning to use Scripture Translation Software',
-  url: 'https://manual.paratext.org',
-  baseUrl: '/',
-  onBrokenLinks: 'warn',
+  url: 'https://JenniBeadle.github.io/',
+  baseUrl: '/paratextmanual/',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
   favicon: 'img/Paratext_Icon-48px.ico',
