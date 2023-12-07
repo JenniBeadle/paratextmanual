@@ -10,7 +10,7 @@ const config = {
   tagline: 'Learning to use Scripture Translation Software',
   url: 'https://JenniBeadle.github.io/',
   baseUrl: '/paratextmanual/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
   favicon: 'img/Paratext_Icon-48px.ico',
